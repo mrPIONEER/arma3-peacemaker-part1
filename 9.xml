@@ -1,0 +1,721 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_00_07_Airport_igi1_0">
+<Russian>Всем быть начеку. Скорее всего боевики уже захватили аэродром, на подходе могут быть дозорные, поэтому не шумите без повода.</Russian>
+<Original>Stay alert, everyone. The militants have probably already seized the airfield,  they might have guards around the perimeter, so don’t make too much noise.</Original>
+<Chinese>所有人注意。目前, 看起来武装份子已经夺取了机场, 并在四周布满了岗哨, 所以不到万不得已, 不许开枪暴露自己</Chinese>
+<Chinesesimp>所有人小心。匪徒很可能已经占领了机场， 可能会有放哨的，大家不要轻举妄动</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_1">
+<Russian>Я бы вообще их не трогал, пусть улетают.</Russian>
+<Original>Were it up to me, I wouldn’t even touch them. Let them fly away.</Original>
+<Chinese>我不会轻易招惹他们, 只会把他们吓跑</Chinese>
+<Chinesesimp>我一般不会碰他们，放他们走</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_2">
+<Russian>Дубина! Они не улетать собрались, а помешать высадке наших транспортников!</Russian>
+<Original>Dumbass! They don’t want to fly away,  they want to disrupt the landing of our transport aircraft!</Original>
+<Chinese>蠢货! 这些家伙可不会离开这儿, 他们的存在能阻止我们的空中运输</Chinese>
+<Chinesesimp>这些叛军他们并没有离开， 他们反而留下来阻碍我们运送工人来岛上</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_3">
+<Russian>Как они смогут помешать? У нас фронтовая авиация на подходе, что они смогут сделать с автоматами?</Russian>
+<Original>How can they interfere? We have the Frontal Aviation on call,  what can they do with rifles?</Original>
+<Chinese>他们怎么阻止? 前线到处都是我们的战机, 他们的鸟枪能顶什么事儿呢?</Chinese>
+<Chinesesimp>他们怎么阻碍？我们有一线战斗航空兵正赶来， 他们用步枪怎么阻碍得了？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_4">
+<Russian>Мишутин, не быть тебе военным. Они могут сделать многое, например испортить взлетно-посадочную полосу.</Russian>
+<Original>Mishutin, you shouldn’t be in the military. Yes, they can do much,  for example, damage the runway.</Original>
+<Chinese>米舒丁, 你的军事化思维太僵化了。他们能干很多事, 比如把跑道毁了</Chinese>
+<Chinesesimp>米舒廷，难道你没参过军。他们能搞很多事， 比如破坏机场的跑道</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_5">
+<Russian>И отставить разговорчики! У нас есть приказ! А приказы, как вам известно, не обсуждаются!</Russian>
+<Original>And now, stop talking! We have an order!  And orders, as you’re well aware, are not to be discussed!</Original>
+<Chinese>别咬文嚼字了! 我们有命令, 命令意味着没有讨论的余地!</Chinese>
+<Chinesesimp>都别瞎bb了！我们收到的是命令！ 命令是不容质疑的！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_6">
+<Russian>Инструкции все помните? По взлетке не долбить! И без команды огонь не открывать! Готовы?</Russian>
+<Original>Do you remember the instructions? Do not damage the runway!  Do not open fire without an order! Got it?</Original>
+<Chinese>能记起所有的作战规定吗? 比如, 不许破坏跑道, 没有命令不许开火, 准备好了吗?</Chinese>
+<Chinesesimp>记得交战法则吗？别做出头鸟！ 没有命令不要开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_7">
+<Russian>Так точно!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是, 长官</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_8">
+<Russian>Тогда за дело!</Russian>
+<Original>Then for the cause!</Original>
+<Chinese>开干!</Chinese>
+<Chinesesimp>为了真理！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi1_9">
+<Russian>Броня! Стой! Дальше в коробочке не поедем, опасно. Все на выход!</Russian>
+<Original>Armor! Stop! We’re not riding further with you, it’s too dangerous. Everybody disembark!</Original>
+<Chinese>司机! 停下! 再待车里往前走就是找死, 所有人下车!</Chinese>
+<Chinesesimp>装甲车停车！前面太危险了，乘车人员下车！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi4_0">
+<Russian>Иногда нам приходится очень дорого платить за победы.</Russian>
+<Original>Sometimes we have to pay very dearly for victories.</Original>
+<Chinese>有时候, 胜利需要巨大的代价</Chinese>
+<Chinesesimp>有时我们必须为胜利付出高昂的代价</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi4_1">
+<Russian>Всего пару недель назад мы с Пузанцевым кадрили баб у открытой дискотеки в нашем городе,а теперь...</Russian>
+<Original>Just a couple of weeks ago, Puzantsev and I were checking out women  at an open disco in our city, and now...</Original>
+<Chinese>就在几周前, 普赞捷夫和我还在露天烧烤和蹦迪, 但现在...</Chinese>
+<Chinesesimp>几周前，博塔兹夫和我在露天舞会上遇到了那个女孩，现在...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi4_2">
+<Russian>За несколько дней я потерял всех своих друзей.</Russian>
+<Original>In a few days, I lost all my friends.</Original>
+<Chinese>就那么几天, 我们的战友们全部离我而去</Chinese>
+<Chinesesimp>几天来我失去了我所有的朋友</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_0">
+<Russian>Итак джентельмены у нас есть работа.</Russian>
+<Original>So gentlemen, we have a job.</Original>
+<Chinese>先生们, 我们有活儿干了</Chinese>
+<Chinesesimp>兄弟们我们就一个任务</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_1">
+<Russian>Вчера мы потеряли связь с Эвероном.</Russian>
+<Original>Yesterday, we lost contact with Everon.</Original>
+<Chinese>昨天, 我们和 Everon 失去了联系</Chinese>
+<Chinesesimp>昨天我们与Everon岛失去了联系</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_2">
+<Russian>Наша задача выяснить что там произошло.</Russian>
+<Original>Our task is to find out what happened there.</Original>
+<Chinese>我们的任务就是弄清楚事情的原委</Chinese>
+<Chinesesimp>我们的任务是查明那儿发生了什么</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_3">
+<Russian>Возможно эти коммуняки снова заварили кашу. Мы должны помочь повстанцам по возможности.</Russian>
+<Original>Perhaps these commies are brewing porridge again.  We must help the rebels, whenever possible</Original>
+<Chinese>也许赤色份子又在蠢蠢欲动, 我们必须尽一切可能支援叛军</Chinese>
+<Chinesesimp>可能那些人又搞砸了。 我们得尽力帮助反抗军</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_4">
+<Russian>Миссия разведовательная. Наши друзья должны встретить нас на эродроме.</Russian>
+<Original>Intelligence-gathering mission.  Our friends should meet us at the airport.</Original>
+<Chinese>这是个侦察任务, 我们的朋友将会在机场与我们碰面</Chinese>
+<Chinesesimp>情报收集任务。 跟我们的人在机场见面</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_5">
+<Russian>Все делаем максимально тихо!</Russian>
+<Original>We’ll do everything as quietly as possible!</Original>
+<Chinese>我们尽力低调行事</Chinese>
+<Chinesesimp>保持低调</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_6">
+<Russian>Всем все ясно?</Russian>
+<Original>Is everyone clear?</Original>
+<Chinese>都听明白了吗?</Chinese>
+<Chinesesimp>都清楚了吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_7">
+<Russian>Да ,сэр!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_8">
+<Russian>Хорошо.</Russian>
+<Original>Good</Original>
+<Chinese>好!</Chinese>
+<Chinesesimp>很好</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_9">
+<Russian>Сэр, мы подлетаем к объекту.</Russian>
+<Original>Sir, we’re approaching the target</Original>
+<Chinese>长官, 我们正飞向任务地点</Chinese>
+<Chinesesimp>长官，我们飞向目标区</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_10">
+<Russian>Джонсон, вырубай магнитофон!</Russian>
+<Original>Johnson, switch off the tape recorder!</Original>
+<Chinese>强森, 把设备关了!</Chinese>
+<Chinesesimp>约翰逊，切收音机！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_ig3_11">
+<Russian>Приготовьтесь ребята! И храни Бог пехоту!</Russian>
+<Original>Get ready guys! And God save the infantry!</Original>
+<Chinese>大家做好准备, 愿上帝保佑咱们步兵!</Chinese>
+<Chinesesimp>作好准备！上帝保佑步兵！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_1">
+<Russian>Сэр, я вижу каких-то людей на аэродроме, похоже это русские. Что мне делать?</Russian>
+<Original>Sir, I see some people at the airport,  it looks like it's the Russians. What should I do?</Original>
+<Chinese>长官, 我看见机场有地面活动, 像是毛子, 我们该怎么办?</Chinese>
+<Chinesesimp>长官，我看到机场上有些人， 看上去像是毛子，怎么办？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_2">
+<Russian>Садитесь.</Russian>
+<Original>Land.</Original>
+<Chinese>坐下</Chinese>
+<Chinesesimp>淡定</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_3">
+<Russian>Всем приготовиться к бою. Покажем этим коммунякам как нужно воевать.</Russian>
+<Original>Everyone, prepare for battle.  Let's show these commies how to fight.</Original>
+<Chinese>所有人准备战斗, 让他们见识下我们的厉害</Chinese>
+<Chinesesimp>所有人准备战斗。 让他们看看谁是爷</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_4">
+<Russian>Но сэр, я думал что у нас мирное соглашение с руссиким. Начнется же война.</Russian>
+<Original>But sir, I thought that we had a peaceful agreement with the Russians.  The war will begin.</Original>
+<Chinese>可是长官, 我们早和毛子签了和平条约, 我们这么做那就是正式宣战了啊</Chinese>
+<Chinesesimp>但是那样会不会违反跟苏联的和平协议啊？ 为引发战争的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_5">
+<Russian>Думать не твоя забота сынок, здесь этим занимаюсь Я! Ты должен выполнять приказы! Это ясно?</Russian>
+<Original>To think is my job here, son, not yours!  You must follow orders! Is that understood?</Original>
+<Chinese>那不是你该管的事, 你就只管执行命令扣扳机, 明白了?</Chinese>
+<Chinesesimp>急个毛线，这不是你要考虑的问题，我就要打！ 你必须服从命令，清楚啵？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_6">
+<Russian>Да сэр!</Russian>
+<Original>Yes, sir!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi5_7">
+<Russian>Вот и хорошо.</Russian>
+<Original>That's good.</Original>
+<Chinese>很好</Chinese>
+<Chinesesimp>很好</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_1">
+<Russian>Димка! Похоже что наши летят!</Russian>
+<Original>Dimka! It looks like it’s our guys!</Original>
+<Chinese>迪米卡! 那是咱们的飞机!</Chinese>
+<Chinesesimp>蒂姆卡！那好像是我们的飞行中队！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_2">
+<Russian>Ну наконец то! Дождались!</Russian>
+<Original>Finally, our waiting is over!</Original>
+<Chinese>终于! 咱们等到了!</Chinese>
+<Chinesesimp>他们终于来了！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_3">
+<Russian>Черт! Да это же не наши вертолеты! Это американцы!</Russian>
+<Original>Damn! Those are not our helicopters! It's the Americans!</Original>
+<Chinese>我日! 那才不是我们的直升机呢, 是美国佬的!</Chinese>
+<Chinesesimp>卧槽！那不是我们的直升机！是美国佬的！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_4">
+<Russian>Твою мать, только этого мне еще и не хватало!</Russian>
+<Original>Fucking hell, I so did not need this!</Original>
+<Chinese>俺的娘啊! 就这次看走眼了!</Chinese>
+<Chinesesimp>操他妈的，还没闹够！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_5">
+<Russian>Первыми огонь не открываем!</Russian>
+<Original>We do not open fire first!</Original>
+<Chinese>咱们先不放第一枪!</Chinese>
+<Chinesesimp>不要率先开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_6">
+<Russian>Всем быть начеку!</Russian>
+<Original>Everyone stay alert!</Original>
+<Chinese>所有人做好准备!</Chinese>
+<Chinesesimp>所有人警戒！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_7">
+<Russian>Черт, они открыли огонь.</Russian>
+<Original>Damn, they opened fire!</Original>
+<Chinese>靠! 他们开火了</Chinese>
+<Chinesesimp>我去，他们开火了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_igi6_8">
+<Russian>ОГОНЬ!</Russian>
+<Original>FIRE!</Original>
+<Chinese>打!</Chinese>
+<Chinesesimp>开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_0">
+<Russian>Рядовой Астахов!</Russian>
+<Original>Private Astakhov!</Original>
+<Chinese>列兵阿斯塔柯夫!</Chinese>
+<Chinesesimp>列兵阿斯塔霍夫</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_1">
+<Russian>Я!</Russian>
+<Original>Here!</Original>
+<Chinese>到!</Chinese>
+<Chinesesimp>到！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_2">
+<Russian>Выйти из строя!</Russian>
+<Original>Step forward!</Original>
+<Chinese>出列!</Chinese>
+<Chinesesimp>出列！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_3">
+<Russian>Есть!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_4">
+<Russian>За проявленное мужество и героизм! От лица коммандования объявляю Вам благодарность!</Russian>
+<Original>For the courage and heroism shown,  I hereby thank you on behalf of the entire command!</Original>
+<Chinese>鉴于你在战斗中表现英勇, 指挥出众, 我对你表示衷心的感谢</Chinese>
+<Chinesesimp>我代表上级对你的英勇行为表示感谢！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_5">
+<Russian>А так же, рядовому Астахову, присвоить звание младший сержант, досрочно!</Russian>
+<Original>And with it, I promote Private Astakhov to rank of Junior Sergeant, with immediate effect!</Original>
+<Chinese>另外, 我正式宣布阿斯塔柯夫已晋升为下士军衔, 破天荒啊</Chinese>
+<Chinesesimp>经讨论，现提前晋升你为一期中士！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_6">
+<Russian>Служу Советскому Союзу!</Russian>
+<Original>Serving the Soviet Union!</Original>
+<Chinese>为苏联服务!</Chinese>
+<Chinesesimp>为苏联服务！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_7">
+<Russian>Орлы! Понимаю как вам сейчас тяжело!</Russian>
+<Original>Boys! I understand how difficult it is for you right now!</Original>
+<Chinese>"老鹰"! 我明白你现在非常艰难!</Chinese>
+<Chinesesimp>同志们！我理解现在处境对你们很艰难！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_8">
+<Russian>Но расслабляться сейчас мы не имеем права!</Russian>
+<Original>But now, we do not have the right to relax!</Original>
+<Chinese>但现在我们没有权利放松警惕!</Chinese>
+<Chinesesimp>但是我们没有理由放松警惕！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_9">
+<Russian>Неизвестно, сколько наших частей осталось на острове в боеспособном состоянии!</Russian>
+<Original>We do not yet know, how many of our units on this island are still combat effective!</Original>
+<Chinese>我们现在不知道岛上剩余的苏联军队还残存有多少战力!</Chinese>
+<Chinesesimp>现在还不知道我们在岛上有多少人已经作好了战斗准备！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_10">
+<Russian>Я отправил на Кольгуев вертолет за подмогой, Но пока ее нет мы должны снова взять ситуацию под контроль.</Russian>
+<Original>I sent a helicopter to Kolguyev for help,   but while it's not here, we have to take the situation under control again.</Original>
+<Chinese>所以我派了一架直升机去 Kolgujev 岛求援, 但是在援军到达之前, 我们仍然得防止局势进一步恶化</Chinese>
+<Chinesesimp>我派了架直升机去Kolguev岛寻求援助， 但在这之前，我们必须重新控制局势</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_11">
+<Russian>Я вызжаю для выяснения обстановки во главе колонны на юг острова.</Russian>
+<Original>I’m leaving with a convoy to the southern part of the island, in order to ascertain the state of our units.</Original>
+<Chinese>我现在得去和岛屿南方的车队说明当前的战况</Chinese>
+<Chinesesimp>我要去检查岛屿南边的情况</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int1_12">
+<Russian>Младший сержант Астахов, возьмите 6 человек и выдвигайтесь на аэродром для встречи подкрепления с Кольгуева.</Russian>
+<Original>Junior Sergeant Astakhov, take 6 people with you   and move to the airport to meet our reinforcements from Kolguyev.</Original>
+<Chinese>阿斯塔柯夫下士, 带上 6 名战士前往机场, 并与从 Kolgujev 出发的援军接头</Chinese>
+<Chinesesimp>一期中士阿斯塔霍夫，带6个人去机场， 跟Kolguyev岛赶来的支援部队会面</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_0">
+<Russian>Джентельмены. Мы потеряли связь с Эвероном. Уже сутки наши люди не выходят на связь.</Russian>
+<Original>Gentlemen. We have lost contact with Everon.  Our people have not communicated for over 24 hours.</Original>
+<Chinese>先生们, 我们和 Everon 岛失去了联系, 岛上的友军已经失联 24 小时了</Chinese>
+<Chinesesimp>先生们，我们与Everon岛失去了联系。 在过去的24小时内，没有任何通讯</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_1">
+<Russian>Ваша задача выяснить что там происходит.</Russian>
+<Original>Your task is to find out what is happening there.</Original>
+<Chinese>你们的任务是搞清楚事情的原委</Chinese>
+<Chinesesimp>你们的任务是查明那儿到底发生了啥</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_2">
+<Russian>Дополнительные инструкции вы получите в дороге!</Russian>
+<Original>You will receive additional instructions on the way!</Original>
+<Chinese>路上会告诉你们更多的任务信息</Chinese>
+<Chinesesimp>详细情况在路上告知你们</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_3">
+<Russian>Удачи!</Russian>
+<Original>Good luck!</Original>
+<Chinese>祝各位好运!</Chinese>
+<Chinesesimp>祝好运！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_4">
+<Russian>Джим, ты проинструктировал командиров?</Russian>
+<Original>Jim, did you instruct the commanders?</Original>
+<Chinese>吉姆, 你跟指挥官吩咐了么?</Chinese>
+<Chinesesimp>吉姆，你跟指挥官讲清楚了吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_5">
+<Russian>Да, сэр.</Russian>
+<Original>Yes, sir.</Original>
+<Chinese>是, 长官</Chinese>
+<Chinesesimp>是的，长官</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_6">
+<Russian>Хорошо, нам необходимо вышибить оттуда русских. Любой ценой.</Russian>
+<Original>Well, we need to kick out the Russians. At any cost.</Original>
+<Chinese>所以, 我们得把毛子赶出去, 不惜一切代价</Chinese>
+<Chinesesimp>很好，我们得赶走毛子，  不惜一切代价</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_7">
+<Russian>Они сделают все что я им сказал.</Russian>
+<Original>They will do everything that I told them.</Original>
+<Chinese>他们会按我的意思办事的</Chinese>
+<Chinesesimp>他们会按我说的做的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_int2_8">
+<Russian>Отлично.</Russian>
+<Original>Excellent.</Original>
+<Chinese>很好</Chinese>
+<Chinesesimp>很好</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_1">
+<Russian>Ну и кашу же ты заварил, сынок</Russian>
+<Original>Well, you got us into some deep shit, sonny.</Original>
+<Chinese>孩子, 这回你干得不错</Chinese>
+<Chinesesimp>你搞砸了，小子</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_2">
+<Russian>Товарищ генерал, они первыми открыли огонь. У нас не было выбора!</Russian>
+<Original>Comrade General, they were the first to open fire. We had no choice!</Original>
+<Chinese>将军同志, 他们先朝我方开火, 我们只能打回去了!</Chinese>
+<Chinesesimp>将军同志，他们率先开的火。 我们别无选择！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_3">
+<Russian>Нда, переколотили взвод морской пехоты США.</Russian>
+<Original>Yeah, you annihilated an entire US Marine Corps platoon.</Original>
+<Chinese>没错, 美国海军陆战队的步兵排正在重新整装</Chinese>
+<Chinesesimp>美国海军陆战队已经整装待发了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_4">
+<Russian>Ладно сынок. Что сделано, то сделано. Молодцы. Отправляйся в Мортон.</Russian>
+<Original>All right, son. What's done is done.  Well done. Go to Morton.</Original>
+<Chinese>好了, 孩子, 过去的事情就让他过去吧, 干得好。现在去趟 Morton</Chinese>
+<Chinesesimp>算了，木已成舟。 你去Morton镇</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_5">
+<Russian>Ну что капитан, как думаешь, простят нам это американцы?</Russian>
+<Original>Well, what do you think, Captain? Will the Americans forgive us?</Original>
+<Chinese>那, 长官, 您觉得美国人会善罢甘休么?</Chinese>
+<Chinesesimp>你觉得上尉会原谅我们吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_6">
+<Russian>Скорее всего они этого только и ждали.</Russian>
+<Original>Most likely, they just waited for this.</Original>
+<Chinese>美国人更像是在等待</Chinese>
+<Chinesesimp>感觉这是美国佬故意策划的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_7">
+<Russian>Послали мальчиков на убой, чтобы создать формальный повод для конфликта.</Russian>
+<Original>They sent the boys to the slaughter to create a formal reason for the conflict.</Original>
+<Chinese>他们把士兵派过来屠杀人民, 应该说是正式宣战了</Chinese>
+<Chinesesimp>他们送一些人来送死，然后就有了正当的入侵理由</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_8">
+<Russian>Через сколько по твоему нам их ждать?</Russian>
+<Original>How soon do you reckon they’ll be here?</Original>
+<Chinese>你觉得我们还能忍耐多久?</Chinese>
+<Chinesesimp>你觉得他们过多久会开始入侵？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_out0_9">
+<Russian>Думаю через пару дней они уже нарисуются.</Russian>
+<Original>I think it’ll become clear in a couple of days.</Original>
+<Chinese>我想他们用不了多久就会撤退的</Chinese>
+<Chinesesimp>最多几天吧</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit1">
+<Russian>ЭВЕРОН. КВАДРАТ Д1.</Russian>
+<Original>EVERON. SQUARE D1.</Original>
+<Chinese>Everon, 坐标方格 D1</Chinese>
+<Chinesesimp>EVERON岛 坐标D1</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit2">
+<Russian>ТЕМ ВРЕМЕНЕМ 50 &lt;br/&gt;МИЛЬ ЗАПАДНЕЕ ЭВЕРОНА</Russian>
+<Original>AT THE SAME TIME, 50  MILES WEST OF EVERON</Original>
+<Chinese>此时 Everon &lt;br/&gt;以西 50 英里处</Chinese>
+<Chinesesimp>此时的Everon岛西部</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit3">
+<Russian>СПЕЦОТРЯД БРАВО-5.&lt;br/&gt;МОРСКАЯ ПЕХОТА США.</Russian>
+<Original>SPECIAL GROUP, CALLSIGN "BRAVO-5". US MARINE CORPS.</Original>
+<Chinese>美国海军陆战队&lt;br/&gt;特战小队, 代号"Bravo-5".</Chinese>
+<Chinesesimp>特种部队Bravo-5  美军</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit4">
+<Russian>МЕУКС. СТАВКА КОМАНДОВАНИЯ&lt;br/&gt;МИРОТВОРЧЕСКИХ СИЛ НА ЭВЕРОНЕ</Russian>
+<Original>MEAUX. GENERAL HEADQUARTERS OF PEACEKEEPING FORCES ON EVERON</Original>
+<Chinese>Meaux. Everon 维和部队&lt;br/&gt;总指挥中心</Chinese>
+<Chinesesimp>MEUX市 EVERON岛维护部队指挥中心</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit5">
+<Russian>СПУСТЯ 5 ЧАСОВ ПОСЛЕ&lt;br/&gt;АТАКИ НА МОНТИГНАК</Russian>
+<Original>5 HOURS LATER ATTACK ON MONTIGNAC</Original>
+<Chinese>Montignac 遭袭&lt;br/&gt;5 小时后</Chinese>
+<Chinesesimp>MONTIGNAC市遇袭5小时后</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit6">
+<Russian>ТЕМ ВРЕМЕНЕМ НА МАЛДЕНЕ</Russian>
+<Original>AT THE SAME TIME ON MALDEN</Original>
+<Chinese>相同时刻, Malden 岛</Chinese>
+<Chinesesimp>此时此刻MALDEN岛</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit7">
+<Russian>НЕКОТОРОЕ ВРЕМЯ СПУСТЯ</Russian>
+<Original>SOME TIME LATER</Original>
+<Chinese>过了一会儿</Chinese>
+<Chinesesimp>过了一会儿</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_tit8">
+<Russian>МЕУКС. СТАВКА КОМАНДОВАНИЯ&lt;br/&gt;МИРОТВОРЧЕСКИХ СИЛ НА ЭВЕРОНЕ</Russian>
+<Original>MEUX. GENERAL HEADQUARTERS OF PEACEKEEPING FORCES ON EVERON</Original>
+<Chinese>Meaux. Everon 维和部队&lt;br/&gt;总指挥中心</Chinese>
+<Chinesesimp>MEUX市 EVERON岛维护部队指挥中心</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Brief_1">
+<Russian>План</Russian>
+<Original>Plan</Original>
+<Chinese>计划</Chinese>
+<Chinesesimp>计划</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Brief_2">
+<Russian>Взятие Аэропорта под наш контроль - важнейшая задача в сложившейся ситуации. Подкрепление уже вылетело с большой земли и мы обязаны подготовить к его приему взлетные полосы и обезопасить их.</Russian>
+<Original>To seize the airfield is the most important task in our situation. Reinforcements have left the mainland and we have to prepare and secure the landing strip for their arrival.</Original>
+<Chinese>就目前局势而言, 夺取机场应成为咱们的首要目标。援军已经从本土派来, 但我们必须要做好与他们会合的准备, 并清空跑道</Chinese>
+<Chinesesimp>控制机场是目前的头等大事。支援部队正在赶来，我们必须确保机场安全。</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Diary_1">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战地日记</Chinese>
+<Chinesesimp>日记</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Diary_2">
+<Russian>Как мне все надоело. Я чертовски устал от всей этого. Как же мне хочется домой. Сегодня пришлось написать матери Пузанцева от имени Федьки. Наверное я трус, не могу сказать ей о смерти сына. Но когда-то придётся это сделать и я боюсь этого момента больше всего.</Russian>
+<Original>I am so sick of everything. I am extremely tired of all of this. I really want to get home. Today I had to write a letter to Puzantsev’s mother, and signed it so it looks like it was from him. I am probably a coward, but I just can't tell her about the death of her son. But I will have to do it eventually and that's what really scares me.</Original>
+<Chinese>一切都糟透了, 我真的好累, 好想回家。今天我得以普赞捷夫的名义给她母亲写信。我大概是个胆小鬼, 但我不能告诉她她儿子已经阵亡的消息。然而, 最终我还得这么做, (说谎这件事)真令人害怕</Chinese>
+<Chinesesimp>这一切都太操蛋了。我现在累得跟狗一样，就想着马上回家去。我今天得代博塔兹夫给他的母亲写封信，而且还得假装他的笔迹，让他母亲觉得他还活着。我可能是个怂货，但我不敢告诉她她儿子已经阵亡了。可是我最终还是得告诉她事实，真不知道该怎么说</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_1_1">
+<Russian>Установить контроль.</Russian>
+<Original>Seize the airfield.</Original>
+<Chinese>武力控制</Chinese>
+<Chinesesimp>完成控制</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_1_2">
+<Russian>Установить контроль над аэродромом.</Russian>
+<Original>Gain control over the airstrip.</Original>
+<Chinese>获取地面机场的控制权</Chinese>
+<Chinesesimp>控制机场</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_2_1">
+<Russian>Подготовить аэродром.</Russian>
+<Original>Prepare the airstrip.</Original>
+<Chinese>准备迎接援军</Chinese>
+<Chinesesimp>清空跑道</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_2_2">
+<Russian>Подготовить аэродром для приема подкреплений с "Большой Земли".</Russian>
+<Original>Prepare the airstrip for reinforcements arriving from the Motherland.</Original>
+<Chinese>准备与来自"祖国大地"的援军会合</Chinese>
+<Chinesesimp>清空机场跑道，准备接收从“大地”赶来的援军</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_3_1">
+<Russian>Удержать противника. </Russian>
+<Original>Repel the enemy.</Original>
+<Chinese>击退敌军</Chinese>
+<Chinesesimp>拖住敌人</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_3_2">
+<Russian>Удержать противника до прихода подкрепления.</Russian>
+<Original>Repel the enemy before reinforcements arrive.</Original>
+<Chinese>坚守机场直到援军到来</Chinese>
+<Chinesesimp>拖住敌人直到援军赶到</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_4_1">
+<Russian>Зачистить район аэропорта.</Russian>
+<Original>Clear the area around the airstrip.</Original>
+<Chinese>肃清机场区域</Chinese>
+<Chinesesimp>清空机场区域</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Tasks_4_2">
+<Russian>Зачистить аэродром от вражеских солдат.</Russian>
+<Original>Clear the airfield of enemy soldiers.</Original>
+<Chinese>消灭机场附近的所有敌人</Chinese>
+<Chinesesimp>清除机场上的敌军</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_07_Airport_Marker_1">
+<Russian>АЭРОДРОМ</Russian>
+<Original>AIRFIELD</Original>
+<Chinese>夺占机场</Chinese>
+<Chinesesimp>机场</Chinesesimp>
+</Key>
+
+<Key ID="STR_07_titru1">
+<Russian>Над ремейком первой части работали:</Russian>
+<Chinese>开发者:</Chinese>
+<Original>Developers:</Original>
+<Chinesesimp>开发人员：</Chinesesimp>
+</Key>
+
+<Key ID="STR_07_titru2">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Shoot3D&lt;/t&gt; &lt;br/&gt;перенос миссий из ОФП в А3 CUP</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;Shoot3D&lt;/t&gt; &lt;br/&gt;完成了任务移植工作</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Shoot3D&lt;/t&gt; &lt;br/&gt;Transfer of missions from the OFP to the A3 CUP</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;Shoot3D&lt;/t&gt;  从闪点行动导入武装突袭3 CUP模组</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru3">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt; &lt;br/&gt;замена модов CUP - RHS&lt;br/&gt;создание декораций.</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt; &lt;br/&gt;替换了模组&lt;br/&gt;建立了场景</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt; &lt;br/&gt;replacement of mods CUP - RHS&lt;br/&gt;creation of scenery</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt;  替换CUP模组为RHS模组</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru4">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt; &lt;br/&gt;создание декораций&lt;br/&gt;файлы перевода&lt;br/&gt;работа над миссиями</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt; &lt;br/&gt;c建立了场景&lt;br/&gt;翻译了文件&lt;br/&gt;制作了任务</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt; &lt;br/&gt;creation of scenery&lt;br/&gt;translation files&lt;br/&gt;missionsmaker</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt;  场景构建 翻译 任务制作</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru5">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Podonak&lt;/t&gt; &lt;br/&gt;файлы перевода&lt;br/&gt;работа над миссиями</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;Podonak&lt;/t&gt; &lt;br/&gt;翻译了文件&lt;br/&gt;制作了任务</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Podonak&lt;/t&gt; &lt;br/&gt;translation files&lt;br/&gt;missionsmaker</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;Podonak&lt;/t&gt;  翻译 任务制作</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru6">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;kosmos&lt;/t&gt; &lt;br/&gt;файлы перевода</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;kosmos&lt;/t&gt; &lt;br/&gt;翻译了文件</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;kosmos&lt;/t&gt; &lt;br/&gt;translation files</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;kosmos&lt;/t&gt;  翻译</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru7">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Colonist&lt;/t&gt; &lt;br/&gt;модель подковы</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;Colonist&lt;/t&gt; &lt;br/&gt;创造了"马蹄"模型</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Colonist&lt;/t&gt; &lt;br/&gt;horseshoe model</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;Colonist&lt;/t&gt;  马蹄铁模型制作</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru8">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt; &lt;br/&gt;куратор проекта&lt;br/&gt;основной разработчик.</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt; &lt;br/&gt;项目策划&lt;br/&gt;核心开发者</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt; &lt;br/&gt;curator of the project&lt;br/&gt;main developer</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt;  项目创始人 主开发人</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru9">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Тестирование:&lt;/t&gt; &lt;br/&gt;Vergessenen&lt;br/&gt;[IMB]rezakpower&lt;br/&gt;[IMB]BouH&lt;br/&gt;[IMB]Sovusha&lt;br/&gt;[IMB]Soviet</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;战役测试人员:&lt;/t&gt; &lt;br/&gt;Vergessenen&lt;br/&gt;[IMB]rezakpower&lt;br/&gt;[IMB]BouH&lt;br/&gt;[IMB]Sovusha&lt;br/&gt;[IMB]Soviet</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Testing:&lt;/t&gt; &lt;br/&gt;Vergessenen&lt;br/&gt;[IMB]rezakpower&lt;br/&gt;[IMB]BouH&lt;br/&gt;[IMB]Sovusha&lt;br/&gt;[IMB]Soviet</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;Testing:&lt;/t&gt;  Vergessenen [IMB]rezakpower [IMB]BouH [IMB]Sovusha [IMB]Soviet</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru10">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Роли озвучили:&lt;/t&gt; &lt;br/&gt;YTV&lt;br/&gt;The Shermanator</Russian>
+<Chinese>&lt;t font='PuristaBold' size='1.6'&gt;人物配音:&lt;/t&gt; &lt;br/&gt;YTV&lt;br/&gt;The Shermanator</Chinese>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Roles voiced:&lt;/t&gt; &lt;br/&gt;YTV&lt;br/&gt;The Shermanator</Original>
+<Chinesesimp>&lt;t font='PuristaBold' size='1.6'&gt;配音：&lt;/t&gt;  YTV The Shermanator</Chinesesimp>
+</Key>
+<Key ID="STR_07_titru11">
+<Russian>&lt;t size='2'&gt;Продолжение следует...&lt;/t&gt;</Russian>
+<Chinese>&lt;t size='2'&gt;未完待续
+...&lt;/t&gt;</Chinese>
+<Original>&lt;t size='2'&gt;To be continued
+...&lt;/t&gt;</Original>
+<Chinesesimp>&lt;t size='2'&gt;未完待续...&lt;/t&gt;</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

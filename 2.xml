@@ -1,0 +1,345 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_01_intro">
+<Russian>МИРОТВОРЦЫ</Russian>
+<Original>PEACEMAKERS</Original>
+<Chinese>和平缔造者</Chinese>
+<Chinesesimp>维和部队</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say1">
+<Russian>СОВЕТСКИЙ СОЮЗ. КОЛЬГУЕВ.</Russian>
+<Original>SOVIET UNION. KOLGUJEV.</Original>
+<Chinese>苏联, Kolgujev</Chinese>
+<Chinesesimp>苏联 KOLGUJEV岛</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say2">
+<Russian>24 ЧАСА СПУСТЯ.</Russian>
+<Original>24 HOURS LATER.</Original>
+<Chinese>24 小时后</Chinese>
+<Chinesesimp>24小时后</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say3">
+<Russian>Губин у телефона.</Russian>
+<Original>Gubin speaking.</Original>
+<Chinese>我是古宾</Chinese>
+<Chinesesimp>我是古巴</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say4">
+<Russian>Здравия желаю, товарищ главком.</Russian>
+<Original>Good morning, Comrade President.</Original>
+<Chinese>早安, 元帅同志</Chinese>
+<Chinesesimp>早，总统先生</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say5">
+<Russian>Да, слышал.</Russian>
+<Original>Yes, I heard.</Original>
+<Chinese>是的, 我听到了</Chinese>
+<Chinesesimp>是的我听说了</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say6">
+<Russian>Да, я понимаю.</Russian>
+<Original>Yes, I understand.</Original>
+<Chinese>是的, 我明白</Chinese>
+<Chinesesimp>好的，我了解</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say7">
+<Russian>Да, конечно есть. Полностью укомплектованы.</Russian>
+<Original>Yes, we do have them. Fully equipped.</Original>
+<Chinese>是的, 部队已经全部整装</Chinese>
+<Chinesesimp>是的，我们有。全副武装</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say8">
+<Russian>С этим проблем не будет, товарищ главнокомандующий.</Russian>
+<Original>There shouldn’t be any problem with that, Comrade Commander-in-Chief.</Original>
+<Chinese>不会有任何问题的, 元帅同志</Chinese>
+<Chinesesimp>不会有任何问题的，总统先生</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say9">
+<Russian>Так точно! Разрешите выполнять?</Russian>
+<Original>Yes, Sir! Am I dissmissed?</Original>
+<Chinese>是, 长官! 可以行动吗?</Chinese>
+<Chinesesimp>遵命！还有事吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say10">
+<Russian>Спасибо, Михаил Сергеевич.</Russian>
+<Original>Thank you, Mikhail Sergeevich</Original>
+<Chinese>谢谢, 米哈伊尔·谢尔盖耶维奇</Chinese>
+<Chinesesimp>谢了，米哈伊尔 谢尔盖耶维奇</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say11">
+<Russian>Так, началось.</Russian>
+<Original>So, it has begun.</Original>
+<Chinese>这一天到底是来了</Chinese>
+<Chinesesimp>开始了</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say12">
+<Russian>Николай Дмитриевич! Срочное совещание в 5:00!</Russian>
+<Original>Nikolay Dmitrievich! Emergency meeting at 05:00!</Original>
+<Chinese>尼古莱·迪米特里耶维奇! 请在清晨 5 点召开紧急会议!</Chinese>
+<Chinesesimp>尼古拉 德米特里耶维奇！5点开紧急会议！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say13">
+<Russian>5 ЧАСОВ РАНЕЕ.</Russian>
+<Original>5 HOURS EARLIER.</Original>
+<Chinese>5 小时前</Chinese>
+<Chinesesimp>5小时前</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say14">
+<Russian>УЧЕБНАЯ ЧАСТЬ 36982.</Russian>
+<Original>MILITARY SCHOOL 36982.</Original>
+<Chinese>36982 训练基地</Chinese>
+<Chinesesimp>36982军校</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say15">
+<Russian>Димон, давай над комбатом пошутим?</Russian>
+<Original>Dimon, wanna pull a prank on our colonel?</Original>
+<Chinese>迪蒙, 咱们耍耍我们的指挥官怎么样?</Chinese>
+<Chinesesimp>戴蒙，要不咱耍耍我们上校？</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say16">
+<Russian>Нет, Пузо, хватит, над деканом мы уже пошутили.</Russian>
+<Original>No, Puzo, enough of that, we already pulled a prank on our commander.</Original>
+<Chinese>够了, 普佐, 我们之前已经让他吃过苦头了</Chinese>
+<Chinesesimp>滚，我们已经耍了主任了</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say17">
+<Russian>Отставить разговорчики! Отжимаемся! Раз! Два!</Russian>
+<Original>Stop talking! Continue your push ups! One! Two!</Original>
+<Chinese>不许交头接耳! 继续练你们的俯卧撑, 一! 二!</Chinese>
+<Chinesesimp>闭嘴！做俯卧撑！1！2！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say18">
+<Russian>ТАНКОДРОМ САМУШКИНО. ПЛАНОВЫЕ УЧЕНИЯ ПЕРВОГО ТАНКОВОГО БАТАЛЬОНА.</Russian>
+<Original>TANK SCHOOL SAMUSHKINO. 1st TANK BATTALION MANEUVERS .</Original>
+<Chinese>萨姆什基诺坦克训练场, 按计划进行的首次坦克训练</Chinese>
+<Chinesesimp>SAMUSHKINO坦克学校。坦克的驾驶与机动</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say19">
+<Russian>Пошел!</Russian>
+<Original>Go!</Original>
+<Chinese>走!</Chinese>
+<Chinesesimp>走！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say20">
+<Russian>Гидравлика в норме!</Russian>
+<Original>Hydraulics are fully functional!</Original>
+<Chinese>液压正常!</Chinese>
+<Chinesesimp>液压系统工作正常！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say21">
+<Russian>Включаю вторую передачу!</Russian>
+<Original>Switching to second gear!</Original>
+<Chinese>换二档!</Chinese>
+<Chinesesimp>挂二挡</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say22">
+<Russian>Включаю третью передачу!</Russian>
+<Original>Switching to third gear!</Original>
+<Chinese>换三档!</Chinese>
+<Chinesesimp>挂三挡</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say23">
+<Russian>Передачи закончилиcь! Включаю 3х!</Russian>
+<Original>Out of gears! Switching to 3X!</Original>
+<Chinese>档位不匹配! 换到 3X 档!</Chinese>
+<Chinesesimp>到顶了，挂3X挡！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say24">
+<Russian>Вот баран, это задний ход...</Russian>
+<Original>You idiot, that's the reverse gear...</Original>
+<Chinese>你们这群呆子, 那是倒挡...</Chinese>
+<Chinesesimp>你个傻逼那是倒挡...</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say25">
+<Russian>Черт! Три идиота на один танк это слишком много!</Russian>
+<Original>Damn! Three idiots for one tank is a bit too much!</Original>
+<Chinese>混蛋! 一辆坦克压根装不下你们三个二货!</Chinese>
+<Chinesesimp>格老子啊，三个傻逼欢乐多！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say26">
+<Russian>СПУСТЯ 30 МИНУТ ПОСЛЕ СОВЕЩАНИЯ.</Russian>
+<Original>30 MINUTES AFTER THE MEETING.</Original>
+<Chinese>会议结束半小时后</Chinese>
+<Chinesesimp>开会后</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say27">
+<Russian>Ну Андрюша, все подробности ты уже знаешь. Завтра вылетаем на Эверон.</Russian>
+<Original>So Andryusha, you already know all the details.&lt;br/&gt;We're leaving for Everon tomorrow.</Original>
+<Chinese>所以, 安德柳莎, 你已经知道所有行动的细节了。明天我就出发去 Everon</Chinese>
+<Chinesesimp>Andryusha，细节你都已经知道了。 我们明天就去Everon岛。</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say28">
+<Russian>Я прибуду на остров во втором эшелоне. Хочу лично проследить за отправкой.</Russian>
+<Original>I will arrive on the island with the second echelon.&lt;br/&gt;I want to oversee the departure personally.</Original>
+<Chinese>我会和第二梯队共同到达, 并一定要亲自监督部队的部署情况</Chinese>
+<Chinesesimp>我跟第二梯队过去。 但我想亲自送你们离开</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say29">
+<Russian>А ты бери своих ребят и отправляйся на остров сегодня. Разведайте обстановку, наладьте контакт с местными властями.</Russian>
+<Original>Take your guys and depart for the island today.&lt;br/&gt;Look around, make contact with the local authorities.</Original>
+<Chinese>你则要带上你的部下在今天到达 Everon, 探明局势, 并与当地相关部门取得联系</Chinese>
+<Chinesesimp>你跟你的人今天就去。 建立据点，并与当地政府取得联系</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say30">
+<Russian>Нам не нужны сюрпризы.</Russian>
+<Original>We do not need any surprises.</Original>
+<Chinese>我们不想收到什么"惊喜"</Chinese>
+<Chinesesimp>我们不希望有任何闪失</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say31">
+<Russian>Будет сделано Алексей Васильевич.</Russian>
+<Original>Will do, Aleksey Vasilievich.</Original>
+<Chinese>一定完成, 亚力西·瓦西里耶维奇</Chinese>
+<Chinesesimp>遵命，将军</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say32">
+<Russian>Добро. Удачи вам там. И до скорой встречи.</Russian>
+<Original>Good. Good luck to you over there. See you soon.</Original>
+<Chinese>很好, 祝你在那边好运, 后会有期</Chinese>
+<Chinesesimp>祝你好运。回头见</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say33">
+<Russian>ВАСИЛИЙ ТАРАКАНОВ НА БОЕВОМ ДЕЖУРСТВЕ.</Russian>
+<Original>VASILIY TARAKANOV ON ALERT DUTY.</Original>
+<Chinese>瓦西里·塔拉卡诺夫正在空中执勤</Chinese>
+<Chinesesimp>瓦西里 塔拉卡诺夫正在巡逻</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say34">
+<Russian>Хулиганье! Ага, борт 09. Снова Тараканов.</Russian>
+<Original>Assclowns! Yes, flight 09. It's Tarakanov again.</Original>
+<Chinese>流氓! 是啊, 机身编号 09, 又是该死的塔拉卡诺夫</Chinese>
+<Chinesesimp>木逼！09航班。又是塔拉卡诺夫</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say35">
+<Russian>А чё за митинг у штаба? Давай посмотрим?</Russian>
+<Original>What's that gathering outside the HQ? Wanna take a closer look?</Original>
+<Chinese>指挥部外面好像很热闹啊? 咱也去瞧瞧?</Chinese>
+<Chinesesimp>总部附近这么多人在干球？咱过去瞅瞅</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say36">
+<Russian>Блин, это Губин! Сваливай! Ну все, допрыгались!</Russian>
+<Original>Shit, that's Gubin! Let's get out of here! Damn… it is too late!</Original>
+<Chinese>见鬼, 那是古宾! 咱们赶紧溜, 靠, 太迟了!</Chinese>
+<Chinesesimp>操，古巴将军！赶紧闪！我擦，来不及了！</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say37">
+<Russian>В ЭТО ЖЕ ВРЕМЯ. МАЛДЕН. РЕЗИДЕНЦИЯ ЦРУ.</Russian>
+<Original>SAME TIME. MALDEN. CIA RESIDENCE.</Original>
+<Chinese>相同时刻, Malden, 美国中央情报局住所</Chinese>
+<Chinesesimp>此时此刻 MALDEN岛 CIA居所</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say38">
+<Russian>Вы идиот Майк! Что вы натворили!?</Russian>
+<Original>Mike, you're an idiot! What the hell have you done!?</Original>
+<Chinese>迈克, 你个笨蛋! 你他妈的都做了些什么?</Chinese>
+<Chinesesimp>麦克你个傻逼！你他娘的干了个啥！？</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say39">
+<Russian>Вместо того чтобы подготовить смещение просоветского правительства, вы спровоцировали введение советских войск на Эверон!</Russian>
+<Original>Instead of preparing to overthrow the pro-Soviet government, you caused the landing of Soviet forces on Everon.</Original>
+<Chinese>本来是要整垮亲苏联的当地政府, 现在倒好, 苏联军队直接踏上了 Everon 的领土</Chinese>
+<Chinesesimp>你本来只要推翻亲苏政府， 但你却导致苏联军队直接登录了Everon岛</Chinesesimp>
+</Key> 
+
+<Key ID="STR_01_intro_say40">
+<Russian>Вы на кого работаете? На дядю Сэма или на коммунистов?</Russian>
+<Original>Who are you working for? Uncle Sam or the Russians?</Original>
+<Chinese>你到底为谁卖命啊? 山姆大叔还是毛子?</Chinese>
+<Chinesesimp>你他妈的到底哪派的？</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say41">
+<Russian>Благодаря таким помощникам как вы, наши внуки будут говорить по-русски.</Russian>
+<Original>Thanks to the ""helpers"" like you, our grandchildren will speak Russian.</Original>
+<Chinese>幸亏你们这些的"热心人士", 我们的孙子们都会说上俄语了</Chinese>
+<Chinesesimp>亏得你帮忙， 咱子孙得说俄语了</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say42">
+<Russian>Теперь войска советов стоят под боком нашего испытательного полигона на Малдене.</Russian>
+<Original>And now Soviet forces are disclocated very close to our test site on Malden.</Original>
+<Chinese>然后, 苏联军队倒是成为我们在 Malden 试验场的隔壁邻居了</Chinese>
+<Chinesesimp>现在苏军离我们也就这么一丢丢距离了</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say43">
+<Russian>Если вы в течение двух недель не исправите ситуацию, то в центре с вас спустят шкуру.</Russian>
+<Original>If you don't fix the situation in two weeks, headquarters are going to kill you.</Original>
+<Chinese>你如果两周内没能挽回局势, 我们总部可得把你大卸八块了哦</Chinese>
+<Chinesesimp>如果你两周内解决不了问题， 你就等着嗝屁吧</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say44">
+<Russian>Вы меня понимаете?</Russian>
+<Original>Do you understand me?</Original>
+<Chinese>明白了吗?</Chinese>
+<Chinesesimp>你他娘的听到没有？</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say45">
+<Russian>Да Билл, мои люди переборщили.</Russian>
+<Original>Yes, Bill, my people went a little overboard.</Original>
+<Chinese>听明白了, 比尔, 是我的人有点做过头了</Chinese>
+<Chinesesimp>对不起，比尔，我的手下脑子发热了一下下</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say46">
+<Russian>Можете передать в центр, через две недели на острове будут наши войска.</Russian>
+<Original>You can tell the headquarters that, our troops will be on the island in two weeks.</Original>
+<Chinese>这你可以和总部反映, 但我们的部队在两周内一定会上岸</Chinese>
+<Chinesesimp>你去跟领导解释。 不管怎样我们的部队两周内要登岛</Chinesesimp>
+</Key>
+
+<Key ID="STR_01_intro_say47">
+<Russian>Если вы снова облажаетесь, то работа сторожем на автомобильной свалке будет верхом вашей карьеры.</Russian>
+<Original>If you screw up again, working as a security guard at a junkyard will be the top career choice for the rest of your life.</Original>
+<Chinese>你要是再把事情搞砸, 我就把你安排到垃圾场去当保安, 这就是你这辈子事业的顶峰</Chinese>
+<Chinesesimp>你要是脑子再短路，你余生最多就去垃圾场当保安</Chinesesimp>
+</Key>
+
+
+
+</Container>
+</Package>
+</Project>

@@ -1,0 +1,543 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_03_yazik">
+<Russian>ПОХОД В ГОСТИ</Russian>
+<Original>A FRIENDLY VISIT</Original>
+<Chinese>友好拜访</Chinese>
+<Chinesesimp>访客</Chinesesimp>
+</Key>
+
+
+<Key ID="STR_03_yazik_brif1">
+<Russian>План</Russian>
+<Original>Plan</Original>
+<Chinese>计划</Chinese>
+<Chinesesimp>计划</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_brif1_1">
+<Russian>Вам предстоит встретиться с лесником и постараться побольше узнать о банде Ясхара. Вернуться на блокпост вам надо до 22.00.</Russian>
+<Original>You will meet with the forester and try to learn more about the Yaskhar gang. You need to return to the checkpoint before 10 PM.</Original>
+<Chinese>你将会与护林员碰头, 并进一步了解亚沙匪帮。你必须在当晚 10 点前赶回来。</Chinese>
+<Chinesesimp>跟护林人见面，获取关于耶斯凯帮会的信息。晚上十点前回营地</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_brif2">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战地日记</Chinese>
+<Chinesesimp>日记</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_brif2_1">
+<Russian>Наши потери растут. Днем мирные, ночью некоторые берут оружие и обстреливают наши блокпосты. Такое подозрение, что боевики тут размножаются делением, как бактерии. А современное оружие растет в горах на деревьях - иначе, откуда они его берут в таких количествах? Интересно, это лесник помог мне свалить из лагеря боевиков или нет? Надо будет спросить его прямо. А в союзе лето на подходе. Скоро народ потянется на пляжи, купаться. Эх... Мотануться бы туда хоть на пару часиков.</Russian>
+<Original>Our losses are growing. Posing as peaceful civilians during daytime, the guerillas take up arms at night and pepper our roadblocks and checkpoints. I’m starting to think that the militants  by division, like bacteria. And modern weapons grow in the mountains on trees - otherwise, where do they get it in such quantities? I wonder if this forester was the one who helped escape from the guerilla camp. I'll have to ask him directly. In the USSR, summer is coming. Soon, the people will go to the beaches, to swim. Oh, man... I’d love to take a break there for at least a couple of hours.</Original>
+<Chinese>我们的伤亡在增加。白天还是一片祥和, 但在晚上有些武装份子就袭击了我们的路障。可疑的是这些武装分子简直像细菌一样快速传播。难道他们的武器是从山林里长出来的? 否则, 他们哪来的那么多武器? 如果这个护林员没把我从敌方营地救出来呢? 我得当面问问他。现在, 我们的家乡快到夏天了。不久之后，人们就会去海滩游泳。唉，如果能多点时间该多好啊</Chinese>
+<Chinesesimp>我们的损失日益增加。白天很平静，但到了晚上就有人炸我们的哨口。真怀疑他们是不是被什么背后的力量资助了，否则他们怎么可能会有这么多现代化的武器？我不知道是不是这个护林人帮我炸了那个恐怖分子营地？我得亲自问他。在家那边夏天就要来了，很多人都会去海滩游泳...这让我浮想联翩</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_task1">
+<Russian>Поговорить с лесником</Russian>
+<Original>Talk to the forester</Original>
+<Chinese>和护林员交谈</Chinese>
+<Chinesesimp>与护林人会面</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_task1_1">
+<Russian>Ваш новый знакомый назначил встречу.</Russian>
+<Original>Your new friend made an appointment.</Original>
+<Chinese>你的新朋友似乎有约</Chinese>
+<Chinesesimp>你的新朋友有一个约会</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_task2">
+<Russian>Взять в плен боевика</Russian>
+<Original>Take the guerilla prisoner</Original>
+<Chinese>擒获敌方俘虏</Chinese>
+<Chinesesimp>活捉匪徒首领</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_task2_1">
+<Russian>Лесник убит. Его смерть не должна быть зря,захватите лидера боевиков.</Russian>
+<Original>The forester was killed. His death should not be in vain, capture the guerilla leader.</Original>
+<Chinese>护林员不幸被杀。他绝不能白白丢了性命, 把匪首给我拿下</Chinese>
+<Chinesesimp>护林人被杀了。他不能白死，活捉恐怖分子首领</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_task3">
+<Russian>Сопроводить пленного</Russian>
+<Original>Escort the captive</Original>
+<Chinese>安全押送俘虏</Chinese>
+<Chinesesimp>羁押匪徒首领</Chinesesimp>
+</Key>
+<Key ID="STR_03_yazik_task3_1">
+<Russian>Отвести пленного на блокпост,эта сволочь должна ответить за всё.</Russian>
+<Original>Take the prisoner to the checkpoint, this bastard must answer for everything.</Original>
+<Chinese>把俘虏押回哨卡, 这混蛋一定会坦白一切的</Chinese>
+<Chinesesimp>把犯人羁押回哨口，有关部门要找他喝茶</Chinesesimp>
+</Key>
+
+
+
+
+<Key ID="STR_03_yazik_say1">
+<Russian>Тут вокруг полно моих людей. И они уже бегут сюда.</Russian>
+<Original>The surrounding area is crawling with my people. They are already on their way here.</Original>
+<Chinese>周边都布满了我的人, 他们正在来这儿的路上</Chinese>
+<Chinesesimp>这山头全是老子的人。他们马山就到。</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say2">
+<Russian>Для тебя,сволочь,будет лучше,если мы никого не встретим. Пошли!</Russian>
+<Original>You bastard, you better pray that we don't meet any of them. Move!</Original>
+<Chinese>那你就祈祷别让我们碰见他们, 走!</Chinese>
+<Chinesesimp>你最好祈祷我们不遇上他们。 走你丫的！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say3">
+<Russian>Код связи с Базой: 0-0-1</Russian>
+<Original>Base communication code: 0-0-1</Original>
+<Chinese>基地通信代码: 0-0-1</Chinese>
+<Chinesesimp>基地通讯代码：0-0-1</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say4">
+<Russian>ВЕРНОН.&lt;br/&gt; БЛОКПОСТ МИРОТВОРЦЕВ.</Russian>
+<Original>VERNON.&lt;br/&gt; PEACEKEEPING FORCE ROADBLOCK.</Original>
+<Chinese>Vernon.&lt;br/&gt; 和平缔造者设立的路障</Chinese>
+<Chinesesimp>VERNON.&lt;br/&gt; 维和部队哨口</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say5">
+<Russian>Привет, служивый. Говорят, ваши сегодня ночью лагерь боевиков сожгли с вертолета?</Russian>
+<Original>Good morning, soldier. I heard that last night, your guys burned a terrorist camp from the air?</Original>
+<Chinese>早安, 士兵。我听说昨晚上你们用直升机烧了武装份子的一个营地?</Chinese>
+<Chinesesimp>早。我听说昨晚你们空袭了恐怖分子营地？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say6">
+<Russian>Верно говорят. Было дело.</Russian>
+<Original>That's right.</Original>
+<Chinese>没错, 是我们干的</Chinese>
+<Chinesesimp>对啊</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say7">
+<Russian>Жаль, что не все это отродье на тот свет отправили.</Russian>
+<Original>Too bad you did not kill all of those bastards.</Original>
+<Chinese>没把他们全部干光真是可惜了</Chinese>
+<Chinesesimp>可惜的是你们没有全歼他们</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say8">
+<Russian>Ну, если кто и выбрался, отловим.</Russian>
+<Original>If anyone got away, we will get them.</Original>
+<Chinese>要是有人逃跑, 定将他捉拿回府</Chinese>
+<Chinesesimp>如果有人逃走我们会抓住他的</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say9">
+<Russian>Да что вы там отловили... Всего лишь один лагерь да десятка два головорезов, а на остров их уже сотни приехало.</Russian>
+<Original>You did not get much... Just one camp and around twenty soldiers, there’s about a hundred of them on the island already.</Original>
+<Chinese>但你们只拿下了... 大概一个营地, 20 名士兵左右。你不知道这岛上至少有上百名武装份子吗?</Chinese>
+<Chinesesimp>你不懂... 一个营地才二十几号人， 现在他们在这个岛上已经有上百号人了</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say10">
+<Russian>Этот лагерь только один из тех, что появились за эти пару недель. Ясхара с его наемными собаками вы с вертолета не поймаете.</Russian>
+<Original>That was one of the many camps that appeared on the island during the last week. You won't be able to catch Yaskhar with his mercenary dogs from the helicopter.</Original>
+<Chinese>你们拿下的只是上周这个岛上数个营地中的一个而已。你如果用直升机, 是无法抓到亚沙本人和他的那些走狗的</Chinese>
+<Chinesesimp>那个营地只是上周新出现的很多营地之一， 空袭是无法抓住耶斯凯和他的雇佣兵走狗的</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say11">
+<Russian>Откуда приехали? И кто такой Ясхар?</Russian>
+<Original>Where did they come from? Who is Yaskhar?</Original>
+<Chinese>他们从哪儿来? 还有, 亚沙是谁?</Chinese>
+<Chinesesimp>他们哪来这么多人？谁是耶斯凯？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say12">
+<Russian>Ясхар - местный бандит. Это его люди устроили резню в Сант Пьере. Раньше торговал наркотой, а теперь вот в освободители записался.</Russian>
+<Original>Yaskhar is a local criminal. It was his people who organized the massacre in St.Pierre. He was a drug dealer before and now, he’s trying to pose as resistance fighter.</Original>
+<Chinese>亚沙是当地的一个罪犯。就是他制造了在 Saint Pierre 的屠杀。他原先是个贩毒人员, 但现在他尝试把他自己包装成一个反抗军战士</Chinese>
+<Chinesesimp>耶斯凯是本地的一个罪犯。他就是St.Pierre屠杀的罪归祸首。 他以前是个毒贩，现在他以反抗军首领自居</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say13">
+<Russian>А едут к нему в наемники отовсюду. У него есть деньги, а за деньги можно найти и людей и оружие.</Russian>
+<Original>He gets mercenaries from everywhere. He has a lot of money, and with money, you can buy people and even weapons.</Original>
+<Chinese>他从各处征召雇佣军。他有的是钱, 现在没什么事情是钱解决不了的</Chinese>
+<Chinesesimp>他到处招收雇佣兵。 他有钱任性，啥都能买到</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say14">
+<Russian>Так что, боевики все не местные?</Russian>
+<Original>So... the guerillas are not local?</Original>
+<Chinese>所以, 这些武装份子都不是本地人咯?</Chinese>
+<Chinesesimp>这么说那些恐怖分子不是本地人？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say15">
+<Russian>Ну почему. Есть и местные, оппозиция. Только они гражданских не грабят, у них зуб на правительство.</Russian>
+<Original>There are locals, mostly government opposition. They do not attack civilians though, they're fighting against the government.</Original>
+<Chinese>有些是本地人, 大部分是反政府势力。他们虽然不屠杀当地百姓, 但他们反抗当局</Chinese>
+<Chinesesimp>有些是本地人，大多是那些反政府人员。 但那些人不会屠杀平民，他们只是反政府</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say16">
+<Russian>Мне пора идти. Ты вечером свободен? А то заходи часикам к шести, потолкуем. Обратно я тебя сам подвезу. Не боись.</Russian>
+<Original>I have to go. Are you free this evening? Come around to my place at around six, we need to talk. I will give you a ride back, so don't worry.</Original>
+<Chinese>我得走了, 你今晚有空么? 六点左右到我这里来, 我们得好好聊聊。我会把你送回来的, 别担心</Chinese>
+<Chinesesimp>我得走了。你今晚有空吗？ 如果方便的话六点左右来我那儿，我有事要告知。 别担心，我会把你送回来的</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say17">
+<Russian>Я не боюсь. Вот только отпустит ли меня командир в горы на ночь глядя. Я тут уже успел и в бою побывать и даже в плену.</Russian>
+<Original>I am not worried. I am just not sure if my commander lets me go that late. I have already managed to get into a firefight and to become a prisoner.</Original>
+<Chinese>我倒是不担心, 只是不知道长官让不让这么晚出门。不过就算变成俘虏, 我也已经决定要去</Chinese>
+<Chinesesimp>我并不担心怎么回。我只是不确定我长官让不让我这么晚出去。 我刚从虎口逃出来</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say18">
+<Russian>Знаю. Потому и хочу с тобой серьезно поговорить без свидетелей. Ты не из робкого десятка, тебе можно доверять.</Russian>
+<Original>I know. That is why I need to talk to you without any witnesses. You do not get scared easily and I think I can trust you.</Original>
+<Chinese>我明白, 这就是我为什么要跟你一个人聊的原因。你挺勇敢的, 所以我想我应该能相信你</Chinese>
+<Chinesesimp>我懂。所以我才想单独跟你谈。 我觉得你很有胆识，所以我相信你</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say19">
+<Russian>Знаешь? Откуда?</Russian>
+<Original>Know? How?</Original>
+<Chinese>你怎么知道? 谁告诉你的?</Chinese>
+<Chinesesimp>你怎么知道？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say20">
+<Russian>Медведь знакомый рассказал. Ну так придешь?</Russian>
+<Original>Friendly bear told me. So are you going to come?</Original>
+<Chinese>我的那位大熊朋友告诉我的。所以你来吗?</Chinese>
+<Chinesesimp>我的熊告诉我的。你丫的到底来不来？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say21">
+<Russian>А этот медведь из своей винтовки по бочкам, случайно, не стреляет?</Russian>
+<Original>And that bear of yours, does he shoot barrels with his rifle?</Original>
+<Chinese>那你的那位"大熊朋友"不会朝我开枪吧?</Chinese>
+<Chinesesimp>你的熊会打来福吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say22">
+<Russian>А ты еще и не глуп - это хорошо. В общем буду тебя ждать. Я кажется знаю, как вам поймать Ясхара и его шайку.</Russian>
+<Original>You are pretty smart for a soldier - that's good. I will be waiting for you. I think I know how you can get Yaskhar and his gang.</Original>
+<Chinese>你还挺聪明的哈, 这样挺好。总而言之, 我会等你来, 我想我知道该怎么活捉亚沙和他的走狗了</Chinese>
+<Chinesesimp>你小子很鬼，不错。我会在家等你。 我相信你能解决耶斯凯和他的走狗们</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say23">
+<Russian>Хорошо. Я постараюсь к шести.</Russian>
+<Original>Ok. I'll try to be there at six.</Original>
+<Chinese>好的, 我尽力 6 点到</Chinese>
+<Chinesesimp>好吧我尽量去</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say24">
+<Russian>Товарищ лейтенант, разрешите обратиться.</Russian>
+<Original>Comrade Lieutenant, may I ask you a question?</Original>
+<Chinese>中尉, 我能问个问题吗?</Chinese>
+<Chinesesimp>中尉我能问你个问题不？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say25">
+<Russian>Слушаю.</Russian>
+<Original>Go ahead.</Original>
+<Chinese>说</Chinese>
+<Chinesesimp>问</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say26">
+<Russian>Только что говорил с здешним лесником - он хочет нам помочь.</Russian>
+<Original>I just talked to the local forester and he wants to help us.</Original>
+<Chinese>我刚才和本地的一位护林员聊了几嘴, 他说他想帮我们</Chinese>
+<Chinesesimp>我刚跟一个本地的护林人谈了一下， 他想要帮我们</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say27">
+<Russian>У него сына в СантПьере боевики убили, так что вполне возможно. А чем он сможет нам помочь?</Russian>
+<Original>His son was killed in St.Pierre, so it is quite possible. What can he help us with?</Original>
+<Chinese>他儿子在 Saint Pierre 屠杀中遇难了, 这就是他热心的原因。但他能帮我们什么呢?</Chinese>
+<Chinesesimp>他儿子在St.Pierre惨案中被杀了，所以我相信他是想帮我们。 那他打算怎么帮？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say28">
+<Russian>Это он помог мне сбежать из плена, чтобы мы разнесли эту базу. И он дал понять, что знает, как отловить остальных.</Russian>
+<Original>He helped me to escape from terrorist camp, which was later destroyed. He told me that he knows how to catch the rest of the bastards.</Original>
+<Chinese>他帮我从武装份子的营地里逃了出来, 之后营地就被端了。他告诉我他知道怎么活捉那些混蛋</Chinese>
+<Chinesesimp>他帮我逃出了那个恐怖分子营地，就是后来被我们端了的那个。 他说他知道怎么抓住那些余党</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say29">
+<Russian>Теперь зовет меня в гости для серьезного разговора. Гарантирует безопасность и даже сам привезет обратно.</Russian>
+<Original>Now he wants to talk to me at his place. He guarantees my safety and will help me get back.</Original>
+<Chinese>现在他想让我去他那里聊聊。他保证我的安全, 并会把我送回来</Chinese>
+<Chinesesimp>然后他说他想在他家里单独跟我谈一下。 他说他会确保我安全回来</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say30">
+<Russian>Исключено. Хотя и очень соблазнительно.</Russian>
+<Original>No way. Although, it does sound very interesting.</Original>
+<Chinese>有点悬的样子, 但这事儿的确很有意思</Chinese>
+<Chinesesimp>虽然不太可能， 不过这听上去很有意思</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say31">
+<Russian>Если он не врет, накроем всю свору одним махом! Товарищ лейтенант, разрешите сходить!</Russian>
+<Original>If he is not lying, we can get rid of the whole gang once and for all! Comrade Lieutenant, please allow me to go!</Original>
+<Chinese>如果他说的是真的, 那我们就能一劳永逸地摆脱那么匪徒。我能跟他碰面吗?</Chinese>
+<Chinesesimp>如果他没骗我们的话我们就能把那些恐怖分子一窝端！ 我能去见他吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say32">
+<Russian>Пойдем вместе.</Russian>
+<Original>We will go together.</Original>
+<Chinese>我们一起去</Chinese>
+<Chinesesimp>我们一起去</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say33">
+<Russian>Его условие: без свидетелей. Он и так здорово рискует. Я должен идти один. Нельзя такой шанс упускать!</Russian>
+<Original>He doesn't want any witnesses. He is already risking too much. I need to go alone. We cannot miss that chance!</Original>
+<Chinese>他不想有第三个人在场, 毕竟他现在也有人身危险。我得一个人去, 绝不能错过这千载难逢的机会</Chinese>
+<Chinesesimp>恐怕不行，他说不想有其他目击者。他已经冒了很大风险了。 我得一个人去，我们只有这么一次机会！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say34">
+<Russian>А домой, к мамке, в цинке поехать можно? Что вы все на рожон лезете?</Russian>
+<Original>Do you wanna go back home to mom in a body bag? Why do you always try to get yourself killed?</Original>
+<Chinese>所以你也想回来之时给我多一具尸体吗? 你为什么老让自己招敌人的子弹呢?</Chinese>
+<Chinesesimp>你知不知道你也有可能会因此嗝屁？ 你小子老想干死你自己？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say35">
+<Russian>Черт с тобой! Возьмешь автомат, гранаты, бинокль, рацию и ПНВ. Чтоб к 22.00 был здесь. Если что - вызывай по рации. На рожон не лезь. До поворота тебя подкинет Левашов на УАЗике - ему по дороге.</Russian>
+<Original>Fuck it! Take your rifle, grenades, binoculars, radio and NV goggles. Be back here before 10PM. If anything happens, use your radio to call us. Do not try to be a hero. Levashov is going to drop you off at the intersection with his UAZ - he is going in that direction, anyway.</Original>
+<Chinese>靠! 你给我拿上突击步枪, 手榴弹, 望远镜, 无线电和夜视仪。10 点以前必须回来。但凡有不测, 用无线电和我们联系。别想逞能当英雄。莱瓦肖夫会开着 UAZ 护送你去, 他现在在路上了</Chinese>
+<Chinesesimp>操，算球了！带上你的步枪，手榴弹，望远镜，对讲机还有夜视仪。 十点前回来。发生任何事就用对讲机汇报，别想着自己装逼。 拉瓦谢夫会用吉普车捎你一程，他反正也要去往那个方向</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say36">
+<Russian>Есть!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say37">
+<Russian>ПОСЛЕ ДЕЖУРСТВА</Russian>
+<Original>AFTER DUTY</Original>
+<Chinese>事成之后</Chinese>
+<Chinesesimp>任务完成后</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say38">
+<Russian>Товарищ лейтенант. Люди этого человека убили лесника, оказали сопротивление при задержании,и я их немного того... Пострелял.</Russian>
+<Original>Comrade Liuetenant, his people killed the forester. and resisted arrest so, I kind of...well...   shot them.</Original>
+<Chinese>中尉同志, 他的人把护林员杀了, 还尝试拘捕, 所以我给他来了两下子</Chinese>
+<Chinesesimp>中尉，他的人杀害了护林人。 这傻逼还想着逃跑，我差点没打死他</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say39">
+<Russian>В обмен на свою жизнь он наверняка готов поделиться с нами планами боевиков.</Russian>
+<Original>He will tell us about all terrorist plans if he wants to live.</Original>
+<Chinese>他想活命, 所以会告诉我们所有武装份子的作战计划</Chinese>
+<Chinesesimp>他想活命就得招供他们所有的恐怖组织计划</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say40">
+<Russian>Вот это дела...Какие люди! Дима.Ты скрутил самого Ясхара!</Russian>
+<Original>Damn! Dima, you managed to catch Yaskhar himself!</Original>
+<Chinese>可以嘛, 迪马! 你都活捉亚沙本人了!</Chinese>
+<Chinesesimp>我擦！迪马，你抓住了耶斯凯本人！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say41">
+<Russian>Иди отдохни пока, сейчас он нам будет рассказывать все, что знает.</Russian>
+<Original>Go have a rest, he will tell us everything he knows now.</Original>
+<Chinese>去休息下, 他现在会告诉我们一切的</Chinese>
+<Chinesesimp>你去好好休息一下。他会告诉我们他知道的，</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say42">
+<Russian>И что не знает - тоже расскажет. Притащи-ка паяльник.</Russian>
+<Original>He’ll even tell us what he doesn't know. Bring a soldering iron.</Original>
+<Chinese>如果他嘴硬, 那我们就给他点颜色看看</Chinese>
+<Chinesesimp>还有他不知道的。拿个电烙铁过来</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say43">
+<Russian>20 минут спустя</Russian>
+<Original>20 minutes later.</Original>
+<Chinese>20 分钟后</Chinese>
+<Chinesesimp>20分钟后</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say44">
+<Russian>Так. У нас задание: в 5.00 в районе Регины встретиться с орлами Селиванова для совместной операции по ликвидации банды. Нам предстоит марш-бросок через горы. Разойтись!</Russian>
+<Original>We have an assignment: Meet Selivanov's team near Regina at 5:00 and together, eliminate the gang dislocated there. We need to go there through the mountains. Dismissed!</Original>
+<Chinese>现在, 我们有任务了。5 点左右与 Regina 附近的萨里瓦诺夫的队伍碰头, 并摧毁那儿的亚沙匪帮。我们要去那儿得翻山, 现在解散</Chinese>
+<Chinesesimp>接到上级指示：我们5点将与赛丽瓦诺夫的小队在Regina汇合， 然后消灭那里的耶斯凯的同伙。 我们将徒步翻过山脉去那边。解散！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say45">
+<Russian>Товарищ лейтенант. Бандиты убили лесника. Наверное им стуканули, что я с ним говорил.</Russian>
+<Original>Comrade Liuetenant. Terrorists killed the forester. They must've learned that he talked to me.</Original>
+<Chinese>中尉同志, 武装份子杀了那位护林员, 所以他们知道护林员和我私下有联系</Chinese>
+<Chinesesimp>中尉，恐怖分子杀害了护林人。 他们一定已经知道了他联系了我！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say46">
+<Russian>Теперь и лесника нет,и сведений нет,и боевиков я упустил. Кажется, я облажался.</Russian>
+<Original>So we have no witnesses, no information, and I lost the terrorists. I think I screwed up.</Original>
+<Chinese>现在, 护林员死了, 线索断了, 武装份子也逃了, 我认为我把这事儿搞砸了</Chinese>
+<Chinesesimp>我们没有证人，没有掌握任何信息，而且恐怖分子还逃跑了。我想我傻逼了。</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say47">
+<Russian>Кажется? Тебе это только кажется? Да мы теперь по уши в дерьме! Из-за нас погиб человек,и погиб совершенно напрасно!</Russian>
+<Original>You think? We are completely screwed now! Innocent man died because of us!</Original>
+<Chinese>你认为? 你以为仅仅你一个人这么想吗? 事情完全乱套了! 无辜的人因为我们而死, 而且他走得并不平静</Chinese>
+<Chinesesimp>这还用你想？我们彻底傻逼了！ 无辜的人因为我们被杀了！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say48">
+<Russian>Черт! Рацию раздавил, когда упал. До 10ти вечера наши меня теперь не спохватятся.</Russian>
+<Original>Damn! Smashed the radio when I fell. My guys won't look for me until 10PM.</Original>
+<Chinese>他妈的! 我的无线电坏了! 友军在十点前没法联系我了</Chinese>
+<Chinesesimp>操！我摔倒时把对讲机弄坏了。 队友们得10点后才会来找我。</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say49">
+<Russian>Не боишься по ночам то ездить?</Russian>
+<Original>Are not you afraid to drive at night?</Original>
+<Chinese>你不怕晚上在野外开车吗?</Chinese>
+<Chinesesimp>你开夜车不怕吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say50">
+<Russian>Да еще рано вроде. Вот через часик я без БМПшки уже не поеду. Хорошо хоть на колонны нападать они уже не рискуют.</Russian>
+<Original>It's still early. However, in about an hour, I won’t go without the BMP.  They are no longer wanna risk ambushing a column.</Original>
+<Chinese>现在还早。但如果再过一个小时, 没有 BMP 伴随, 我就真不敢出来了。不过至少, 他们还无法威胁到我们的攻击梯队</Chinese>
+<Chinesesimp>现在还早。再过一个小时我就不会外出，除非有BMP装甲车。 不过好在他们现在也不太会冒险袭击车队了</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say51">
+<Russian>Наверное слишком дорого им наш конвой встал.</Russian>
+<Original>Probably too expensive for them since our convoy got hit.</Original>
+<Chinese>也许他们认为袭击咱们的车队会付出过高的代价</Chinese>
+<Chinesesimp>可能袭击车队对他们来说代价太大了</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say52">
+<Russian>Это да. Дали вы им по зубам конкретно. Страшно было там? Ты не думай, я не трус вроде, но...</Russian>
+<Original>Yeah. You’ve really smacked them in the teeth. It was scary there? Do not think I'm a coward, but ...</Original>
+<Chinese>的确。你们上次确实给他们制造了不少麻烦。害怕和他们对抗吗? 千万别以为我是个懦夫, 但...</Chinese>
+<Chinesesimp>对。上次你害怕不？ 上次太恐怖了，别觉得我是胆小鬼...</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say53">
+<Russian>Страшно. Я думал что уже все - хана. Особенно когда они на нас поперли из леса.</Russian>
+<Original>Yeah, it was. I remember thinking to myself: "That’s it, this is the end." Especially when they pounced on us from the forest.</Original>
+<Chinese>是挺慌的。我觉得他们是有备而来, 特别是他们从森林里伏击的时候, 令人格外恐惧</Chinese>
+<Chinesesimp>确实可怕。我吓得全身是汗。 尤其是他们从树林里向我们猛扑的时候</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say54">
+<Russian>Вот и мне страшно. Кручу баранку, а сам жду выстрелов. Я видел, что осталось от вашей колонны. Никогда не забуду.</Russian>
+<Original>That’s what I’m afraid of, as well. I grip the steering wheel, waiting for shots. I saw what was left of your column. I will never forget that.</Original>
+<Chinese>这儿也是。当我开车出了营地, 等待我的就是他们的子弹。我也明白车队后来的下场, 它在我心里打下了难以磨灭的烙印</Chinese>
+<Chinesesimp>我也觉得超恐怖。感觉像在玩轮盘赌。 我记得你们车队的每一个人，我永远不会忘记他们</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say55">
+<Russian>Я тоже не забуду. Я им наш конвой еще припомню. Прижми педальку, братишка, опаздываю.</Russian>
+<Original>Neither will I. I’ll remind the guerillas of our convoy, don’t you worry. Press the pedal a bit, bro, I'm late.</Original>
+<Chinese>我也忘不了那次伏击, 我们的车队仍然在我的心头萦绕。在这儿停下, 我的兄弟, 已经迟到了</Chinese>
+<Chinesesimp>我也是，我会一直记着我们那个车队。 加把油兄弟，我快迟到了</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say56">
+<Russian>Тормозни на повороте!</Russian>
+<Original>Stop there, at the intersection!</Original>
+<Chinese>赶紧踩刹车, 趁现在!</Chinese>
+<Chinesesimp>刹车！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say57">
+<Russian>Давай. Ни пуха тебе! Осторожнее там в горах!</Russian>
+<Original>Come on. Best of luck to you! Be careful in the hills!</Original>
+<Chinese>加油啊, 兄弟, 这次别搞砸了! 在山里执行任务的时候留心点!</Chinese>
+<Chinesesimp>加油。别掉链子！一个人在山里多加小心！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say58">
+<Russian>Да хорошо. Сам тоже не плошай. Счастливо!</Russian>
+<Original>Yeah, OK. Good luck to you, too. Farewell!</Original>
+<Chinese>知道了, 你自己也保重, 不用担心! </Chinese>
+<Chinesesimp>你也是。别担心，玩好！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say59">
+<Russian>Опа! Сходил в гости... Начинается...</Russian>
+<Original>Oops! Guess my visit is over... Here we go...</Original>
+<Chinese>哎呦, 我过来找你, 结果...</Chinese>
+<Chinesesimp>好吧！我去拜访...开始了...</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say60">
+<Russian>Он сотрудничал с русскими - я в этом уверен.</Russian>
+<Original>He collaborated with the Russians - I'm sure of that.</Original>
+<Chinese>他和毛子绝对有染, 我坚信</Chinese>
+<Chinesesimp>我确定他在和毛子合作</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say61">
+<Russian>Собаке собачья смерть!</Russian>
+<Original>A dog deserves a dog's death!</Original>
+<Chinese>狗命没啦!</Chinese>
+<Chinesesimp>个傻狗死不足惜！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say62">
+<Russian>Лесник уже ничего и никому не расскажет. Необходимо убить охранников лидера боевиков,а его самого взять в плен.</Russian>
+<Original>The forester does not tell anyone. It is necessary to kill the guards of the leader of the militants, and to take him himself prisoner.</Original>
+<Chinese>护林员口风很紧, 没告诉任何人。最好把周边的小兵收拾掉, 然后捉拿匪首回府</Chinese>
+<Chinesesimp>护林员什么都没说。你现在必须干掉恐怖分子首领的保镖，然后活捉首领</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say63">
+<Russian>Вызвать базу</Russian>
+<Original>Call the base</Original>
+<Chinese>呼叫基地</Chinese>
+<Chinesesimp>呼叫基地</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say64">
+<Russian>Стоять! Оружие на землю и руки на затылок!</Russian>
+<Original>Halt! Drop your gun and put your hands behind your head!</Original>
+<Chinese>站住! 把枪放下, 手抱头!</Chinese>
+<Chinesesimp>站起来！枪扔地上，手放头上！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_say65">
+<Russian>Далеко собрался? Даже не думай об этом!</Russian>
+<Original>Where do you think you’re going? Don’t even think about it!</Original>
+<Chinese>想跑路? 你就死了这份心吧!</Chinese>
+<Chinesesimp>太远了？从没这么想过！</Chinesesimp>
+</Key>
+
+<Key ID="STR_03_yazik_hint1">
+<Russian>Пленный убегает! Догоните его!</Russian>
+<Original>Your captive is trying to escape! Catch up with him!</Original>
+<Chinese>俘虏逃跑了! 抓住他!</Chinese>
+<Chinesesimp>犯人正在逃跑！抓住他！</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

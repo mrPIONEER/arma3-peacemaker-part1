@@ -1,0 +1,279 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_02_plen">
+<Russian>ВЫХОДА НЕТ</Russian>
+<Original>NO WAY OUT</Original>
+<Chinese>四面楚歌</Chinese>
+</Key>
+
+<Key ID="STR_02_plen_say1">
+<Russian>Самое главное в рукопашном бою уметь предугадать действия врага. Если Вы научитесь, хотя бы на долю секунды упреждать его - значит Вы победили!</Russian>
+<Original>The most important thing in hand-to-hand combat is to predict movements of your enemy. If you learn to be even a second faster than your enemy you will win!</Original>
+<Chinese>在近距离肉搏中最重要的一点, 莫过于预判对手的意图。如果你能在他下手前先发制人, 则胜利就离你不远了</Chinese>
+<Chinesesimp>战斗中最重要的是预判。 只要你比敌人快，你就能赢</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say2">
+<Russian>Сегодня мы будем отрабатывать защиту и нападение с помощью оружия. У Вас М-16 - это отличная винтовка и в умелых руках она может стать серьезным аргументом.</Russian>
+<Original>Today we will learn how to attack and defend with the help of a weapon. You are equipped with M-16 - that's an excellent rifle and cam become a serious argument in capable hands.</Original>
+<Chinese>今天, 我们将学习如何使用你手里的武器进行攻防。你现在装备了 M-16 步枪, 这把完美的武器配合上灵巧的双手, 将会给予敌人致命一击</Chinese>
+<Chinesesimp>今天我们学习如何使用武器。 你现在手里的是M-16步枪， 在会用的人手里，这是一把很牛逼的枪</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say3">
+<Russian>Начнем с самого главного: что бы Вы не делали не упускайте противника из виду, всегда держите его в поле зрения! Это основной принцип рукопашного боя, потеряете врага из виду - проиграете и умрете.</Russian>
+<Original>Let's start with the most important thing: whatever you do, never let the enemy out of your sight, always keep him in your field of vision! That's the main principle of hand-to-hand combat, if you lose sight of your enemy - you will lose and die.</Original>
+<Chinese>让我们先学最要紧的: 无论你做任何事, 永远不要让敌人离开你的视线, 你得一直盯着他。这是近距离肉搏的基本原则, 如果你让他离开你的视线, 你在失败的同时也会丢了性命</Chinese>
+<Chinesesimp>第一条，别让敌人跑出你的视线 始终盯紧对手是关键！ 盯不住你就会嗝屁</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say4">
+<Russian>Сейчас я Вам покажу удар прикладом смотрите внимательно, он наиболее эффективен.</Russian>
+<Original>And now, I will show how you to hit with your rifle, this hit is extremely effective.</Original>
+<Chinese>现在我将会演示如何用步枪枪托迎击敌人, 这招会非常有效</Chinese>
+<Chinesesimp>下面我展示如何用枪托来攻击敌人</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say5">
+<Russian>Винтовку держите за цевье и основание приклада. Удар наносите всем корпусом.</Russian>
+<Original>Hold your rifle by the barrel and the handle. Use your whole upper body for that hit.</Original>
+<Chinese>用手握住枪管和枪柄, 然后用尽上半身的力量完成这一动作</Chinese>
+<Chinesesimp>握住枪管和握把， 然后用你所有的上肢力量来攻击</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say6">
+<Russian>И не забывайте выставить вперед левую ногу, иначе вы можете упасть если противник увернется от вашего удара.</Russian>
+<Original>And don't forget to put your left foot forward, or you can fall if your enemy evades your hit.</Original>
+<Chinese>别忘了左脚要上前迈步, 要不然敌人躲开后, 你会因失去平衡而摔倒</Chinese>
+<Chinesesimp>记住左脚在前， 否则万一你没击中你可能会摔倒</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say7">
+<Russian>Всем ясно?</Russian>
+<Original>Is everything clear?</Original>
+<Chinese>大家听明白了吗?</Chinese>
+<Chinesesimp>都清楚了吗</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say8">
+<Russian>Теперь пусть каждый повторит это.</Russian>
+<Original>Now you all try doing the same.</Original>
+<Chinese>现在, 大家一起重复这个动作</Chinese>
+<Chinesesimp>下面你们照我说的练习</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say9">
+<Russian>Ну и влип же я. Пузанцев и Еремин больше никогда не будут ругаться. В это трудно поверить.</Russian>
+<Original>Well, I’m in deep shit. Puzantsev and Eremin will never fight again. It is hard to believe.</Original>
+<Chinese>我现在有大麻烦了, 战友普赞捷夫和伊瑞明再也不会在我身边嚷嚷了, 难以置信</Chinese>
+<Chinesesimp>我勒个去 博塔兹夫和艾瑞民都挂了 我去</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say10">
+<Russian>Нужно выбираться отсюда и поскорее. Только как? У меня нет ни оружия, ни компоса, ни рации. Что же мне делать?</Russian>
+<Original>I need to get out of here and fast. But how? I don’t have a weapon, nor a compass, nor a radio. What can I do?</Original>
+<Chinese>我得赶紧离开这儿, 但怎么逃呢? 我既没有武器, 也没有指南针, 更别提无线电了, 我能做什么呢?</Chinese>
+<Chinesesimp>我得想办法逃出去 但怎么逃，我啥都没有 怎么逃</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say11">
+<Russian>Эх, был бы здесь сейчас Пузанцев - он бы обязательно что-то придумал.</Russian>
+<Original>If Puzantsev was here - he would've definitely figured something out!</Original>
+<Chinese>如果普赞捷夫能活着在我身边, 他肯定能蹦出一堆点子</Chinese>
+<Chinesesimp>要是博塔兹夫在这儿 他肯定会有办法</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say12">
+<Russian>Абар, через 30 минут я вернусь и мы решим что с ним делать.</Russian>
+<Original>Abar, I will be back in 30 minutes and we will decide what to do with him.</Original>
+<Chinese>阿巴, 我半小时后回来, 然后一起商量怎么处置这个俘虏</Chinese>
+<Chinesesimp>阿巴，我半小时后回来。然后我们商量怎么处置这个傻逼</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say13">
+<Russian>Пока смотрите в оба! Расставьте дополнительные посты по периметру базы!</Russian>
+<Original>Be on your guard! Put additional sentries around the base's perimeter!</Original>
+<Chinese>别离开你的岗位! 在基地周围布置额外的岗哨!</Chinese>
+<Chinesesimp>保持警戒！增加周边的巡逻人数</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say14">
+<Russian>Будет сделано командир!</Russian>
+<Original>Will do, commander!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say15">
+<Russian>За пленного головой отвечаешь лично!</Russian>
+<Original>The prisoner is your responsibility!</Original>
+<Chinese>他要是逃了, 我就拿你的项上人头</Chinese>
+<Chinesesimp>这个犯人由你负责</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say16">
+<Russian>Когда Тигр закончит тренировку предоставьте ему самые лучшие условия для отдыха! Это ясно?</Russian>
+<Original>When Tiger finishes training, provide the best possible resting conditions for him! Is that clear?</Original>
+<Chinese>至少在"老虎"制订出最佳谈判筹码前是如此。有问题吗?</Chinese>
+<Chinesesimp>当虎完成了训练， 你给他来点狠的，了解？</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say17">
+<Russian>Да, командир!</Russian>
+<Original>Yes, commander!</Original>
+<Chinese>没问题, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say18">
+<Russian>ГДЕ-ТО НА ЭВЕРОНЕ, СПУСТЯ 9 ЧАСОВ   ПОСЛЕ АТАКИ КОЛОННЫ.</Russian>
+<Original>SOMEWHERE ON EVERON. 9 HOURS AFTER    THE ATTACK ON THE CONVOY</Original>
+<Chinese>Everon 某处, 车队被攻击   9 小时后</Chinese>
+<Chinesesimp>EVERON岛某处... 车队遇袭9小时后</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say19">
+<Russian>Стой, кто идет!?</Russian>
+<Original>Halt, who goes there!?</Original>
+<Chinese>站住! 谁在那儿?</Chinese>
+<Chinesesimp>站住！谁！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say20">
+<Russian>Свои!</Russian>
+<Original>Friendlies!</Original>
+<Chinese>是自己人!</Chinese>
+<Chinesesimp>友军！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say21">
+<Russian>Сейчас пальну, а потом будем разбираться: свои или нет! Стоять на месте!</Russian>
+<Original>I will shoot first, and then we will see if you’re friendly or not! Stop where you are!</Original>
+<Chinese>我会先开枪了, 然后再看看你到底是敌是友! 呆那儿别动!</Chinese>
+<Chinesesimp>我可以打死你丫的再看是不是友军！ 站那儿别动！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say22">
+<Russian>НЕКОТОРОЕ ВРЕМЯ СПУСТЯ.  БАЗА БОЕВИКОВ.</Russian>
+<Original>SOME TIME LATER.  TERRORIST CAMP.</Original>
+<Chinese>一段时间之后  武装份子营地</Chinese>
+<Chinesesimp>过了一会儿 恐怖分子营地</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say23">
+<Russian>Боец не ошибся, здесь действительно гадюшник. Разрешите открыть огонь.</Russian>
+<Original>Soldier was right, it is a viper's nest here. Request to open fire.</Original>
+<Chinese>那战士没说错, 这确实有个匪巢, 请求开火</Chinese>
+<Chinesesimp>士兵说的是真的，这儿确实有一个秘密营地！请求开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say24">
+<Russian>Разрешаю огонь на поражение.</Russian>
+<Original>Request granted, shoot to kill.</Original>
+<Chinese>请求通过, 一个不留</Chinese>
+<Chinesesimp>准许开火</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say25">
+<Russian>Подкова? Может быть на счастье? Или это ирония судьбы?</Russian>
+<Original>Is that a horseshoe? Might be a lucky sign? Or just fate decided to be funny?</Original>
+<Chinese>马蹄? 也许是个走运的象征? 亦或是命运的把戏?</Chinese>
+<Chinesesimp>马蹄铁？也许可以带来好运？也许只是个玩笑？</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say26">
+<Russian>Хотя, если навернуть ей по черепу...</Russian>
+<Original>Although, if I smacked somebody’s head with it...</Original>
+<Chinese>但毕竟, 我可以给别人来个当头一棒</Chinese>
+<Chinesesimp>不过我可以找准某人头上抡一下...</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say27">
+<Russian>Быстро возвращайся, или я тебя пристрелю!</Russian>
+<Original>Where do you think you're going? Get back in there fast, or I will shoot you!</Original>
+<Chinese>你小子想上哪儿去? 赶紧进屋, 要不然子弹伺候!</Chinese>
+<Chinesesimp>你丫的干啥！ 给老子回来，否则老子操你啊！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say28">
+<Russian>Стой сволочь! Пленный уходит! Все за ним!</Russian>
+<Original>Stop, you bastard! The prisoner is escaping! Everybody go after him!</Original>
+<Chinese>站住! 犯人逃了! 所有人, 追!</Chinese>
+<Chinesesimp>都停下！犯人逃了！所有人去追！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say29">
+<Russian>Стой!</Russian>
+<Original>Halt!</Original>
+<Chinese>停下!</Chinese>
+<Chinesesimp>站住！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say30">
+<Russian>Так.. Кажется пора рвать когти.</Russian>
+<Original>So.. Looks like it’s time to run away.</Original>
+<Chinese>看起来, 是时候逃跑了</Chinese>
+<Chinesesimp>看来是时候逃跑了</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say31">
+<Russian>Ударить подковой</Russian>
+<Original>Hit with the horseshoe</Original>
+<Chinese>用马蹄糊他一脸</Chinese>
+<Chinesesimp>用马蹄铁砸</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say32">
+<Russian>Вы нашли карту</Russian>
+<Original>YOU FOUND A MAP</Original>
+<Chinese>你找到一份地图</Chinese>
+<Chinesesimp>你找到了一张地图</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say33">
+<Russian>ЗАКОНЧИЛСЯ БЕНЗИН</Russian>
+<Original>YOU RAN OUT OF GASOLINE</Original>
+<Chinese>汽油耗尽</Chinese>
+<Chinesesimp>没油了</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say34">
+<Russian>Стой! Это мой мотоцикл!</Russian>
+<Original>Stop! That's my motorbike!</Original>
+<Chinese>等等, 那是我的摩托车!</Chinese>
+<Chinesesimp>那是我的摩托车！</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say35">
+<Russian>Кто стрелял?</Russian>
+<Original>Where did the shot come from?!</Original>
+<Chinese>谁在开枪?</Chinese>
+<Chinesesimp>谁在开枪？</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say36">
+<Russian>Подобрать подкову</Russian>
+<Original>Take the horseshoe</Original>
+<Chinese>拿上马蹄</Chinese>
+<Chinesesimp>捡起马蹄铁</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say37">
+<Russian>Запрещено убивать гражданских.</Russian>
+<Original>It is forbidden to kill civilians.</Original>
+<Chinese>禁止射杀平民百姓</Chinese>
+<Chinesesimp>杀平民是不被允许的</Chinesesimp>
+</Key>
+
+<Key ID="STR_02_plen_say38">
+<Russian>Кажется я заплутал.</Russian>
+<Original>Looks like I’m lost.</Original>
+<Chinese>我觉得我没救了</Chinese>
+<Chinesesimp>我好像迷路了</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

@@ -1,0 +1,300 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_04_Konvoy">
+<Russian>КОНВОЙ</Russian>
+<Original>CONVOY</Original>
+<Chinese>伏击车队</Chinese>
+<Chinesesimp>车队</Chinesesimp>
+</Key>
+
+<Key ID="STR_04_Konvoy_brif1">
+<Russian>План</Russian>
+<Original>Plan</Original>
+<Chinese>计划</Chinese>
+<Chinesesimp>计划</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_brif1_1">
+<Russian>Вашему отделению, приказано встретиться в условном месте с подразделением спецназа и совместно ликвидировать конвой с оружием.</Russian>
+<Original>Your squad is to meet a Special Forces element at the rendezvous point and jointly eliminate a convoy carrying weapons.</Original>
+<Chinese>你的小队被命令与一个特战小组在会合点碰头, 接着你们将进行联合行动, 摧毁武装份子的弹药运输车队</Chinese>
+<Chinesesimp>你班奉命与特种部队在集合点汇合，然后一同消灭敌武器运输车队</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_brif2">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战斗日记</Chinese>
+</Key>
+<Key ID="STR_04_Konvoy_brif2_1">
+<Russian>Ясхар рассказал немало. Его банда сейчас в Регине. Оружие и людей привозят на остров на американских катерах. Сегодня рано утром будет очередная поставка. Когда из него все это вытрясли, поднялся неслабый переполох. Из штаба дали приказ выдвигаться через горы, чтобы перехватить этот конвой с оружием. Похоже, американцы стали всерьез помогать боевикам. Если наемников и оружие уже стали привозить целыми партиями, ничего хорошего нам тут не светит. Скорее всего, они что-то задумали. Уже не знаю, радоваться тому, что поймал Ясхара или нет. Устал как бобик. Если бы не его сведения - валялся бы сейчас на койке и дрых без задних ног, а не скакал по склонам, как горный козел.</Russian>
+<Original>Yaskhar told us enough. His gang is operating in Regina now. Mercenaries and weapons are being delivered to the island&nbsp; via American boats. There will be another delivery this morning. When he told us all that, it created quite a big turmoil. We received an order from headquarters to move through the mountains and intercept that convoy. It seems like the Americans are really helping these guerillas. If mercenaries and weapons are being delivered in such amounts, we should not expect anything good. Most likely, they are planning something. I am not sure anymore if I should be happy that we captured Yaskhar. I feel extremely tired. Had we not gotten the information out of him, I would've been getting my long deserved rest, not jumping on these damn rocks like a freaking mountain goat.</Original>
+<Chinese>亚沙全招了。他匪帮的驻地设在 Regina。雇佣兵和武器装备是由美国人的船只运送到岛上的。今早, 美国会再送一次。当亚沙告诉我们这些时, 他的言论引起了不少的骚动。我们接到指挥部的命令, 穿过山脉, 并阻击敌方车队。看起来美国人是绝对脱不了干系了。如果雇佣兵和武器装备的数量这么可观, 那么局势一定不容乐观。他们很可能在韬光养晦, 所以我并没有因为抓住了匪首而高兴几分。我太累了。如果我没有抓住亚沙并得知重要情报的话, 我大概还在床上躺着, 享受着闲适, 而不是像一个无脑的山羊一样: 哪有悬崖, 就往哪儿跳</Chinese>
+<Chinesesimp>耶斯凯什么都招了，他的同伙现在在Regina地区活动。他们通过美国人的船只将雇佣兵和武器运送到岛上，今早就会有一次运送。当他告诉我们这些信息时，我们都懵逼了。我们受命翻过高山去拦截运输车队。看起来美国人真在暗中帮这些人，大量的武器和雇佣兵涌入绝逼不是什么好事，他们好像在暗中谋划什么。我不确定我是否应该庆幸我们抓住了耶斯凯。我现在超鸡巴累。要不是我们从耶斯凯口中获得了情报，我现在应该正在享受休息，而不是在这儿跟个傻逼一样爬山</Chinesesimp>
+</Key>
+
+<Key ID="STR_04_Konvoy_task1">
+<Russian>Достичь места встречи</Russian>
+<Original>Get to the mission area</Original>
+<Chinese>前往任务区域</Chinese>
+<Chinesesimp>前往任务区域</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_task1_1">
+<Russian>Необходимо перегруппироваться с отрядом спецназа в данном районе.</Russian>
+<Original>Regroup with the Spetsnaz element in the area.</Original>
+<Chinese>与特战小组在会合点碰头</Chinese>
+<Chinesesimp>前往任务区域</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_task2">
+<Russian>Уничтожить конвой</Russian>
+<Original>Destroy convoy</Original>
+<Chinese>摧毁敌方车队</Chinese>
+<Chinesesimp>摧毁车队</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_task2_1">
+<Russian>Боевики перевозят партию оружия в Регину. Нужно сорвать их планы.</Russian>
+<Original>The guerillas are moving weapons into Regina. We need to stop them.</Original>
+<Chinese>阻止敌方的车队将武器运到他们的 Regina 驻地</Chinese>
+<Chinesesimp>消灭雇佣军和武器运输车队</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_task3">
+<Russian>Зачистить лагерь боевиков</Russian>
+<Original>Clean out the guerilla transfer camp.</Original>
+<Chinese>肃清营地中的武装份子</Chinese>
+<Chinesesimp>摧毁中转码头</Chinesesimp>
+</Key>
+<Key ID="STR_04_Konvoy_task3_1">
+<Russian>Конвой боевиков уничтожен.дело осталось за малым-добить ублюдков в прибрежном лагере.</Russian>
+<Original>The guerilla convoy has been destroyed. Next task - kill all the assholes in the coastal camp.</Original>
+<Chinese>如果车队中的武装份子被完全消灭, 那么营地里背水一战的小股敌军, 应该构不成什么威胁</Chinese>
+<Chinesesimp>摧毁敌武器中转码头</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_hint">
+<Russian>Команды стрелять никто не давал! Вы спугнули боевиков!</Russian>
+<Original>Nobody gave you permission to fire! You scared the guerillas!</Original>
+<Chinese>没人让你现在开火, 你把武装份子全部吓跑了!</Chinese>
+<Chinesesimp>你惊动了恐怖分子！</Chinesesimp>
+</Key>
+<Key ID="STR_00_04_Konvoy_hint1">
+<Russian>Вы спугнули боевиков!</Russian>
+<Original>You scared the guerillas!</Original>
+<Chinese>你把武装份子全部吓跑了!</Chinese>
+<Chinesesimp>你惊动了恐怖分子！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_spez1">
+<Russian>Ну,где вас носит?</Russian>
+<Original>What took you so long?</Original>
+<Chinese>喂, 你去哪儿了?</Chinese>
+<Chinesesimp>去哪儿了搞这么久？</Chinesesimp>
+</Key>
+<Key ID="STR_00_04_Konvoy_spez2">
+<Russian>Гладко было на бумаге, да про горы забыли. Без приказа не стрелять! Залечь в кустах у дороги.</Russian>
+<Original>The order looked easy on paper, but they forgot about the mountains. Do not shoot without an order! Take positions in the bushes next to the road.</Original>
+<Chinese>纸上谈兵终觉浅, 别忘了现实地形的影响。没命令不需开火! 在路旁的灌木丛中寻找隐蔽的射击位置</Chinese>
+<Chinesesimp>我们忘了还要翻山&lt;br/&gt;在路边的草丛中隐蔽好，没有命令不要开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int1">
+<Russian>Скоро рассвет. Нам пора уходить. Нельзя,чтобы русские заметили корабль.</Russian>
+<Original>It is going to be dawn soon. We need to go.  We cannot allow the Russians to spot the ship.</Original>
+<Chinese>天快亮了, 我们得撤了。千万不能让毛子们发现我们的船只</Chinese>
+<Chinesesimp>天马上就要亮了，我们得出发了。&lt;br/&gt;我们不能让毛子发现这些船</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int2">
+<Russian>Разгрузку уже закончили, сейф с деньгами в машине</Russian>
+<Original>We finished unloading, safe with the money is in the car.</Original>
+<Chinese>货已经卸完了, 钱在车里</Chinese>
+<Chinesesimp>卸完货了，钱在车里</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int3">
+<Russian>Теперь у вас достаточно людей и оружия, чтобы раздваить русский гарнизон.</Russian>
+<Original>Now you have enough people and weapons,  to wipe out Russian forces.</Original>
+<Chinese>现在你应该有足够的实力来敲掉毛子们的部队了吧</Chinese>
+<Chinesesimp>现在你们有足够多的人和武器了， 去干掉那些毛子</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int4">
+<Russian>Действуйте строго по плану: сначала уничтожаете связь, потом берете под контроль аэродром,и атакуете город. Затем добиваете оставшиеся части русских.</Russian>
+<Original>Act exactly according to the plan: destroy communications first, then take control of the airport and attack the city. Then just finish off the remaining Russian forces.</Original>
+<Chinese>一定按计划执行: 首先让他们断绝与外界的联系, 然后夺取机场和进攻主要城镇, 最后再扫荡残敌就大功告成了</Chinese>
+<Chinesesimp>就按计划行事：先摧毁他们的通讯设施， 然后控制机场，再进攻城市。 最后干掉剩余的毛子</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int5">
+<Russian>В 16.00 полковник Блэйк получит приказ высадиться на острове. Первые вертолеты будут на аэродроме к 16.30</Russian>
+<Original>At 4 PM, Colonel Blake will receive an order to land on the island. First helicopters should be here by 4.30 PM.</Original>
+<Chinese>下午四点的时候, 布雷克上校会接到登陆岛屿的命令。首批直升机大概会在下午四点半到达机场。</Chinese>
+<Chinesesimp>下午4点布莱克上校会收到登岛的命令。 第一批直升机会在4点半到达</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int6">
+<Russian>К этому моменту русских тут быть не должно-мы не хотим начинать третью мировую. И они не рискнут повторить высадку, узнав о присутствии наших войск и свержении просоветского правительства</Russian>
+<Original>There should not be any Russians here by that time -  we don't want to start World War 3. They won't land again,  when they learn that our troops are on the island and the government was overthrown.</Original>
+<Chinese>保证到那时候没有任何毛子骚扰我们的登陆。我们并不想引爆第三次世界大战。他们也不敢反制, 毕竟他们会明白当地政府已经被推翻, 而且我们的士兵已经登陆了, 任何行动都将变得毫无意义</Chinese>
+<Chinesesimp>到那时岛上不允许有任何毛子存在 我们不想引起第三次世界大战。 当毛子知道我们已经登岛并推翻了这里的政府，他们就不会再来了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int7">
+<Russian>Все так и будет. Славный день. Исторический! Теперь, когда вы еще и деньжат подбросили-никаких проблем не будет.</Russian>
+<Original>Will do, sir. It is a good day. A historical day! Especially now, when we got some extra money from you - there should not be any problems.</Original>
+<Chinese>一定照办, 长官。今天真是个历史性的日子! 有贵处的经济支持, 我想应该不会有什么问题</Chinese>
+<Chinesesimp>是，长官。今天将是有历史意义的一天！ 尤其是你给了我们额外的奖金，现在不会出任何问题了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int8">
+<Russian>Мы уже начали выдавать вознаграждение наемникам. За голову рядового 200$, за сержанта 300$, за офицера...</Russian>
+<Original>We already started giving extras to mercenaries. 200$ for a soldier, 300$ for a sergeant, and for the officer..</Original>
+<Chinese>我们已经把额外的薪水付给那些雇佣兵了。每个列兵 200 美金，中士 300 美金, 军官么...</Chinese>
+<Chinesesimp>我们已经开始给雇佣兵支付额外的酬劳了。 每个士兵200刀，每个中士300刀，至于指挥官...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int9">
+<Russian>Меня не интересует финансовая сторона вопроса- Я солдат,а не бизнесмен. Все это обговаривайте с Биллом.</Russian>
+<Original>I don't care about that - I am a soldier, not a businessman. Talk to Bill about that.</Original>
+<Chinese>我不关心财务分配的问题。我是个军人, 不是经商的。把这些话跟比尔说吧</Chinese>
+<Chinesesimp>我管你丫的给多少- 我是军人，不是商人。跟比尔讨论钱的问题</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int10">
+<Russian>А сейчас вывозите оружие в Регину, и возвращайтесь за последней партией. Через 30 минут мы отплываем.</Russian>
+<Original>And now take weapons to Regina and come back for the last load. We are leaving in 30 minutes.</Original>
+<Chinese>现在你把武器运到 Regina 去, 然后返回来运最后一批货, 我最多再等你半个小时</Chinese>
+<Chinesesimp>现在把这些武器运到Regina，然后回来装最后一批。 我们30分钟后离开</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int11">
+<Russian>Живее! Живее! Не отставать!</Russian>
+<Original>Faster! Faster! Do not fall behind.</Original>
+<Chinese>快点! 快点! 别掉队!</Chinese>
+<Chinesesimp>快点！快点！别掉队</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int12">
+<Russian>Лучше б я маленьким сдох...</Russian>
+<Original>I wish I died in my cradle!</Original>
+<Chinese>我真希望我死在娘胎里!</Chinese>
+<Chinesesimp>我希望我刚出生时就挂了...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int_r1">
+<Russian>Живее! Живее! Не отставать.</Russian>
+<Original>Faster! Faster! Do not fall behind.</Original>
+<Chinese>快点! 快点! 别掉队!</Chinese>
+<Chinesesimp>快点！快点！别掉队</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_int_r2">
+<Russian>Лучше б я маленьким сдох!</Russian>
+<Original>I wish I died in my cradle!</Original>
+<Chinese>我真希望我死在娘胎里!</Chinese>
+<Chinesesimp>我希望我刚出生时就挂了...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_tit1">
+<Russian>2 МИЛИ К ЗАПАДУ&lt;br/&gt; ОТ ПОБЕРЕЖЬЯ ЭВЕРОНА.</Russian>
+<Original>2 MILES WEST&lt;br/&gt;OF EVERON COAST.</Original>
+<Chinese>Everon 以西&lt;br/&gt; 2 英里外的海域</Chinese>
+<Chinesesimp>Everon 岛以西2英里的海上</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r1">
+<Russian>Взрывчатка заложена. Возвращаюсь</Russian>
+<Original>Explosives set. I’m coming back.</Original>
+<Chinese>炸药埋好了! 立即返回</Chinese>
+<Chinesesimp>炸药安装完毕。返回中</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r2">
+<Russian>Заслон 1, говорит Заслон 2. Колонна: 2 джипа,2 грузовика. Идет к вам.</Russian>
+<Original>Cover One, Cover Two here. Convoy: two jeeps, two trucks. Coming towards you.</Original>
+<Chinese>"障碍" 1 号, 这里是"障碍" 2 号。敌方车队: 两辆吉普, 两辆卡车, 正朝你处运动</Chinese>
+<Chinesesimp>掩护一号，掩护二号，发现车队：两辆吉普，两辆卡车，朝你驶去</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r3">
+<Russian>Количество зверьков свыше 30ти, все вооружены.</Russian>
+<Original>More than 30 targets, all armed.</Original>
+<Chinese>大约 30 名敌人, 全副武装</Chinese>
+<Chinesesimp>大约30名武装人员</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r4">
+<Russian>Заслон 2.Вас понял. Заслон 1,Залон 2 - приготовиться. Пехота! Без команды не стрелять! Сигнал для огня-взрыв первой машины.</Russian>
+<Original>Cover Two. Understood. Cover One, Cover Two - get ready. Infantry - do not shoot without an order! Green light on the explosion of the first car.</Original>
+<Chinese>明白了, "障碍" 2 号。"障碍" 1 号和 2 号, 准备射击。没命令不准开火! 当第一辆车爆炸后, 可以自由开火</Chinese>
+<Chinesesimp>掩护二号收到。掩护一号，二号，作好准备。没有命令不要开火！炸弹引爆第一辆车后再开火！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r5">
+<Russian>Заслон 1, Заслон 2. Здесь чисто, выходим на исходную позицию для атаки на лагерь</Russian>
+<Original>Cover One, Cover Two. All clear, proceeding towards the camp.</Original>
+<Chinese>"障碍" 1 号和 2 号, 区域清空。正前往敌军营地</Chinese>
+<Chinesesimp>掩护一号，掩护二号。全员清空，现在前往中转码头</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r6">
+<Russian>Молот, говорит Заслон 1. Задача выполнена. Уничтожено свыше 400 ед. оружия,4 автомашины,и свыше 50ти боевиков. Выходим к вам.</Russian>
+<Original>Hammer, Cover here. Mission accomplished. We destroyed around 400 weapons, 4 vehicles and more than 50 soldiers. Moving to your position.</Original>
+<Chinese>战锤, 这里是"障碍" 1 号。任务完成。大约 400 件各类武器装备, 4 辆车和 50 名武装份子被摧毁和击毙。现正前往你处</Chinese>
+<Chinesesimp>铁锤，我是掩护，任务完成。我军摧毁大约400件武器，4辆车，歼灭50余名敌人。前往你的位置</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r7">
+<Russian>Заслон. Это Молот. Ускорьте передвижение - зверьки в Регине начинают шевелиться.</Russian>
+<Original>Cover. This is Hammer. Hurry up - targets in Regina are starting to move.</Original>
+<Chinese>"障碍" 1 号, 这里是战锤。请加速前往, Regina 附近的目标正在移动</Chinese>
+<Chinesesimp>掩护，我是铁锤，加快步伐。Regina的敌军马上要开始转移了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r8">
+<Russian>Молот. Это Заслон. Вас понял.</Russian>
+<Original>Understood</Original>
+<Chinese>战锤, "障碍" 1 号明白</Chinese>
+<Chinesesimp>了解</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_04_Konvoy_r9">
+<Russian>Заслон 1,Заслон 2. Сбор на северной опушке леса восточнее Регины через 15 минут.</Russian>
+<Original>Cover One, Cover Two. Rendezvous at the northern edge of the forest east of Regina in 15 minutes.</Original>
+<Chinese>"障碍" 1 号和 2 号, 请在 15 分钟内于 Regina 地区东北处的山脊会合</Chinese>
+<Chinesesimp>掩护一号，掩护二号，15分钟后在Regina汇合</Chinesesimp>
+</Key>
+
+<Key ID="STR_04_spez">
+<Russian>Спецназ</Russian>
+<Original>Special Forces</Original>
+<Chinese>特战部队</Chinese>
+<Chinesesimp>特种部队</Chinesesimp>
+</Key>
+<Key ID="STR_04_spez1">
+<Russian>Пехота</Russian>
+<Original>Infantry</Original>
+<Chinese>步兵部队</Chinese>
+<Chinesesimp>步兵</Chinesesimp>
+</Key>
+<Key ID="STR_04_spez2">
+<Russian>Точка встречи</Russian>
+<Original>Rendezvous point</Original>
+<Chinese>会合点</Chinese>
+<Chinesesimp>集结点</Chinesesimp>
+</Key>
+<Key ID="STR_04_spez3">
+<Russian>Колона</Russian>
+<Original>Column</Original>
+<Chinese>车队位置</Chinese>
+<Chinesesimp>车队</Chinesesimp>
+</Key>
+<Key ID="STR_04_spez4">
+<Russian>База боевиков</Russian>
+<Original>Terrorist base</Original>
+<Chinese>武装份子营地</Chinese>
+<Chinesesimp>恐怖分子营地</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

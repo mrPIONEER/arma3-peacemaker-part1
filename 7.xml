@@ -1,0 +1,330 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_00_05_Zachistka">
+<Russian>ЗАЧИСТКА</Russian>
+<Original>CLEAN-UP</Original>
+<Chinese>清剿行动</Chinese>
+<Chinesesimp>清剿</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_brif1">
+<Russian>План</Russian>
+<Original>Plan</Original>
+<Chinese>计划</Chinese>
+<Chinesesimp>计划</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_brif1_1">
+<Russian>По имеющимся данным в поселке Регина, куда следовал конвой с оружием, находится группировка боевиков численностью свыше сотни бойцов. Вашему отделению предстоит блокировать им возможные пути отхода до начала операции по уничтожению. Саму операцию планируется начать после того, как вся банда будет полностью окружена и прибудет подкрепление из Монтигнака.</Russian>
+<Original>Intel believes that there is a force of about a hundred men in the vicinity of Regina, where the convoy was heading. Your squad is to block all possible escape routes for them during the operation. Operation is going to start when the gang is completely surrounded and reinforcements arrive from Montignac.</Original>
+<Chinese>根据最近的情报得知, Regina 地区, 即弹药卡车前往之地, 大约盘踞有上百名武装份子。你的小队将会在发动总攻前堵死任何可能的敌军突围路线。整个行动必须在该地区完全被包围，且得到了来自 Montignac 的预备队支援后, 才得以实施</Chinese>
+<Chinesesimp>情报显示武器运输车队的目的地盘踞着上百名恐怖分子。你所在班奉命封堵所有可能逃跑的路线，然后全歼敌人。歼灭任务将在包围圈形成，以及支援部队从Montignac市赶到后执行。</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_brif2">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战地日记</Chinese>
+<Chinesesimp>日记</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_brif2_1">
+<Russian>Я уже сутки на ногах. Вдобавок мне торжественно всучили пулемет, а он такой тяжелый, зараза. Судя по всему боевики планировали какую то крупную акцию. Остается только надеяться, что такой пинок заставить их отказаться от своих планов. Сейчас вычистим этот гадюшник, и я свалюсь спать прямо там, где закончу бой. Если не подстрелят - тьфу, тьфу, тьфу.</Russian>
+<Original>I didn't get any sleep for at least 24 hours now. Moreover, I was given a machine gun, and it is heavy as hell. By the looks of it, terrorists planned a major operation. I can only hope that such massive blow will make them forget their plans. When we get rid of that viper's nest, I will fall asleep where I stand..... if I don't get shot, that is...</Original>
+<Chinese>我走了一天, 基本没睡。不过，我额外得到了一把机枪, 虽然他非常沉重, 但我觉得它特别神圣。看起来, 武装份子正准备执行他们的大型军事行动, 我想我们的总攻将会让他们无暇顾及自身的作战计划。一旦我们把它们的毒巢端掉之后, 我真的想倒地就睡。但是, 如果我们坐以待毙, 那事情只会变得更糟...</Chinese>
+<Chinesesimp>我起码24小时没睡了。而且现在还给我分配了一挺机枪，超鸡巴重。看起来恐怖分子正在搞个大计划，我只希望我们的行动能让他们打消这个念头。只要我们搞定这些恐怖分子，我就就地倒下睡觉-前提是我不被射中...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_task1">
+<Russian>Занять позицию</Russian>
+<Original>Get to the starting position</Original>
+<Chinese>抵达任务地点</Chinese>
+<Chinesesimp>到达出发点</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task1_1">
+<Russian>Занять исходную позицию для атаки на лагерь боевиков.</Russian>
+<Original>Get to the starting position before attacking the guerilla camp</Original>
+<Chinese>在总攻发起前到达攻击位置</Chinese>
+<Chinesesimp>到达出发点</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task2">
+<Russian>Задержать боевиков</Russian>
+<Original>Contain the guerillas</Original>
+<Chinese>抵挡武装份子突围</Chinese>
+<Chinesesimp>扣留武装分子</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task2_1">
+<Russian>Спецназ нарвался на патруль и спугнул боевиков. Нельзя допустить прорыва боевиков из окружения.</Russian>
+<Original>Special Forces made contact with the guerillas. Do not let any guerillas escape out of encirclement in your sector.</Original>
+<Chinese>打击武装份子的士气, 并确保没有任何一个武装份子从你的作战区域逃脱</Chinese>
+<Chinesesimp>不要让任何敌人逃出包围圈</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task3">
+<Russian>Зачистить район Регины</Russian>
+<Original>Clean Regina of enemy forces</Original>
+<Chinese>肃清 Regina 地区</Chinese>
+<Chinesesimp>进攻Regina镇</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task3_1">
+<Russian>Конвой уничтожен, необходимо зачистить район Регины от боевиков.</Russian>
+<Original>Convoy destroyed, attack the remaining terrorist forces.</Original>
+<Chinese>既然车队已经被摧毁, 那就把 Regina 地区剩余的武装份子送上天</Chinese>
+<Chinesesimp>消灭残余恐怖分子</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task4">
+<Russian>Догнать и уничтожить боевиков</Russian>
+<Original>Catch up with and destroy the terrorists</Original>
+<Chinese>加入大部队, 并摧毁武装份子的抵抗</Chinese>
+<Chinesesimp>追击恐怖分子</Chinesesimp>
+</Key>
+<Key ID="STR_00_05_Zachistka_task4_1">
+<Russian>Отряд боевиков смог ускользнуть из окружения. Догоните и ликвидируйте их!</Russian>
+<Original>As part of a Special Forces team, eliminate the part of the gang that managed to break through the encirclement.</Original>
+<Chinese>有武装份子的支队正准备突围, 消灭他们</Chinese>
+<Chinesesimp>作为特种部队的一员，消灭侥幸逃出包围圈的恐怖分子</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_hint">
+<Russian>Команды стрелять никто не давал! Вы спугнули боевиков!</Russian>
+<Original>Nobody gave you an order to fire! You spooked the guerillas!.</Original>
+<Chinese>没有命令不需开火! 你又把武装份子吓跑了!</Chinese>
+<Chinesesimp>禁止射击</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int1">
+<Russian>Астахов! Димон - возьми пулемёт!</Russian>
+<Original>Astakhov! Dimon, take the machine gun.</Original>
+<Chinese>阿斯塔柯夫! 迪蒙, 拿上这把机枪!</Chinese>
+<Chinesesimp>阿斯塔霍夫！拿着这挺机枪</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int2">
+<Russian>На хрен мне эта дура сдалась - себя еле передвигаю уже.</Russian>
+<Original>Why in hell would I need that thing? I can barely move myself.</Original>
+<Chinese>我为啥需要这玩意儿? 拿着它我自己都走不动</Chinese>
+<Chinesesimp>我要机枪干球？我连动都懒得动</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int3">
+<Russian>Лейтенант приказал.</Russian>
+<Original>Lieutenant’s order.</Original>
+<Chinese>这是中尉的命令</Chinese>
+<Chinesesimp>这是命令</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int4">
+<Russian>Вот пускай сам и берёт! Мне это железо на фиг не уперлось.</Russian>
+<Original>Get it yourself! I don't need that pile of metal.</Original>
+<Chinese>让他自己拿! 我才不要这个铁棍子呢</Chinese>
+<Chinesesimp>你自己拿着呗！我不想拿着一堆废铁</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int5">
+<Russian>Мне так ему и передать?</Russian>
+<Original>Should I tell the liuetenant you said so?</Original>
+<Chinese>那我就把原话告诉中尉咯?</Chinese>
+<Chinesesimp>你要我这样跟中尉汇报吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int6">
+<Russian>Да возьму-возьму. Не было печали. Я из него и стрелял то раза 2,ещё в учебке.</Russian>
+<Original>Ok, I will get it. I only shot from that thing twice, back in the boot camp.</Original>
+<Original>Ok, I will get it. I only shot from that thing twice, back in the boot camp.</Original>
+<Chinese>行了, 行了, 我拿就是了。我就拿他打过两次枪, 而且还是在训练靶场干的</Chinese>
+<Chinesesimp>算球，我拿吧。 我只打过两次机枪，而且还是在新兵营时</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int7">
+<Russian>Все кто умеет-уже или с пулемётами или в госпитале. Остальные вообще его в руках не держали.</Russian>
+<Original>The people who can use it are either using it or in hospital. Others have never used it before.</Original>
+<Chinese>能拿这枪的人, 要么就是自己已经有一把了, 要么就是躺在医院里。剩下的人, 连拿都没拿过</Chinese>
+<Chinesesimp>会用机枪的人要么已经在用了，要么已经挂了。 其他人都从来没用过</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int8">
+<Russian>Ой, ну только не надо меня лечить. Сказал же: уже беру!</Russian>
+<Original>Okay, okay, I get your point. I said, I’ll take it!</Original>
+<Chinese>好了, 我了解你的意思了, 我拿就是了呗!</Chinese>
+<Chinesesimp>好吧知道了。我拿着就是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int9">
+<Russian>Товарищи офицеры. Уточним детали. Достаньте ваши карты.</Russian>
+<Original>Comrades officers. Let's go over the details. Take out your maps.</Original>
+<Chinese>军官同志, 现在我们来讲点具体的, 拿出你的作战地图</Chinese>
+<Chinesesimp>军官们，我们再过一遍细节，大家打开地图</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int10">
+<Russian>По уточненным данным в Регине свыше сотни боевиков. С таким крупным бандформированием мы ещё тут не сталкивались.</Russian>
+<Original>According to our intelligence, there’s more than a 100 fighters in Regina. We never encountered such big terrorist force before.</Original>
+<Chinese>最近的情报显示, 在 Regina 附近大约驻扎有上百名武装份子。我们目前还没有接触过如此庞大的敌军人员</Chinese>
+<Chinesesimp>根据情报，有超过100名敌军在Regina镇。 我们从未遇到过如此规模的敌军</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int11">
+<Russian>Из Монтигнака к нам уже идут на помощь 2 отделения с БМП. Но,не дождавшись конвоя,бандиты могут заподозрить неладное и уйти в горы</Russian>
+<Original>Two mechanized squads with BMPs from Montignac are already coming to help us. However, the terrorists can suspect something’s going on, since the convoy is not here yet nand might try to escape to the mountains.</Original>
+<Chinese>从 Montignac 过来支援的有两个装备 BMP 战车的摩托化小队。但武装份子可能会发现车队未按时到达, 遂翻山逃离</Chinese>
+<Chinesesimp>两个BMP摩托化步兵班正从Montignac市赶来支援。 但是由于我们袭击了车队，这边的恐怖分子肯定察觉到了什么， 他们可能会企图逃到山里去</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int12">
+<Russian>Наша задача окружить посёлок и в случае попытки уйти - блокировать их до прибытия подкрепления.</Russian>
+<Original>Our task is to surround the village and and in case of breakout attempt, block it until the reinforcements arrive.</Original>
+<Chinese>你的任务是, 在援军到达之前, 包围 Regina 地区, 并击退任何突围的武装份子</Chinese>
+<Chinesesimp>你们的任务是包围村庄直至支援部队到达</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int13">
+<Russian>Пехота закрывает им север-северо-восток. Спецназ - юг-юго-восток Таким образом, им некуда будет бежать: на западе море</Russian>
+<Original>Infantry will cover north-northeast. Special forces - south-southwest. That way, they won't be able to escape, as there is a sea to the west.</Original>
+<Chinese>步兵将会在东北偏北的位置阻击。特战部队将会在西南偏南的位置阻击。因此, 他们无处藏身, 因为西面是一片汪洋大海</Chinese>
+<Chinesesimp>步兵负责包围北面和东北面。特种部队负责南面和西南面。 那样他们就没法逃跑，因为西面是大海</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int14">
+<Russian>До прибытия БМП около 20-ти минут. Если все пройдет гладко,атакуем их одовременно с трех направлений и уничтожаем.</Russian>
+<Original>We have around 20 minutes until BMPs arrive. If everything goes according to plan, we attack them from three directions at once and eliminate them.</Original>
+<Chinese>在 BMP 到达之前支撑 20 分钟, 然后如果一切顺利, 我们将会三路进军, 将武装份子歼灭</Chinese>
+<Chinesesimp>BMP步战车还有20分钟才能到达。 如果一切顺利，我们将从三个方向进攻敌军， 并全歼他们</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int15">
+<Russian>До прибытия подмоги своего присутствия не выдавать! Передвигаемся скрытно, огонь без крайней необходимости запрещаю. Все ясно?</Russian>
+<Original>Try to stay undetected until reinforcements arrive!  Move silently and do not shoot without an order. Is everything clear?</Original>
+<Chinese>在援军到达前保持隐蔽, 低调行动, 没有命令不许开枪暴露自身。明白了吗?</Chinese>
+<Chinesesimp>注意保持隐蔽直至支援部队到达！ 悄悄行动，没有命令不要开火， 清楚了吗？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int16">
+<Russian>Так точно.</Russian>
+<Original>Yes sir.</Original>
+<Chinese>是, 长官</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_int17">
+<Russian>Выдвигайтесь на указанные позиции. И...удачи нам всем.</Russian>
+<Original>Move to your designated positions. And... good luck to all of us.</Original>
+<Chinese>移动到你的相关区域, 然后, 祝咱们好运</Chinese>
+<Chinesesimp>大家进入指定位置，祝好运</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_tit1">
+<Russian>На точке сбора.</Russian>
+<Original>At rendezvous point</Original>
+<Chinese>在会合点</Chinese>
+<Chinesesimp>在集结点</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_chert1">
+<Russian>Какого черта вы там творите?!</Russian>
+<Original>What the hell are you doing there?!</Original>
+<Chinese>你他妈在这儿干嘛?</Chinese>
+<Chinesesimp>你他娘的在干恁？</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_chert2">
+<Russian>Нарвались на патруль.</Russian>
+<Original>Encountered a patrol!</Original>
+<Chinese>遭遇敌方巡逻!</Chinese>
+<Chinesesimp>干一巡逻队！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_chert3">
+<Russian>Вы их спугнули - сейчас ломанут в горы.</Russian>
+<Original>You spooked them - they will try to escape to the mountains now.</Original>
+<Chinese>你把他们吓跑了, 现在他们将会尝试穿山越岭, 逃之夭夭</Chinese>
+<Chinesesimp>你个傻逼惊动他们了-他们会逃到山里去的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_kolonna">
+<Russian>Колонна погла на север! Пехота! Задержите их! Остальных мы свяжем огнем</Russian>
+<Original>Convoy is moving to the north! Infantry - hold them off! We will hold the rest of them here.</Original>
+<Chinese>车队正往北行驶! 敌方人员! 挡住他们! 我们会处理其余的人员</Chinese>
+<Chinesesimp>有车队驶向北面！步兵们！截停他们！我们解决剩下的人</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_bronya1">
+<Russian>Броня! Вы где? У нас проблема - возможен прорыв в северном направлении.</Russian>
+<Original>Armour! Where are you? We have a problem, they might try to escape through the north.</Original>
+<Chinese>"装甲"部队! 你们在哪里? 我们遇到麻烦了, 他们很可能从北面突围</Chinese>
+<Chinesesimp>装甲车！你们他妈到了没？这儿出了点状况，敌人正尝试逃跑</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_bronya2">
+<Russian>Это Броня. Мы на марше. Будем минут через 5.</Russian>
+<Original>This is Armour. We are on our way. Be there in five minutes.</Original>
+<Chinese>这里是"装甲"部队! 我们在路上了, 预计 5 分钟内到达</Chinese>
+<Chinesesimp>这里是装甲车部队，我们五分钟后到达</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_bronya3">
+<Russian>Заслоны - если ломанут на вас, прижмите их к земле и ждите броню.</Russian>
+<Original>Covers - if they try to overrun you, pin them down with fire and wait for the armour to arrive.</Original>
+<Chinese>所有"障碍"部队, 如果他们尝试脱离包围圈, 就把他们击退, 并撑到"装甲"部队到达</Chinese>
+<Chinesesimp>掩护组-装甲车到达前必须守住他们的强攻</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_ataka1">
+<Russian>Говорит Броня. Вышли на исходную, вступаем в бой.</Russian>
+<Original>This is Armour. We are in position, engaging.</Original>
+<Chinese>这里是"装甲"部队, 我们已到达预定位置, 准备进攻</Chinese>
+<Chinesesimp>这里是装甲车部队，我们已经就位，开始进攻</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_ataka2">
+<Russian>Заслон1, Заслон2 - выдвигайтесь к поселку за броней.</Russian>
+<Original>Cover 1, Cover 2 - move to the village behind the armour.</Original>
+<Chinese>"障碍" 1 号, "障碍" 2 号, 请机动至"装甲"部队后方的村庄处</Chinese>
+<Chinesesimp>掩护一号，掩护二号-跟随装甲车攻入镇内</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_spec1">
+<Russian>Часть боевиков прорвалась на юго-восток. Дайте мне пару ребят - догоню.</Russian>
+<Original>Some of them managed to break through our lines to the southeast. Give me couple of your guys - we’ll catch up with them.</Original>
+<Chinese>他们当中有些人尝试从西南方向突围, 再给我几个人, 我绝对能把他们放倒</Chinese>
+<Chinesesimp>有些匪徒突破了防线逃到了西南面。给我几个人，我们去解决他们</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_05_Zachistka_spec2">
+<Russian>Действуй! Астахов и Сернеев в распроряжение спецназа.</Russian>
+<Original>Go ahead! Astakhov and Sergeev, you work with special forces now.</Original>
+<Chinese>你们去! 阿斯塔柯夫, 谢尔盖耶夫, 你们现在编入特战小队</Chinese>
+<Chinesesimp>好的！阿斯塔霍夫，塞杰弗，你们现在跟特种部队混</Chinesesimp>
+</Key>
+
+<Key ID="STR_05_m1">
+<Russian>Спецназ</Russian>
+<Original>Spetsnaz</Original>
+<Chinese>Spetsnaz 特战小队</Chinese>
+<Chinesesimp>特种部队</Chinesesimp>
+</Key>
+<Key ID="STR_05_m2">
+<Russian>Заслон-1</Russian>
+<Original>Cover-1</Original>
+<Chinese>"障碍" 1 号</Chinese>
+<Chinesesimp>掩护一号</Chinesesimp>
+</Key>
+<Key ID="STR_05_m3">
+<Russian>Заслон-2</Russian>
+<Original>Cover-2</Original>
+<Chinese>"障碍" 2 号</Chinese>
+<Chinesesimp>掩护二号</Chinesesimp>
+</Key>
+<Key ID="STR_05_m4">
+<Russian>Заслон-3</Russian>
+<Original>Cover-3</Original>
+<Chinese>"障碍" 3 号</Chinese>
+<Chinesesimp>掩护三号</Chinesesimp>
+</Key>
+<Key ID="STR_05_m5">
+<Russian>Коробочка</Russian>
+<Original>BMP</Original>
+<Chinese>BMP 步战车</Chinese>
+<Chinesesimp>BMP装甲车</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

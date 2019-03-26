@@ -1,0 +1,369 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_00_06_Perevorot">
+<Russian>ПЕРЕВОРОТ</Russian>
+<Original>COUP D’ETAT</Original>
+<Chinese>军事政变</Chinese>
+<Chinesesimp>革命</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_brif1">
+<Russian>План</Russian>
+<Original>Plan</Original>
+<Chinese>计划</Chinese>
+<Chinesesimp>计划</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_brif1_1">
+<Russian>Направляйтесь в Монтигнак для дальнейшего несения службы. Дальнейшие инструкции Вы получите от майора Воснецова.</Russian>
+<Original>Head to Montignac and receive new orders. You will receive further instructions from major Vosnecov.</Original>
+<Chinese>前往 Montignac 听候进一步指示。伏斯纳索夫少校会给你指派新的任务</Chinese>
+<Chinesesimp>前往Montignac市。等待瓦西里科娃少校的进一步指示</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_brif2">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战地日记</Chinese>
+<Chinesesimp>日记</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_brif2_1">
+<Russian>После боя с бандитами мы направляемся в столицу Эверона - Монтигнак. Зачем - пока неизвестно. Как же мне хочется домой.</Russian>
+<Original>After a battle with the bandits, we head to the capital of Everon - Montignac.  Why - we don’t know yet. I miss home so much.</Original>
+<Chinese>经历了多场剿匪的战斗后, 我们终于回到了 Everon 的首府, 即 Montignac。我们不知道为什么去那儿, 不过回家总是振奋人心的</Chinese>
+<Chinesesimp>剿匪行动结束后，我们前往Everon岛的首都：Montignac市。虽然不知道为什么要去，但是能回家我还是很兴奋</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_task1">
+<Russian>Следуйте в Монтигнак</Russian>
+<Original>Move to Montignac</Original>
+<Chinese>跟部队一同前往 Montignac</Chinese>
+<Chinesesimp>跟随前往Montignac市</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task2">
+<Russian>Доставить донесение в Монтигнак</Russian>
+<Original>Deliver a report to Montignac</Original>
+<Chinese>向 Montignac 报告状况</Chinese>
+<Chinesesimp>给Montignac市送信</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task2_1">
+<Russian>Предупредить о приближении противника в Монтигнаке</Russian>
+<Original>Warn the garrison in Montignac of the approaching enemy force</Original>
+<Chinese>Montignac 的友军必须知晓敌方正朝他们逼近</Chinese>
+<Chinesesimp>通报敌人正前往Montignac市</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task3">
+<Russian>Доложить о ситуации ген. Губину</Russian>
+<Original>Report the situation to Gen. Gubin.</Original>
+<Chinese>向古宾将军报告</Chinese>
+<Chinesesimp>向古巴将军汇报</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task3_1">
+<Russian>Доставить донесение лично генералу Губину.</Russian>
+<Original>Deliver a report on the situation personally to General Gubin.</Original>
+<Chinese>单独向古宾将军报告战场态势</Chinese>
+<Chinesesimp>亲自向古巴将军汇报</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task4">
+<Russian>Защитить Монтигнак</Russian>
+<Original>Protect Montignac</Original>
+<Chinese>防守 Montignac</Chinese>
+<Chinesesimp>保卫Montignac市</Chinesesimp>
+</Key>
+<Key ID="STR_00_06_Perevorot_task4_1">
+<Russian>Помочь нашим ребятам отбиться от боевиков в Монтигнаке.</Russian>
+<Original>Help our guys fight off the guerillas in Montignac.</Original>
+<Chinese>与友军共同抵御敌方对 Montignac 的进攻</Chinese>
+<Chinesesimp>帮助友军击退进攻Montignac市的敌人</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_0">
+<Russian>Заря, заря. Это Странник. Приём.</Russian>
+<Original>Dawn, dawn. This is stranger. Come in.</Original>
+<Chinese>"黎明", "黎明", 这里是"陌生人", 完毕</Chinese>
+<Chinesesimp>黎明，黎明，我是路人，完毕</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_1">
+<Russian>Заря, заря. Это Странник. Приём.</Russian>
+<Original>Dawn, dawn. This is stranger. Come in.</Original>
+<Chinese>"黎明", "黎明", 这里是"陌生人", 完毕</Chinese>
+<Chinesesimp>黎明，黎明，我是路人，完毕</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_2">
+<Russian>Заря, как слышите меня? Приём.</Russian>
+<Original>Dawn, do you hear me? Come in.</Original>
+<Chinese>"黎明", 你是否收到? 请回话</Chinese>
+<Chinesesimp>黎明，收到吗？完毕</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_3">
+<Russian>Чёрт. Связи нет вообще. Полная тишина в эфире.</Russian>
+<Original>Damn. I can't raise anyone. The whole network is down.</Original>
+<Chinese>该死。谁都联系不上, 整个通信都瘫痪了</Chinese>
+<Chinesesimp>操。失联了，整个通讯网络都废了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_4">
+<Russian>Блин, может рация барахлит?</Russian>
+<Original>Might be your radio?</Original>
+<Chinese>娘的, 是不是你的无线电出了问题?</Chinese>
+<Chinesesimp>可能是你的对讲机坏了</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_5">
+<Russian>Рация в норме. Странно всё это. Только что связь работала.</Russian>
+<Original>The radio is fine. This is really strange. It was working 5 minutes ago.</Original>
+<Chinese>无线电没问题。太奇怪了, 5 分钟前还好好的</Chinese>
+<Chinesesimp>对讲机是好的。奇了怪了，我五分钟前还用着好好的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig1_6">
+<Russian>Заря. Это Странник. Приём! Чёрт побери!</Russian>
+<Original>Dawn. This is Stranger. Come in, dammit!</Original>
+<Chinese>"黎明", 这里是"陌生人", 回话! 妈的!</Chinese>
+<Chinesesimp>黎明，我是路人，完毕！操！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig2_0">
+<Russian>Что за черт?! ТАНКИ! Это засада!</Russian>
+<Original>What the hell!? TANKS! It's an ambush!</Original>
+<Chinese>搞什么鬼?! 坦克! 有埋伏!</Chinese>
+<Chinesesimp>卧槽？坦克！有埋伏！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig2_1">
+<Russian>Все из машины! Быстро!</Russian>
+<Original>Everyone out of the truck! Quick!</Original>
+<Chinese>所有人下车, 赶紧的!</Chinese>
+<Chinesesimp>所有人下车！快！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig2_2">
+<Russian>Астахов! Срочно дуй в Монтигнак, предупреди наших!</Russian>
+<Original>Astakhov! Go to Montignac as fast as possible, and warn our forces there!</Original>
+<Chinese>阿斯塔柯夫! 尽快赶去 Montignac, 并通知友军: 敌人来了!</Chinese>
+<Chinesesimp>阿斯塔霍夫！立刻前往Montignac市报信，越快越好！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig2_3">
+<Russian>Есть!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig3_0">
+<Russian>Товарищ капитан! Мы попали в засаду! В Ламентине бандиты! У них танки! Они движутся сюда!</Russian>
+<Original>Captain! We were ambushed! Lamentin is crawling with terrorists! They have tanks! They are coming here!</Original>
+<Chinese>上尉同志! 我们遭遇埋伏, 是拉门廷匪帮! 他们有坦克! 并正朝你们开来!</Chinese>
+<Chinesesimp>上尉！我们中埋伏了！Lamentin镇全是恐怖分子！&lt;br/&gt;他们有坦克，他们朝这里过来了！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig3_1">
+<Russian>Рядовой! Езжайте немедленно в Меукс! Там наши основные силы! Сообщите о ситуации генералу Губину!</Russian>
+<Original>Private! Go to Meoux immediately! Our main forces are over there! Report the situation to general Gubin!</Original>
+<Chinese>列兵! 前往 Meoux! 我们的主力在那儿, 并直接向古宾将军报告!</Chinese>
+<Chinesesimp>列兵！去Meoux市！我们的大部队在那边！ 向古巴将军汇报这个情况！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig3_2">
+<Russian>Зиновьев! Гарнизон в ружье!</Russian>
+<Original>Zinoviev! Get ready for a fight!</Original>
+<Chinese>季诺夫耶夫! 准备战斗!</Chinese>
+<Chinesesimp>季诺维也夫！准备战斗！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig3_3">
+<Russian>Есть!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig3_4">
+<Russian>Есть!</Russian>
+<Original>Yes sir!</Original>
+<Chinese>是, 长官!</Chinese>
+<Chinesesimp>是！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig4_0">
+<Russian>Товарищ генерал! Рядовой Астахов!</Russian>
+<Original>Comrade General! Private Astakhov reporting!</Original>
+<Chinese>将军同志! 列兵阿斯塔柯夫报告!</Chinese>
+<Chinesesimp>将军同志！列兵阿斯塔霍夫向您汇报！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig4_1">
+<Russian>Большая группировка противника с танками направляется в сторону Монтигнака!</Russian>
+<Original>A big enemy force with tanks is moving towards Montignac!</Original>
+<Chinese>装备有坦克的大量敌军部队正向 Montignac 运动!</Chinese>
+<Chinesesimp>大量敌军正在坦克掩护下进攻Montignac市！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig4_2">
+<Russian>Меня прислали доложить о ситуации. Нашим срочно нужна подмога!</Russian>
+<Original>I was sent here to report the situation.  Our forces need help!</Original>
+<Chinese>我被派来向您报告! 我们急需增援!</Chinese>
+<Chinesesimp>我特此赶来汇报。 我们的部队需要支援！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig4_3">
+<Russian>Ни дня покоя! Гарнизон в ружье! Тревога!</Russian>
+<Original>Not a single day without trouble! Everyone get ready! Alert!</Original>
+<Chinese>这一天都没得安生! 部队集合! 战斗警报!</Chinese>
+<Chinesesimp>这他娘的一天天的！好了所有人准备战斗！拉警报！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_ig4_4">
+<Russian>Астахов, отправляйся в Монтигнак вместе с отрядом Воронцова!</Russian>
+<Original>Astakhov, go to Montignac with Vorontsov's squad!</Original>
+<Chinese>阿斯塔柯夫, 和伏罗索夫的支队一起前去 Montignac</Chinese>
+<Chinesesimp>阿斯塔霍夫，你跟沃龙佐夫的小队一起去Montignac市！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_0">
+<Russian>Странник, странник, вызывает Заря. Как слышите меня? Приём!</Russian>
+<Original>Stranger, stranger, this is dawn. Do you hear me? Come in!</Original>
+<Chinese>"陌生人","陌生人", 这里是"黎明"。是否收到? 完毕</Chinese>
+<Chinesesimp>路人，路人，我是黎明。 收到吗？完毕</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_1">
+<Russian>Странник, вам необходимо прибыть в пункт 03-Б5 к 17-00. Подтвердите!</Russian>
+<Original>Stranger, you need to get to point 03-B5 by 5 PM. Please confirm!</Original>
+<Chinese>"陌生人", 你必须在下午五点赶到 03-B5 地区, 确认是否收到!</Chinese>
+<Chinesesimp>路人，你们必须在下午5点前到达03-B5据点。 收到请确认！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_2">
+<Russian>Вас понял, конец связи. Хорошей дороги.</Russian>
+<Original>Understood, over and out. Have a safe journey.</Original>
+<Chinese>明白, 通话完毕。祝你好运</Chinese>
+<Chinesesimp>收到。一路顺风</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_3">
+<Russian>Что за черт творится в эфире, от рации не отойдёшь, даже перекур не устроить...</Russian>
+<Original>What the hell is going on, can't leave a radio for a second, not even for a smoke break...</Original>
+<Chinese>通信到底出现了什么问题, 得时时守着无线电, 连抽根烟歇息的功夫都没有...</Chinese>
+<Chinesesimp>到底他妈的啥事啊，一天到晚得开着电台， 连抽烟时都得开着</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_4">
+<Russian>Завтра важный день Соловьев, работать нужно, курить потом будем.</Russian>
+<Original>Tomorrow is a really important day, Soloviev, you need to work now, you can smoke later.</Original>
+<Chinese>明天可是个重要的日子, 索罗伏耶夫。等把活儿干完了, 有的是抽烟的功夫</Chinese>
+<Chinesesimp>索洛维约夫，明天是很重要的一天， 现在你得干活，烟可以今后再抽</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_5">
+<Russian>Да-да...</Russian>
+<Original>Yes yes...</Original>
+<Chinese>行, 行...</Chinese>
+<Chinesesimp>好吧好吧...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_6">
+<Russian>Савин, отправляйся в Монтигнак, нам нужен новый генератор. Только живо!</Russian>
+<Original>Savin, go to Montignac, we need a new generator. Do it lively!</Original>
+<Chinese>萨文, 你去趟 Montignac, 我们需要一个新的发电机。别把命丢了!</Chinese>
+<Chinesesimp>赛维因，去Montignac市，我们需要一台新的发电机。 快点！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_7">
+<Russian>Есть товарищ старший сержант!</Russian>
+<Original>Yes, comrade Senior Sergeant!</Original>
+<Chinese>是, 上士同志!</Chinese>
+<Chinesesimp>是，中士！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int1_8">
+<Russian>Действуй!</Russian>
+<Original>Go ahead!</Original>
+<Chinese>行动!</Chinese>
+<Chinesesimp>行动！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_1">
+<Russian>Смотри не облажайся! Другого такого шанса у нас не будет. Сегодня последний день!</Russian>
+<Original>Don't screw this up! We won't have another chance like that. Today is the last day!</Original>
+<Chinese>别把事儿搞砸了! 我们就这一次机会, 把今天当成自己的忌日吧!</Chinese>
+<Chinesesimp>别掉链子！我们今后不会再有这样的机会了。 今天是最后一天！</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_2">
+<Russian>Да, я все помню. Не подведу, не переживай Чек. Не первый день на войне.</Russian>
+<Original>Yes I know. Don't worry, I won't dissapoint you. It is not my first war, after all.</Original>
+<Chinese>对, 我知道。不会让你失望的, 查克, 别担心。我又不是第一次上战场</Chinese>
+<Chinesesimp>了解。放心，我不会让你失望的。 我又不是第一次干</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_3">
+<Russian>И не забудь что нужно делать, если тебя поймают.</Russian>
+<Original>And do not forget what you need to do if you're caught.</Original>
+<Chinese>也别忘了你被抓到后, 要做些什么</Chinese>
+<Chinesesimp>如果你被抓了，你知道该怎么做</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_4">
+<Russian>Да, взрыватель у меня в кармане и на взводе, поэтому лучше не нервируй меня и не заставляй сжимать кулаки.</Russian>
+<Original>Yes, detonator is ready and sitting in my pocket, just don't make me nervous and clench my fists....</Original>
+<Chinese>知道, 引信就在我口袋边上。你最好别让我那么紧张, 我现在两手根本松都松不开...</Chinese>
+<Chinesesimp>引爆器在我口袋里， 别搞的那么紧张...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_5">
+<Russian>Ладно-ладно, умник...</Russian>
+<Original>Alright, alright, smartass...</Original>
+<Chinese>好好好, 二货一枚...</Chinese>
+<Chinesesimp>不管怎样，机灵点儿...</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_6">
+<Russian>Ну все, приехали! Удачи тебе! Я буду ждать здесь! Но если через 1 минуту тебя не будет - я смываюсь.</Russian>
+<Original>Here we go! Good luck to you! I will wait for you here, if you're not back in 1 minute - I am outta here.</Original>
+<Chinese>好, 行动吧。祝你好运! 我会在这里等你, 如果你能在 1 分钟内完事儿的话</Chinese>
+<Chinesesimp>就是这儿，祝你好运！我在这儿等你， 如果你一分钟内没回来，我就闪</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_int2_7">
+<Russian>Ок. Я буду.</Russian>
+<Original>Ok. I'll be here.</Original>
+<Chinese>好, 我会完事儿的</Chinese>
+<Chinesesimp>好的我会回来的</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_tit1">
+<Russian>ПО ДОРОГЕ &lt;br/&gt;К МОНТИГНАКУ</Russian>
+<Original>ON THE ROAD &lt;br/&gt;TO MONTIGNAC</Original>
+<Chinesesimp>在去MONTIGNAC市的路边</Chinesesimp>
+<Chinese>在去 Montignac &lt;br/&gt;的路上</Chinese>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_tit2">
+<Russian>КОММУНИКАЦИОННЫЙ ЦЕНТР &lt;br/&gt;СВЯЗИ МИРОТВОРЧЕСКИХ СИЛ</Russian>
+<Original>PEACEKEEPING FORCES’&lt;br/&gt; COMMUNICATIONS STATION</Original>
+<Chinese>维和部队 &lt;br/&gt;通讯中心</Chinese>
+<Chinesesimp>维和部队 &lt;br/&gt; 通讯基站</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_tit3">
+<Russian>СПУСТЯ 10 МИНУТ</Russian>
+<Original>10 MINUTES LATER</Original>
+<Chinese>10 分钟后</Chinese>
+<Chinesesimp>10分钟后</Chinesesimp>
+</Key>
+
+<Key ID="STR_00_06_Perevorot_tit4">
+<Russian>СПУСТЯ 30 МИНУТ. &lt;br/&gt;У МОНТИГНАКА.</Russian>
+<Original>30 MINUTES LATER. &lt;br/&gt; NEAR MONTIGNAC.</Original>
+<Chinese>半小时后 &lt;br/&gt;Montignac</Chinese>
+<Chinesesimp>30分钟后 &lt;br/&gt; MONTIGNAC市</Chinesesimp>
+</Key>
+
+</Container>
+</Package>
+</Project>

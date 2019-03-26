@@ -1,0 +1,381 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_01_zasada">
+<Russian>ПЕРВАЯ КРОВЬ</Russian>
+<Original>FIRST BLOOD</Original>
+<Chinese>第一滴血</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_brif1">
+<Russian>План миссии</Russian>
+<Original>Mission Plan</Original>
+<Chinese>任务计划</Chinese>
+</Key>
+<Key ID="STR_01_zasada_brif1_1">
+<Russian>Проследовать в Тирон для развертывания в этом городе блок-поста миротворческого контингента.</Russian>
+<Original>Proceed to Tyrone for the deployment from peacekeepers' post</Original>
+<Chinese>前往 Tyrone 设立维和部队前哨</Chinese>
+</Key>
+<Key ID="STR_01_zasada_brif2">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+<Chinese>战地日记</Chinese>
+</Key>
+<Key ID="STR_01_zasada_brif2_1">
+<Russian>Первый день на острове. Говорили что здесь будет жарко, а оказалось нет. Климат такой же как и дома. Завтра наш летеха обещал сводить покупаться. Эх, на городской бы пляж попасть...</Russian>
+<Original>First day on the island. They told me that is is going to be hot here, turns out it's not. Same climate as at home. Our lieutenant promised to take us for a swim tomorrow. I wish we could go to the city's beach...</Original>
+<Chinese>来岛第一天。他们告诉我这里很热, 但事实并非如此。这里的温度和家乡一样。我们的中尉答应带大家明天去游泳。我真希望去城里和海滩边上遛遛</Chinese>
+</Key>
+
+
+<Key ID="STR_01_zasada_pres">
+<Russian>&lt;t color='#ff0000' size = '1'&gt;ПРЕДСТАВЛЯЮТ КАМПАНИЮ&lt;/t&gt; &lt;br/&gt; &lt;t color='#0037ff' size = '3'&gt;&lt;br/&gt;МИРОТВОРЕЦ&lt;/t&gt;</Russian>
+<Original>&lt;t color='#ff0000' size = '1'&gt;PRESENT THE CAMPAIGN&lt;/t&gt; &lt;br/&gt; &lt;t color='#0037ff' size = '3'&gt;PEACEMAKERS&lt;/t&gt;</Original>
+<Chinese>&lt;t color='#ff0000' size = '1'&gt;呈现此战役&lt;/t&gt; &lt;br/&gt; &lt;t color='#0037ff' size = '3'&gt;和平缔造者&lt;/t&gt;</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_task1">
+<Russian>Развернуть блокпост</Russian>
+<Original>Expand the block-post</Original>
+<Chinese>拓展路障范围</Chinese>
+</Key>
+<Key ID="STR_01_zasada_task1_1">
+<Russian>Наладить связь и развернуть блокпост миротворческих сил в Тироне</Russian>
+<Original>Establish communications and deploy peacemakers's post in Tyrone</Original>
+<Chinese>在 Tyrone 设立前哨, 并建立通信</Chinese>
+</Key>
+<Key ID="STR_01_zasada_task2">
+<Russian>Сопроводить колонну</Russian>
+<Original>Accompany the convoy</Original>
+<Chinese>与车队会合</Chinese>
+</Key>
+<Key ID="STR_01_zasada_task2_1">
+<Russian>Сопроводить колонну до Тирона</Russian>
+<Original>Escort the convoy to Tyrone</Original>
+<Chinese>确保车队安全抵达 Tyrone</Chinese>
+</Key>
+<Key ID="STR_01_zasada_task3">
+<Russian>Уничтожить грузовик с боеприпасами</Russian>
+<Original>Destroy the ammo truck</Original>
+<Chinese>摧毁弹药卡车</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_hint">
+<Russian>Для сдачи в плен сложите оружие на землю</Russian>
+<Original>To surrender you will need to drop your weapons.</Original>
+<Chinese>如果你决定投降, 请扔掉你的武器</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say1">
+<Russian>Твою мать!</Russian>
+<Original>Fuck!</Original>
+<Chinese>操!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say2">
+<Russian>Это засада! Все из машины! К бою!</Russian>
+<Original>That's an ambush! Everyone out of the truck! Get ready!</Original>
+<Chinese>有埋伏! 所有人下车, 做好战斗准备!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say3">
+<Russian>Что вы столпились!? Рассредоточиться всем! Быстро!</Russian>
+<Original>Why are you all packed together!? Scatter everybody! Quick!</Original>
+<Chinese>你们怎么这么喜欢扎堆? 赶紧散开, 快!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say4">
+<Russian>Занимаем оборону! Все в укрытие!</Russian>
+<Original>Take up defensive positions! Everybody take cover!</Original>
+<Chinese>建立防御阵型! 所有人, 找掩护!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say5">
+<Russian>Ставьте дым, быстро!</Russian>
+<Original>Deploy smoke screen fast!</Original>
+<Chinese>扔烟雾弹, 快!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say6">
+<Russian>Без паники! Стреляем одиночными! Бережем патроны!</Russian>
+<Original>Do not panick! Only shoot in semi-auto! Save bullets!</Original>
+<Chinese>手别哆嗦! 只准点射! 节省弹药!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say7">
+<Russian>Радист! Вызывай базу! Доложи обстановку и сообщи наши координаты!</Russian>
+<Original>Radio operator, call the base!! Report our position and our status!</Original>
+<Chinese>通信兵! 呼叫总部! 报告我们的位置和状态!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say8">
+<Russian>Пулеметчики справа! Огонь!</Russian>
+<Original>Machinegunners on the right! Fire!</Original>
+<Chinese>右侧有机枪手, 开火!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say9">
+<Russian>СУТКИ СПУСТЯ</Russian>
+<Original>A DAY LATER</Original>
+<Chinese>一天后</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say10">
+<Russian>5 МИЛЬ ЮЖНЕЕ ЭВЕРОНА</Russian>
+<Original>5 MILES SOUTH OF EVERON</Original>
+<Chinese>Everon 外五英里处</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say11">
+<Russian>45 МИНУТ СПУСТЯ</Russian>
+<Original>45 MINUTES LATER</Original>
+<Chinese>45 分钟后</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say12">
+<Russian>У-у-у, старшина старый пень, я ему говорил что у меня 45, а он мне 44 выдал, сволочь.</Russian>
+<Original>Shit, that stupid supply center sergeant, I told him I am size 14, and he gave me size 11.</Original>
+<Chinese>我日, 后勤处的老蠢猪, 我让他给我 45 码的鞋, 偏偏给我了双 44 码的</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say13">
+<Russian>У меня пальцы на ногах в кулаки сжаты.</Russian>
+<Original>My toes are in fists right now.</Original>
+<Chinese>我的鞋也紧得不行</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say14">
+<Russian>Ну вот этими кулаками и набьешь ему морду.</Russian>
+<Original>You can kick his sorry ass with those fists.</Original>
+<Chinese>你可以用这鞋踢爆他的菊花</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say15">
+<Russian>Ну что, учись теперь на руках бегать!</Russian>
+<Original>You should learn running with your hands!</Original>
+<Chinese>你得学会用手捅</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say16">
+<Russian>И ногами стрелять, да? Да пошел ты!</Russian>
+<Original>And shoot with my legs?</Original>
+<Chinese>然后用腿来扣扳机是吗?</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say17">
+<Russian>Небось старый пердун поленился на склад переться - то что было, то и дал.</Russian>
+<Original>I bet the old bastard was too lazy to go search for anything, gave you whatever was close by.</Original>
+<Chinese>我敢打赌, 一定是那个老家伙太懒不想翻箱子, 所以就随便提溜了一双</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say18">
+<Russian>Мне вместо 41-го, 43-й дал. Я из них с места выпрыгнуть могу.</Russian>
+<Original>I got size 10 instead of size 8. I can jump out of them.</Original>
+<Chinese>我 41 码的脚，拿到了 43 码的鞋，走着走着鞋就掉了</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say19">
+<Russian>Баранам из 13-х квартир обувь по размеру не положена. я бы на месте старшины тебе лыжи выдал.</Russian>
+<Original>Idiots from appartments number 13 do net get proper sizes I would've given you skis if I could.</Original>
+<Chinese>第 13 号公寓的同志们都没拿到合脚的鞋, 你的鞋配上我的滑雪橇就正合适不过了</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say20">
+<Russian>Закрой пасть, Пузо, а то я сейчас тебе ласты приделаю.</Russian>
+<Original>Shut up, Puzo, or I will give you freaking fins.</Original>
+<Chinese>闭嘴, 普佐, 否则我让你尝尝鱼鳍的滋味儿</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say21">
+<Russian>Да угомонитесь вы! Харе бузить! Дайте поспать!</Russian>
+<Original>Shut up you all! Stop that racket! Let me sleep!</Original>
+<Chinese>都给我闭嘴, 别吵了, 就不能让我睡个觉吗!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say22">
+<Russian>Эверон, говорит борт 013. Приближаемся к точке назначения.</Russian>
+<Original>Everon, this is 013 speaking. We're closing in our destination point.</Original>
+<Chinese>Everon, 我是 013。我们正在接近目标地点</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say23">
+<Russian>Вас понял борт 013. Направление ветра 210. Скорость 6-7 метров в секунду. Площадка свободна. Ждем вас.</Russian>
+<Original>Understood 013. Wind direction 210. Wind speed 6-7 m/s. Landing pad is ready. Waiting for you.</Original>
+<Chinese>收到 013, 风向 210, 风速 6-7 米, 着陆场已清空, 正等待你的降落</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say24">
+<Russian>Вас понял.</Russian>
+<Original>Understood.</Original>
+<Chinese>了解</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say25">
+<Russian>И погода здесь ничего, и остров на картинках красивый. Но вот что не нравится - это номер нашего рейса.</Russian>
+<Original>Weather is nice here, and island looks really beautiful on postcards. I just don't like our flight number.</Original>
+<Chinese>天气非常好, 小岛看起来和明信片上一样美丽。我只是不太喜欢我们的编号</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say26">
+<Russian>Да брось ты Пузо, я всю жизнь в тринадцатой квартире прожил.</Russian>
+<Original>Drop it Puzo, I lived in appartment number 13 my whole life.</Original>
+<Chinese>知足吧, 普佐, 我直到现在还住在那不吉利的 13 号公寓里</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say27">
+<Russian>Это и заметно.</Russian>
+<Original>Yeah… I can see that.</Original>
+<Chinese>是, 我了解</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say28">
+<Russian>Ты это на что намекаешь, салага?</Russian>
+<Original>What exactly are you trying to say?</Original>
+<Chinese>所以你到底想表达什么?</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say29">
+<Russian>Разговорчики! Заткнитесь оба!</Russian>
+<Original>Shut up you both!</Original>
+<Chinese>话痨们, 都给我住嘴!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say30">
+<Russian>Вот миротворцы, между собой и то грызутся!</Russian>
+<Original>Nice peacemakers, ready to cut each others throats!</Original>
+<Chinese>我们是和平缔造者, 定把各自的喉咙扯</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say31">
+<Russian>Товарищ капитан! Сводный отряд четвертого мотострелкового полка прибыл для прохождения службы в составе миротворческого контингента.</Russian>
+<Original>Captain! Combined platoon of 4th motorized infantry brigade arrived to serve in a peacekeeping force.</Original>
+<Chinese>首长同志, 第四摩步旅准备加入维和部队参与行动</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say32">
+<Russian>Старший отряда - лейтенант Сидорчук.</Russian>
+<Original>Platoon leader - lieutenant Sidorchuk.</Original>
+<Chinese>排长 - 希多楚克中尉</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say33">
+<Russian>Ваша место назначения в Тироне. Отправляйтесь с этой колонной.</Russian>
+<Original>You dislocation point is Tyrone. You can get there with that convoy.</Original>
+<Chinese>你的目标地点是 Tyrone, 可以加入这个车队前往</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say34">
+<Russian>Есть! Все по машинам!</Russian>
+<Original>Yes, sir! Everyone get in!</Original>
+<Chinese>是, 长官! 所有人上车!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say35">
+<Russian>Живее! Шевели поршнями!</Russian>
+<Original>Faster! Move your sorry asses!</Original>
+<Chinese>动作快点! 屁股动起来!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say36">
+<Russian>Проверьте каждого! Соберите документы и оружие</Russian>
+<Original>Check everyone! Gather all their documents and weapons!</Original>
+<Chinese>检查所有人! 收集任何情报和武器!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say37">
+<Russian>Собаки, успели угробить грузовик с боеприпасами! Наши планы провалились.</Russian>
+<Original>Bastards, they destoyed the ammo truck.Our plan failed!</Original>
+<Chinese>混账! 他们摧毁了弹药卡车, 我们的计划泡汤了!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say38">
+<Russian>Крон, я здесь одного живого нашел, кажется его контузило. Что с ним делать?</Russian>
+<Original>Kron, I found one alive over here, looks like he is out cold. What should we do with him?</Original>
+<Chinese>克龙, 我抓到一活的, 看样子只是有点挫伤, 我们该拿他怎么办?</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say39">
+<Russian>Кончай его!</Russian>
+<Original>Kill him!</Original>
+<Chinese>杀了他!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say40">
+<Russian>Хотя нет, погоди! Возьмем с собой, он нам еще пригодится.</Russian>
+<Original>No… wait! Take him with us, we might need him later.</Original>
+<Chinese>不, 等等! 把他带上, 说不定日后还用得着他</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say41">
+<Russian>У меня появилась одна идея.</Russian>
+<Original>I have an idea!</Original>
+<Chinese>我有个主意!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say42">
+<Russian>Вставай собака! Чего развалился?</Russian>
+<Original>Get up, scum!</Original>
+<Chinese>起来, 你这条狗。这就不行啦?</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say44">
+<Russian>Давай живее, нам пора уходить!</Russian>
+<Original>Move faster! We need to go!</Original>
+<Chinese>动作麻利点! 我们得走了!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say45">
+<Russian>Я здаюсь! Не стреляйте!</Russian>
+<Original>I surrender! Do not shoot!</Original>
+<Chinese>我投降! 不要开枪!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say46">
+<Russian>Руки за голову!</Russian>
+<Original>Hands behind your head!</Original>
+<Chinese>双手抱头!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say47">
+<Russian>Не двигаться, стоять на месте!</Russian>
+<Original>Do not move! Stand where you are!</Original>
+<Chinese>站在原地, 别乱动!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say48">
+<Russian>Здавайтесь и мы сохраним вам жинь!</Russian>
+<Original>Surrender and we will spare your lives!</Original>
+<Chinese>缴枪不杀!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say49">
+<Russian>Русские не здаются, обмудок!</Russian>
+<Original>Russians do not surrender, you little shit!</Original>
+<Chinese>俄罗斯人从不投降! 你们这些人渣!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say50">
+<Russian>Вы окружены, бросайте оружие!</Russian>
+<Original>You are surrounded, drop your weapons!</Original>
+<Chinese>你们被包围了, 放下武器!</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say51">
+<Russian>Этого возьмем с собой.</Russian>
+<Original>We will take this one with us!</Original>
+<Chinese>我们把他带走</Chinese>
+</Key>
+
+<Key ID="STR_01_zasada_say52">
+<Russian>Астахов, уничтож грузовик с боеприпасами, мы их не удержим!</Russian>
+<Original>Astakhov! Destroy the ammo truck! We won't hold them!</Original>
+<Chinese>阿斯塔柯夫, 摧毁弹药卡车, 我们保不住它的!</Chinese>
+</Key>
+
+
+
+</Container>
+</Package>
+</Project>

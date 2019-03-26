@@ -1,0 +1,82 @@
+﻿<Project name="Operation_vus">
+  <Package name="Opetation_vus">
+    <Container name="Breefing">
+     <Key ID="STR_peacekeeper_pio_CAMP">
+        <Russian>МИРОТВОРЕЦ</Russian>
+		<Original>PEACEMAKER</Original>
+     </Key> 
+     <Key ID="STR_peacekeeper_pio_CAMP_part1">
+        <Russian>ЧАСТЬ 1</Russian>
+		<Original>PART 1</Original>
+     </Key> 
+     <Key ID="STR_peacekeeper_pio_CAMP_part2">
+        <Russian>ЧАСТЬ 2</Russian>
+		<Original>PART 2</Original>
+     </Key> 
+     <Key ID="STR_peacekeeper_pio_CAMP_part3">
+        <Russian>ЧАСТЬ 3</Russian>
+		<Original>PART 3</Original>
+     </Key>	 
+     <Key ID="STR_peacekeeper_pio_avtor">
+        <Russian>PEACEMAKER TEAM</Russian>
+		<Original>PEACEMAKER TEAM</Original>
+      </Key>  
+     <Key ID="STR_peacekeeper_pio_text">
+        <Russian></Russian>
+		<Original></Original>
+      </Key>
+	  
+	  
+     <Key ID="STR_peacekeeper_Dmitriy">
+        <Russian>Дмитрий Астахов</Russian>
+		<Original>Dmitry Astakhov</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Gubin">
+        <Russian>Алексей Васильевич Губин</Russian>
+		<Original>Alexey V. Gubin</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Udav">
+        <Russian>Андрей Селиванов</Russian>
+		<Original>Andrew Selivanov</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Tarakan">
+        <Russian>Василий Тараканов</Russian>
+		<Original>Vasily Tarakanov</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Koleso">
+        <Russian>Илья Колесников</Russian>
+		<Original>Ilya Kolesnikov</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Puzo">
+        <Russian>Федор Пузанцев</Russian>
+		<Original>Fedor Potantsev</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_oficerV">
+        <Russian>Сергей Волошин</Russian>
+		<Original>Сергей Волошин</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_David">
+        <Russian>Дэвид Армстронг</Russian>
+		<Original>David Armstrong</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Bandit">
+        <Russian>Ясхар</Russian>
+		<Original>Asher</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Tiger">
+        <Russian>Tiger</Russian>
+		<Original>Tiger</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Lesnik">
+        <Russian>Лесник</Russian>
+		<Original>Forester</Original>
+      </Key>
+     <Key ID="STR_peacekeeper_Blake">
+        <Russian>Капер Блэйк</Russian>
+		<Original>Privateer Blake</Original>
+      </Key>
+
+	  
+    </Container>
+  </Package>
+</Project>
