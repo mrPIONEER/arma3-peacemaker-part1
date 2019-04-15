@@ -1,0 +1,129 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_11_AirStrike">
+<Russian>НОЧНОЙ ДЕМОН</Russian>
+<Original>NIGHT DEMON</Original>
+</Key>
+
+<Key ID="STR_11_brif1">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+</Key>
+<Key ID="STR_11_brif1_1">
+<Russian>Сегодняшний день никогда не забуду. Нас бомбили безо всяких скидок. Так, наверное, в 41м началось. Во всяком случае, я рванул к вертолету, вспомнив рассказы деда про 41й, когда у них ни один самолет даже взлететь не успел с аэродрома.
+&lt;br/&gt;&lt;br/&gt;
+Чудом успел поднять свою вертушку в воздух. Просто повезло, что был ближе всех к стоянке. Стрелка не было, боеприпасов тоже, так что покрутился над аэродромом имитируя атаку, чтобы хоть как-то их напугать. Но они не боялись. Просто бомбили все, что было внизу. А я чуть ли не плакал от бессилия, глядя на это. Потом один из них влепил мне очередь, в отсеке возник пожар и я ушел в сторону моря. На островке сел, погасил пожар и вернулся на последних каплях керосина, когда все уже было кончено.
+&lt;br/&gt;&lt;br/&gt;
+В результате уцелел только мой "крокодил", меньше бочки топлива к нему и неполный боекомплект на один вылет, собранный с миру по нитке. Часть боеприпасов разметало взрывом склада, часть вытащили из уже горящих вертушек. Завтра или послезавтра пригонят машины с Кольгуева, но ударить надо уже сегодня ночью. Завтра будет поздно: 2ю роту просто уничтожат с воздуха.</Russian>
+<Original>
+I will never forget this day. They bombed us to hell. That's what it might've looked like back in 1941. I ran for my helicopter straight away, remembering my grandfather's stories about1941, when not a single plane managed to take off.
+&lt;br/&gt;&lt;br/&gt;
+It was a miracle that I did manage to take off in my helicopter. It was lucky I was the closest to the pad. I had no gunner and no ammunition, I just flew around the place pretending that I was attacking something, just to scare them. 
+&lt;br/&gt;&lt;br/&gt;
+It didn't work. They just bomb everything that was on the ground. I was almost crying, because I couldn't do a thing about it. Then one of them fired a burst at me, which created a fire in the compartment and I retreated towards the sea. Landed on the small island, stopped the fireand returned on last fumes of kerosene, when it was all finished.
+&lt;br/&gt;&lt;br/&gt;
+In the end only my &quot;hind&quot; survived,less than a tank of fuel and half the ammo load, gathered all over the place. Half of that was scattered all over the place when warehouse was destroyed, and other half was gather from burning helicopters. Tomorrow or the next day they will send new helicopters from Kolgujev, but we have to strike today. It will be too late tomorrow: 2nd company would be annihilated from the air.
+</Original>
+</Key>
+<Key ID="STR_11_brif2">
+<Russian>План</Russian>
+<Original>Plan</Original>
+</Key>
+<Key ID="STR_11_brif2_1">
+<Russian>Вам предстоит уничтожить вертолетную площадку НАТО.
+&lt;br/&gt;&lt;br/&gt;
+В сотне километров на запад над морем патрулирует самолет с системой AWACS, поэтому вам придется буквально "ползти на брюхе". Если американцы засекут вас на пути к острову, они поднимут вертолеты в воздух и шансов застать их врасплох уже не будет.
+&lt;br/&gt;&lt;br/&gt;
+Не исключено, что остров охраняется системами ПВО. Во всяком случае, на Эвероне днем было замечено несколько установок "Вулкан".</Russian>
+<Original>
+You will have to destroy NATO helicopter base. AWACS plane is patrolling the sea hundred kilometers to the west, that is why you will have to "crawl" right next to the ground.
+&lt;br/&gt;&lt;br/&gt;
+If Americans spot you on your way to the island, they will take their helicopters to the air and you won't be able to catch them by surprise. Most likely the island is protected by several AA guns. At least several "Vulcan"s were spotted on Everon during the day.
+</Original>
+</Key>
+<Key ID="STR_11_task0">
+<Russian>Вертолет должен уцелеть</Russian>
+<Original>Helicopter must survive</Original>
+</Key>
+<Key ID="STR_11_task1">
+<Russian>Незаметно подобраться к острову.</Russian>
+<Original>Try to get to the island unnoticed and destroy as many enemy helicopters as you can.</Original>
+</Key>
+<Key ID="STR_11_task2">
+<Russian>Уничтожить все вертолеты противника.</Russian>
+<Original>Destroy all the enemy helicopters</Original>
+</Key>
+<Key ID="STR_11_task3">
+<Russian>Вернуться на базу</Russian>
+<Original>Return to base</Original>
+</Key>
+<Key ID="STR_11_task3_1">
+<Russian>Вернуться на базу. При невозможности вернуться на аэродром - вернитесь на свою территорию (красные маркера).</Russian>
+<Original>Return to base. If you can not return to the airport - go back to your territory (red markers).</Original>
+</Key>
+
+<Key ID="STRM_11_krokodil">
+<Russian>КРОКОДИЛ</Russian>
+<Original>CROCODILE</Original>
+</Key>
+<Key ID="STRM_11_marker1">
+<Russian>ПВО</Russian>
+<Original>AA Defence</Original>
+</Key>
+<Key ID="STRM_11_marker2">
+<Russian>Вертолетная площадка.</Russian>
+<Original>Helicopter Landing Pad</Original>
+</Key>
+
+<Key ID="STRM_11_intro1">
+<Russian>Ну что сынки. АВАКС по-прежнему патрулирует на западе,&lt;br/&gt; поэтому прижимайтесь к земле.</Russian>
+<Original>So what, guys? AWACS is still patroling to the west,  stay as close to the ground as possible.</Original>
+</Key>
+<Key ID="STRM_11_intro2">
+<Russian>Или к воде. Лейтенант, можно по кромке берега проскочить.&lt;br/&gt;Чтобы не налететь на дерево в потемках.</Russian>
+<Original>Or to the water. Lieutenant, we can try to fly along the beach. So we won't hit a tree accidentally.</Original>
+</Key>
+<Key ID="STRM_11_intro3">
+<Russian>Это крюк, сержант. А у нас горючего в обрез. Может и не хватить.</Russian>
+<Original>That's a massive detour, sergeant. We are low on fuel. Might not be enough.</Original>
+</Key>
+<Key ID="STRM_11_intro4">
+<Russian>Ну, это вам виднее. Вы летуны, а я вам тут не советчик.&lt;br/&gt;Разнесите это осиное гнездо и... Возвращайтесь живыми.</Russian>
+<Original>Well, that's your decision. You're the ones flying over there, who am I to give you advice? Destroy that hornet's nest... And come back alive.</Original>
+</Key>
+
+<Key ID="STRM_11_rad_1">
+<Russian>Нас уже щупают.</Russian>
+<Original>We're being tracked</Original>
+</Key>
+<Key ID="STRM_11_rad_2">
+<Russian>Ниже командир, заметят!</Russian>
+<Original>Lower, lieutenant, they will spot us!</Original>
+</Key>
+<Key ID="STRM_11_rad_3">
+<Russian>Все! Нас засекли и опознали!</Russian>
+<Original>Shit! We've been spotted!</Original>
+</Key>
+<Key ID="STRM_11_rad_4">
+<Russian>Радар, источник не опознан.</Russian>
+<Original>Radar, source unknown.</Original>
+</Key>
+<Key ID="STRM_11_rad_5">
+<Russian>Пуск ракеты!</Russian>
+<Original>Fire missile</Original>
+</Key>
+
+<Key ID="STRM_load1">
+<Russian>Пуск ракеты!</Russian>
+<Original>NIGHT FLIGHT</Original>
+</Key>
+<Key ID="STRM_load2">
+<Russian></Russian>
+<Original>AIRPORT NIGHT OF 9TH OF MAY 1985</Original>
+</Key>
+
+</Container>
+</Package>
+</Project>

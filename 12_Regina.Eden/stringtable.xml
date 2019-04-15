@@ -1,0 +1,305 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_12_AirStrike">
+<Russian>СТАЛЬНОЙ КУЛАК</Russian>
+<Original>STEEL PUNCH</Original>
+</Key>
+<Key ID="STR_12_AirStrike_init">
+<Russian>Временный командный пункт миротворческого контингента.&lt;br/&gt; 8 мая, 18.00</Russian>
+<Original>Temporary command post of the peacekeeping contingent.&lt;br/&gt; 8 may, 18.00</Original>
+</Key>
+
+<Key ID="STR_12_brif1">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+</Key>
+<Key ID="STR_12_brif1_1">
+<Russian>Танки грязи не боятся. Но горы это не грязь. Генка Пахомов чуть не угробился вместе с экипажем - чудом удержались на краю обрыва. В мирное время мне за такой альпинизм на танках башку оторвали бы. Но сейчас и время другое и спрос не тот.&lt;br/&gt;
+Сегодня ночью наши навернули по вертолетной площадке американцев. Если летунам удалось вывести из строя все их вертолеты, операция имеет шансы на успех.&lt;br/&gt;
+Если Ленка узнает, чем я тут занимаюсь, точно подаст на развод. А она узнает. Гарнизон маленький, наверняка кто ни будь напишет своим, что тут твориться на самом деле.</Russian>
+<Original>
+Tanks are not afraid of mud. But mountains are not mud. Gena Pakhomov almost got killed with his crew and only managed to hang on the edge of the cliff. During the times of peace he would've been killed for his cliffhanging, but those times are long behind us.&lt;br/&gt;
+Last night our forces bombed the hell out of the NATO helicopter base. If that is true, this mission might have a chance of success.&lt;br/&gt;
+If Lena learns about what is really happening here, she would definitely get a divorce . And she will learn. Our garrison is small, and someone will definitely write back home about what is really happening here.
+</Original>
+</Key>
+<Key ID="STR_12_brif2">
+<Russian>План</Russian>
+<Original>Plan</Original>
+</Key>
+<Key ID="STR_12_brif2_1">
+<Russian>Задача вашего танкового взвода - разблокировать подразделения 2й роты, и вывести их из окружения. При отступлении в Левье было осталвено машаны с боекомплектом, вы можете воспользоваться ими. При отступлении в Левье было оставлено машины с боекомплектом, вы можете воспользоваться ими.</Russian>
+<Original>The task of your tank platoon - unblock the troops of the 2nd company and take them out of encirclement. During the retreat in Levie, cars with ammunition were left, you can use them.</Original>
+</Key>
+
+<Key ID="STR_12_task1">
+<Russian>Выйти в район Регины</Russian>
+<Original>Get to Regina</Original>
+</Key>
+<Key ID="STR_12_task2">
+<Russian>Уничтожить вспомогательное подразделение армии США</Russian>
+<Original>Destroy additional American regiment</Original>
+</Key>
+<Key ID="STR_12_task3">
+<Russian>Захватить опорный пункт американцев в Левье</Russian>
+<Original>Destroy additional American regiment</Original>
+</Key>
+
+<Key ID="STR_12_task4">
+<Russian>Уничтожить силы блокирующие 2ю роту</Russian>
+<Original>Destroy the forces</Original>
+</Key>
+<Key ID="STR_12_task4_1">
+<Russian>Уничтожить силы блокирующие 2ю роту, и удерживать позиции до выхода нашей колонны из долины.</Russian>
+<Original>Destroy the forces that are blocking the 2nd company, and hold the positions until the convoy arrives from the valley. </Original>
+</Key>
+
+<Key ID="STR_12_task5">
+<Russian>Провести колонну</Russian>
+<Original>Escort the convoy</Original>
+</Key>
+<Key ID="STR_12_task5_1">
+<Russian>Провести колонну (3 БМП и 3 Урала) через Ларунс и Чотайн в сторону Энтре Деукс</Russian>
+<Original>Escort the convoy through Laruns and Chotain to Entre Deux</Original>
+</Key>
+
+<Key ID="STR_12_task6">
+<Russian>Уничтожить взвод Абрамсов</Russian>
+<Original>Destroy the Abrams platoon</Original>
+</Key>
+<Key ID="STR_12_task6_1">
+<Russian>Уничтожте взвод Абрамсов, они двигаются с севера. О их передвижении будет докладывать Грачи, они же и помогут в уничтожении танков и сопровождении колоны.</Russian>
+<Original>Destroy the Abrams platoon, they move from the north. The Rooks will report on their movement, and they will also help in the destruction of tanks and escorting columns.</Original>
+</Key>
+
+<Key ID="STRM_12_oreh">
+<Russian>ОРЕШЕК</Russian>
+<Original>NUTLET</Original>
+</Key>
+<Key ID="STRM_12_kolona">
+<Russian>КОЛОНА</Russian>
+<Original>COLON</Original>
+</Key>
+<Key ID="STRM_12_ded">
+<Russian>ДЕД</Russian>
+<Original>GRANDFATHER</Original>
+</Key>
+<Key ID="STRM_12_grachi">
+<Russian>ГРАЧИ</Russian>
+<Original>ROOK</Original>
+</Key>
+<Key ID="STRM_12_of">
+<Russian>ПЕРВЫЙ</Russian>
+<Original>ONE</Original>
+</Key>
+
+<Key ID="STRM_12_hint1">
+<Russian>КОЛОНА УНИЧТОЖЕНА</Russian>
+<Original>COLON DESTROYED</Original>
+</Key>
+
+<Key ID="STRM_12_rad1">
+<Russian>Говорит первый-первый. Нас атакуют танки и пехота противника.</Russian>
+<Original>First reporting. We're being attacked by enemy tanks and infantry.</Original>
+</Key>
+<Key ID="STRM_12_rad2">
+<Russian>Дед на связи. Орешек - начинайте операцию и окажите помощь первому.</Russian>
+<Original>Oldman speaking. Nutcracker - begin the operation and help the First.</Original>
+</Key>
+<Key ID="STRM_12_rad3">
+<Russian>Это Орешек. Вас понял - начинаем. Первый-первый - будем у вас через несколько минут.</Russian>
+<Original>This is Nutcracker. Understood. First - we will be with you in couple of minutes.</Original>
+</Key>
+<Key ID="STRM_12_rad4">
+<Russian>2я на связи. Нам выступать?</Russian>
+<Original>2nd reporting. Should we move?</Original>
+</Key>
+<Key ID="STRM_12_rad5">
+<Russian>Говорит Дед. 2я - оставайтесь на месте и ждите приказа.</Russian>
+<Original>Oldman. 2nd - stay were you are and wait for a signal.</Original>
+</Key>
+<Key ID="STRM_12_rad6">
+<Russian>2я. Вас понял. Жду приказа.</Russian>
+<Original>2nd. Understood. Waiting for signal.</Original>
+</Key>
+<Key ID="STRM_12_rad7">
+<Russian>Говорит Орешек. Атака отбита - продолжаю операцию.</Russian>
+<Original>Nutcracker reporting. Attack was stopped - continuing the operation.</Original>
+</Key>
+<Key ID="STRM_12_rad8">
+<Russian>Дед на связи. Вас понял Орешек. Поднимаю Грачей.</Russian>
+<Original>Oldman speaking. I hear you Nutcracker. Birds are leaving their nests.</Original>
+</Key>
+<Key ID="STRM_12_rad9">
+<Russian>Это орешек. Левье наш. Приступаем к раскупориванию.</Russian>
+<Original>This Nutcracker. Levie is ours. Proceeding to our next objective.</Original>
+</Key>
+<Key ID="STRM_12_rad10">
+<Russian>Говорит Дед. Молодцы. Грачи опаздывают - действуйте своими силами.</Russian>
+<Original>Oldman here. Good job. Birds are late - do whatever you can on your own.</Original>
+</Key>
+
+<Key ID="STRM_12_rad11">
+<Russian>Это Орешек. Дорога свободна. 2я может выступать.</Russian>
+<Original>This is Nutcracker. Road is clear. 2nd can move now.</Original>
+</Key>
+<Key ID="STRM_12_rad12">
+<Russian>Дед для второй: выступайте.</Russian>
+<Original>Oldman for the 2nd: move out.</Original>
+</Key>
+<Key ID="STRM_12_rad13">
+<Russian>Орешек, это Дед. К вам с севера идет взвод абрамсов.</Russian>
+<Original>Nutcracker, this is Oldman. Abrams platoon is approaching your positions from the north.</Original>
+</Key>
+<Key ID="STRM_12_rad14">
+<Russian>Только этого нам тут не хватало! Вас понял.</Russian>
+<Original>That wasn't neccessary! Understood.</Original>
+</Key>
+<Key ID="STRM_12_rad15">
+<Russian>Уклонитесь от боя. С ними разделаются Грачи.</Russian>
+<Original>Try to avoid the fight. Birds will take care of them.</Original>
+</Key>
+<Key ID="STRM_12_rad16">
+<Russian>Вас понял. Уклониться от боя и ждать Грачей.</Russian>
+<Original>Understood. Avoid the fight and wait for the Birds.</Original>
+</Key>
+<Key ID="STRM_12_rad17">
+<Russian>Грач 1, Грач 2. Мы на месте, начинаем работать по абрамсам.</Russian>
+<Original>Bird 1, Bird 2. We are here, working with enemy tanks.</Original>
+</Key>
+<Key ID="STRM_12_rad18">
+<Russian>Говорит Грач 1. Задача выполнена, разрешите на базу?</Russian>
+<Original>Bird 1. Mission accomplished, can we freturn to the nest?</Original>
+</Key>
+<Key ID="STRM_12_rad19">
+<Russian>Говорит Дед. Грачи - разрешаю на базу. Орешек и 2я - выбирайтесь оттуда.</Russian>
+<Original>Oldman speaking. Birds you're allowed to return to the nest. Nutcracker and 2nd - get out of there.</Original>
+</Key>
+<Key ID="STRM_12_rad20">
+<Russian>Это Орешек. Вас понял - иду по плану.</Russian>
+<Original>This is Nutcracker. Understood - proceeding according to the plan.</Original>
+</Key>
+
+<Key ID="STRM_12_rad21">
+<Russian>Дед. На связи вторая. Мы сделали это! Орешек, спасибо за помощь.</Russian>
+<Original>Oldman. 2nd reporting. We made it! Nutcracker, thanks for your help.</Original>
+</Key>
+<Key ID="STRM_12_rad22">
+<Russian>Это Орешек. 2я, "спасибо" в стакан не нальешь.</Russian>
+<Original>This is Nutcracker. 2nd, you cannot drink "thank you".</Original>
+</Key>
+<Key ID="STRM_12_rad23">
+<Russian>Колесников. Я понял, готовьте тару.</Russian>
+<Original>Kolesnikov. Understood, get your glasses ready.</Original>
+</Key>
+<Key ID="STRM_12_rad24">
+<Russian>Дед на связи. Орешек и вторая ко мне на доклад.</Russian>
+<Original>Oldman here. Nutcracker and 2nd get here with your report.</Original>
+</Key>
+<Key ID="STRM_12_rad25">
+<Russian>Вместе с тарой.</Russian>
+<Original>With glasses.</Original>
+</Key>
+
+<Key ID="STRM_12_rad_atak1">
+<Russian>Вторая на связи - мы под огнем! Повторяю: мы под огнем!</Russian>
+<Original>2nd reporting - we're under fire! I repeat: we're under fire!</Original>
+</Key>
+<Key ID="STRM_12_rad_atak2">
+<Russian>Вторая на связи - у нас большие потери! Повторяю: у нас потери, нужна помощь!</Russian>
+<Original>2nd reporting - we are suffering heavy losses! I repeat: we are suffering heavy losses, need assistance!</Original>
+</Key>
+
+<Key ID="STR_12_marker1">
+<Russian>Взвод спецназа.</Russian>
+<Original>Special Forces Platoon</Original>
+</Key>
+<Key ID="STR_12_marker2">
+<Russian>1й взвод 4й роты.</Russian>
+<Original>1st Platoon of the 4th Company</Original>
+</Key>
+<Key ID="STR_12_marker3">
+<Russian>3й взвод 4й роты.</Russian>
+<Original>3rd Platoon of the 4th Company</Original>
+</Key>
+<Key ID="STR_12_marker4">
+<Russian>1й танковый взвод.</Russian>
+<Original>1st Tank Platoon</Original>
+</Key>
+<Key ID="STR_12_marker5">
+<Russian>1й 2й взвод 3й роты.</Russian>
+<Original>1st and 2nd Platoons of the 3rd Company</Original>
+</Key>
+<Key ID="STR_12_marker6">
+<Russian>3й, 4й взвод 3й роты.</Russian>
+<Original>3rd, 4th Platoons of the 3rd Company</Original>
+</Key>
+<Key ID="STR_12_marker7">
+<Russian>2й и 4й взвод 4й роты.</Russian>
+<Original>2nd and 4th Platoons of the 4th Company</Original>
+</Key>
+<Key ID="STR_12_marker8">
+<Russian>2й взвод 1й роты</Russian>
+<Original>"2nd Platoon of the 1st Company</Original>
+</Key>
+<Key ID="STR_12_marker9">
+<Russian>2ая рота</Russian>
+<Original>2nd Company</Original>
+</Key>
+
+<Key ID="STR_12_t1_canmove101">
+<Russian>Танк 101 обездвижен.</Russian>
+<Original>Tank 101 is immobilized.</Original>
+</Key>
+<Key ID="STR_12_t2_canmove102">
+<Russian>Танк 102 обездвижен.</Russian>
+<Original>Tank 102 is immobilized.</Original>
+</Key>
+<Key ID="STR_12_t3_canmove103">
+<Russian>Танк 103 обездвижен.</Russian>
+<Original>Tank 103 is immobilized.</Original>
+</Key>
+<Key ID="STR_12_t1_canmove101_1">
+<Russian>Танк 101 может ехать.</Russian>
+<Original>Tank 101 can go.</Original>
+</Key>
+<Key ID="STR_12_t2_canmove102_1">
+<Russian>Танк 102 может ехать.</Russian>
+<Original>Tank 102 can go.</Original>
+</Key>
+<Key ID="STR_12_t3_canmove103_1">
+<Russian>Танк 103 может ехать.</Russian>
+<Original>Tank 103 can go.</Original>
+</Key>
+
+
+<Key ID="STR_12_radio_off_on">
+<Russian>Вы можете выключить радиостанцию, чтобы не слушать переговоры внутри танка. Выключить через команду 0-0-0. Включить через команду 0-0-9. При необходимости радио будет включаться автоматически.</Russian>
+<Original>You can turn off the radio station, so as not to listen to the talks inside the tank. Switch off via command 0-0-0. Enable through the command 0-0-9. If necessary, the radio will turn on automatically.</Original>
+</Key>
+<Key ID="STR_12_radio_off">
+<Russian>Выключить радиостанцию</Russian>
+<Original>Turn off the radio station</Original>
+</Key>
+<Key ID="STR_12_radio_on">
+<Russian>Включить радиостанцию</Russian>
+<Original>Turn on the radio</Original>
+</Key>
+<Key ID="STR_12_radio_off_hint">
+<Russian>Радиостанция выключена</Russian>
+<Original>Radio off</Original>
+</Key>
+<Key ID="STR_12_radio_on_hint">
+<Russian>Радиостанция включена</Russian>
+<Original>Radio is on</Original>
+</Key>
+<Key ID="STR_12_tank_hint">
+<Russian>Танки отмечены на карте</Russian>
+<Original>Tanks marked on the map</Original>
+</Key>
+
+</Container>
+</Package>
+</Project>

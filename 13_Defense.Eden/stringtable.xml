@@ -1,0 +1,223 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_13_Defense">
+<Russian>НИ ШАГУ НАЗАД</Russian>
+<Original>NOT ONE STEP BACK</Original>
+</Key>
+
+<Key ID="STR_13_brif1">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+</Key>
+<Key ID="STR_13_brif1_1">
+<Russian>Некогда вести дневник. Такое творится...</Russian>
+<Original>No time for the diary. Something major is happening....</Original>
+</Key>
+<Key ID="STR_13_brif2">
+<Russian>План</Russian>
+<Original>Plan</Original>
+</Key>
+<Key ID="STR_13_brif2_1">
+<Russian>Ваша задача удержать дорогу на Монтигнак и защитить полевой госпиталь, который находится позади нашей линии обороны.
+&lt;br/&gt;&lt;br/&gt;
+Нашим основным силам требуется время для передислокации и развертывания нового эшелона обороны. Так же необходимо эвакуировать полевой госпиталь.
+&lt;br/&gt;&lt;br/&gt;
+В атаках на ваши позиции участвуют мотопехотные и танковые соединения противника.</Russian>
+<Original>
+You task is to hold the road to Montignac and protect the field hospital, which is situated right behind our lines.
+&lt;br/&gt;&lt;br/&gt;
+Our main forces will need time to establish new line of defense. You will also 
+need to evacuate the field hospital.
+&lt;br/&gt;&lt;br/&gt;
+Your positions are being attacked by motorized infantry and tank squads.
+</Original>
+</Key>
+
+<Key ID="STR_13_task1">
+<Russian>Защитить дорогу на Монтигнак.</Russian>
+<Original>Hold the road to Montignac.</Original>
+</Key>
+<Key ID="STR_13_task2">
+<Russian>Заменить убитого корректировщика</Russian>
+<Original>Replace killed artillery spotter</Original>
+</Key>
+
+<Key ID="STR_13_hint1">
+<Russian>Противник прорвал вашу оборону. Полевой госпиталь уничтожен. Дорога на Монтигнак открыта.</Russian>
+<Original>The enemy broke through your defense. Field hospital destroyed. The road to Montignak is open.</Original>
+</Key>
+<Key ID="STRM_13_hint0_1">
+<Russian>Вам достпна арт-поддержка. Для вызовыва необходимо открыть карту и кликнить курсором на участок карты по которому необходимо открыть огонь.</Russian>
+<Original>NOW YOU CAN TRANSMIT THE COORDINATES FOR THE ARTILLERY. You need to open the map and click on the designated spot.</Original>
+</Key>
+
+<Key ID="STRM_13_def_grom">
+<Russian>ГРОМ</Russian>
+<Original>THUNDER</Original>
+</Key>
+<Key ID="STRM_13_def_zaslon">
+<Russian>ЗАСЛОН</Russian>
+<Original>COVER</Original>
+</Key>
+<Key ID="STRM_13_def_arty">
+<Russian>АРТА</Russian>
+<Original>ARTY</Original>
+</Key>
+
+<Key ID="STRM_13_action0_1">
+<Russian>взять рацию и карту</Russian>
+<Original>Take the radio and map</Original>
+</Key>
+
+<Key ID="STR_13_Load1_0">
+<Russian>СРАЖЕНИЕ ЗА МОНТИГНАК ПРОДОЛЖАЕТСЯ.&lt;br/&gt;ТРЕТИЙ ДЕНЬ БОЕВЫХ ДЕЙСТВИЙ</Russian>
+<Original>FIGHTING FOR MONTIGNAC CONTINUES.&lt;br/&gt;THIRD DAY OF FIGHTING</Original>
+</Key>
+<Key ID="STR_13_Load1_1">
+<Russian></Russian>
+<Original></Original>
+</Key>
+<Key ID="STR_13_Load1_2">
+<Russian></Russian>
+<Original></Original>
+</Key>
+<Key ID="STR_13_Load1_3">
+<Russian></Russian>
+<Original></Original>
+</Key>
+<Key ID="STR_13_Load1_4">
+<Russian></Russian>
+<Original></Original>
+</Key>
+<Key ID="STR_13_Load1_5">
+<Russian>ПОЛЕВОЙ ГОСПИТАЛЬ УНИЧТОЖЕН. МИССИЯ ПРОВАЛЕНА</Russian>
+<Original>FIELD HOSPITAL WAS DESTROYED.&lt;br/&gt;ENEMY GOT TO THE ROAD TO MONTIGNAC.&lt;br/&gt;MISSION FAILED</Original>
+</Key>
+
+<Key ID="STRM_13_intro0_1">
+<Russian>Вот суки! Мы уже третью атаку отбили, а они все прут и прут. Когда же это им надоест?</Russian>
+<Original>Bastards! We already stopped three attacks, and they're still going.&lt;br/&gt;When will they get sick of it?</Original>
+</Key>
+<Key ID="STRM_13_intro0_2">
+<Russian>Боюсь что не скоро Петя. Это мужики только начало.</Russian>
+<Original>I am afraid that not that soon. This is just a beginning.</Original>
+</Key>
+<Key ID="STRM_13_intro0_3">
+<Russian>Тьфу ты, зараза!</Russian>
+<Original>Shit!</Original>
+</Key>
+<Key ID="STRM_13_intro0_4">
+<Russian>Вот бы кухоньку подтащили, почти сутки не жрали!</Russian>
+<Original>We should at least get some food, haven't eaten for ages!</Original>
+</Key>
+<Key ID="STRM_13_intro0_5">
+<Russian>Ложись!</Russian>
+<Original>Get down!</Original>
+</Key>
+<Key ID="STRM_13_intro0_6">
+<Russian>Твою мать, ну сволочи! Прицельно долбят!</Russian>
+<Original>Motherfuckers! That was pretty close!</Original>
+</Key>
+<Key ID="STRM_13_intro0_7">
+<Russian>Не робей! Собрался жить вечно!?</Russian>
+<Original>Don't be afraid! Do you want to live forever!</Original>
+</Key>
+<Key ID="STRM_13_intro0_8">
+<Russian>Началось. Скоро снова в атаку пойдут.</Russian>
+<Original>It started. They will attack again soon.</Original>
+</Key>
+<Key ID="STRM_13_intro0_9">
+<Russian>Черт! Теперь еще и без артиллерии остались.</Russian>
+<Original>Damn! Now we lost our artillery support.</Original>
+</Key>
+<Key ID="STRM_13_intro0_10">
+<Russian>Спокуха, сейчас я за это возьмусь.</Russian>
+<Original>Don't worry, I will get to it.</Original>
+</Key>
+<Key ID="STRM_13_intro0_11">
+<Russian>Вот именно это меня и беспокоит.</Russian>
+<Original>That's exactly what I am worried about.</Original>
+</Key>
+<Key ID="STRM_13_intro0_12">
+<Russian>Вижу противника! Они начали атаку!</Russian>
+<Original>I see the enemy! They started their attack!</Original>
+</Key>
+<Key ID="STRM_13_intro0_13">
+<Russian>Братва! подпускай поближе! бережем патроны!</Russian>
+<Original>Guys! Let them come closer! Save your ammo!</Original>
+</Key>
+
+<Key ID="STRM_13_intro1_0">
+<Russian>Хлопцы! я обед привёз! кухня, хлопцы!</Russian>
+<Original>Guys! I brought ou some food! Food, guys!</Original>
+</Key>
+<Key ID="STRM_13_intro1_1">
+<Russian>Где же вы, хлопцы!?</Russian>
+<Original>Where are you, guys!?</Original>
+</Key>
+
+<Key ID="STRM_13_game0_0">
+<Russian></Russian>
+<Original></Original>
+</Key>
+
+<Key ID="STRM_13_radio1_0">
+<Russian>Заслон. Заслон. Это гром. Корректировщик убит. Как поняли меня. приём.</Russian>
+<Original>Cover. Cover. This is thunder. Artillery spotter is dead. Do you understand. Over.</Original>
+</Key>
+<Key ID="STRM_13_radio1_1">
+<Russian>Гром. Это заслон. Вас понял. Корректировку беру на себя. Конец связи.</Russian>
+<Original>Thunder. This is Cover. Understood. I will be doing the spotting now. Over and out.</Original>
+</Key>
+<Key ID="STRM_13_radio1_2">
+<Russian>Передаю координаты.</Russian>
+<Original>Transmitting coordinates</Original>
+</Key>
+<Key ID="STRM_13_radio1_3">
+<Russian>Координаты приняты.</Russian>
+<Original>Coordinates accepted.</Original>
+</Key>
+
+
+<Key ID="STRM_13_marker1">
+<Russian>ПОЛЕВОЙ ГОСПИТАЛЬ</Russian>
+<Original>FIELD HOSPITAL"</Original>
+</Key>
+<Key ID="STRM_13_marker2">
+<Russian>Резервная база снабжения</Russian>
+<Original>Reserve Supply Base</Original>
+</Key>
+<Key ID="STRM_13_marker3">
+<Russian>Минное поле</Russian>
+<Original>Minefield</Original>
+</Key>
+<Key ID="STRM_13_marker4">
+<Russian>БРДМ</Russian>
+<Original>BRDM</Original>
+</Key>
+<Key ID="STRM_13_marker5">
+<Russian>Позиции советских войск</Russian>
+<Original>Soviet Troops Emplacement</Original>
+</Key>
+<Key ID="STRM_13_marker7">
+<Russian>Ориентир урал</Russian>
+<Original>Reference Point Ural</Original>
+</Key>
+<Key ID="STRM_13_marker8">
+<Russian>Ориентир Джип</Russian>
+<Original>Reference Point Jeep</Original>
+</Key>
+<Key ID="STRM_13_marker9">
+<Russian>Ориентир М113</Russian>
+<Original>Reference Point M113</Original>
+</Key>
+<Key ID="STRM_13_marker6">
+<Russian>Корректировщик</Russian>
+<Original>Artillery Spotter</Original>
+</Key>
+
+</Container>
+</Package>
+</Project>

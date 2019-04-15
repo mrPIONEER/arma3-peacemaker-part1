@@ -1,0 +1,377 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_09_Morton">
+<Russian>СОННОЕ ЦАРСТВО</Russian>
+<Original>SLEEPING BEAUTIES</Original>
+</Key>
+<Key ID="STR_09_Morton_of">
+<Russian>МОРТОН</Russian>
+<Original>MORTON</Original>
+</Key>
+<Key ID="STR_09_Morton_up">
+<Russian>ПОСТ</Russian>
+<Original>POST</Original>
+</Key>
+
+<Key ID="STR_09_brif1">
+<Russian>Дневник</Russian>
+<Original>Diary</Original>
+</Key>
+<Key ID="STR_09_brif1_1">
+<Russian>Ну, хоть немного отоспался. Да и ребята тоже.&lt;br/&gt;
+Утро классное. Птички поют. Но не дают покоя слова Губина о том, что американцы просто так не забудут потерю двух вертолетов с пехотой. Дед, скорее всего, прав. Наверняка они какую ни будь пакость устроят, так что надо быть на стороже.&lt;br/&gt;
+Ха. Кажется, начинаю привыкать к мысли, что теперь я командир. Пусть и невелика шишка, но все же.&lt;br/&gt;
+Это оказалось сложнее, чем я думал, но не потому, что меня кто-то не слушается, нет. С этим все в порядке: ребята восприняли мое назначение, как должное. Просто я вдруг понял, что если раньше отвечал в первую очередь за себя, то теперь отвечаю за целое отделение.</Russian>
+<Original>
+Thanks God I had some sleep Other guys as well. It's a really nice morning. Birds are singing. I am still worried about what Gubin said about American helicopters. They won't forget the loss of two helicopters full of troops that easily. He's probably right. Americans are preparing some sort of surprise for us. Better be ready.&lt;br/&gt;
+Ha! I think I am getting used to being in command. Not a major command, but still better than nothing.&lt;br/&gt;
+It turned out to be way harder than I ever expected, and not because they're not listening to me, other guys accepted without a hiss It is just that before I was only responsible for myself, and now I am responsible for the whole squad.</Original>
+</Key>
+<Key ID="STR_09_brif2">
+<Russian>План</Russian>
+<Original>Plan</Original>
+</Key>
+<Key ID="STR_09_brif2_1">
+<Russian>В 4.18 утра ваше отделение должно сменить на постах подразделение молодых бойцов из пополнения.</Russian>
+<Original>At 4.18 your squad is going to replace new recruits on sentry positions.</Original>
+</Key>
+
+<Key ID="STR_09_task1">
+<Russian>Сменить часового на посту №1</Russian>
+<Original>Replace the sentry on post №1</Original>
+</Key>
+<Key ID="STR_09_task2">
+<Russian>Сменить часового на посту №2</Russian>
+<Original>Replace the sentry on post №2</Original>
+</Key>
+<Key ID="STR_09_task3">
+<Russian>Сменить часового на посту №3</Russian>
+<Original>Replace the sentry on post №3</Original>
+</Key>
+<Key ID="STR_09_task4">
+<Russian>Сменить часового на посту №4</Russian>
+<Original>Replace the sentry on post №4</Original>
+</Key>
+<Key ID="STR_09_task5">
+<Russian>Доложить офицеру о смене часовых</Russian>
+<Original>Report to the officer</Original>
+</Key>
+<Key ID="STR_09_task5_1">
+<Russian>Доложить офицеру о смене часовых. Вы можете доложить о смене часовых только в том случае, если на всех четырех постах часовые будут заменены на бойцов вашего отделения.</Russian>
+<Original>Report to the officer. You can report a change of sentries only if at all four posts the sentries will be replaced by the soldiers of your squad.</Original>
+</Key>
+
+<Key ID="STR_09_task5_11">
+<Russian>Часовой</Russian>
+<Original>Sentry</Original>
+</Key>
+<Key ID="STR_09_task5_2">
+<Russian>Вы приступили к несению службы. В случае обнаружения противника поднимайте тревогу по рации (0-0-1)</Russian>
+<Original>If you discover an enemy raise an alarm by using your radio (0-0-1)</Original>
+</Key>
+
+<Key ID="STR_09_task5_3">
+<Russian>Обороняйте Мортон</Russian>
+<Original>Defend Morton</Original>
+</Key>
+
+
+<Key ID="STR_09_task6">
+<Russian>В штабе забрать документы и уничтожить рацию.</Russian>
+<Original>Take documents in headquarters and destroy the radio.</Original>
+</Key>
+<Key ID="STR_09_task7">
+<Russian>Отступить к Монтигнаку</Russian>
+<Original>Retreat to Montignac</Original>
+</Key>
+
+<Key ID="STR_09_Intro">
+<Russian>МОРТОН.РАННЕЕ УТРО.&lt;br/&gt;8 МАЯ 1985-ГО ГОДА.</Russian>
+<Original>MORTON.EARLY MORNING.&lt;br/&gt;8TH OF MAY 1985.</Original>
+</Key>
+
+<Key ID="STR_09_Action1">
+<Russian>Вы забрали документы</Russian>
+<Original>You took the documents</Original>
+</Key>
+<Key ID="STR_09_Action1_1">
+<Russian>Вы сломали рацию</Russian>
+<Original>You broke the radio.</Original>
+</Key>
+<Key ID="STR_09_Action2">
+<Russian>Тревога!</Russian>
+<Original>Alarm!</Original>
+</Key>
+<Key ID="STR_09_Action3">
+<Russian>взять документы</Russian>
+<Original>take documents</Original>
+</Key>
+<Key ID="STR_09_Action4">
+<Russian>сломать рацию</Russian>
+<Original>break radio</Original>
+</Key>
+
+<Key ID="STR_09_Hint1">
+<Russian>Вы можете доложить о смене часовых только в том случае, если на всех четырех постах часовые будут заменены на бойцов вашего отделения</Russian>
+<Original>You can report a change of sentries only if at all four posts the sentries will be replaced by the soldiers of your squad.</Original>
+</Key>
+<Key ID="STR_09_Hint2">
+<Russian>Чтобы убедиться, что ваши часовые живы и не спят,  нажмите ~ - 5 - 5. Они по очереди доложат о своем состоянии.</Russian>
+<Original>To make sure your sentries are alive and not asleep,  press ~ - 5 - 5. They will report their status back to you.</Original>
+</Key>
+<Key ID="STR_09_Hint3">
+<Russian>Вы не успели сменить посты. Лейтенант в ярости.</Russian>
+<Original>You took too long in changing sentries. Lieutenant is furious.</Original>
+</Key>
+<Key ID="STR_09_Hint4">
+<Russian>Вы не смогли обеспечить надежную охрану базы.</Russian>
+<Original>You could not provide proper defense of the base.</Original>
+</Key>
+
+</Container>
+
+<Container name="say">
+<Key ID="STRM_09_intro_r1">
+<Russian>Раздолбаи! Устроили тут спальный район, понимаешь ли. Вы свою задницу так проспите. И не только свою!</Russian>
+<Original>Idiots! Decided to organize a sleeping beauty contest here? You might sleep your ass off. And not just yours!</Original>
+</Key>
+<Key ID="STRM_09_intro_r2">
+<Russian>Поднимай Астахова с его бойцами. Пусть меняет твоих сонных красавиц на постах. А вами я займусь чуть позже! Век будете помнить!</Russian>
+<Original>Wake Astakhov and his soldiers. Tell him to change your sentries. I will talk to you later! You'll remember it for the rest of your life!</Original>
+</Key>
+<Key ID="STRM_09_intro_r3">
+<Russian>Есть товарищ лейтенант! Разрешите выполнять?</Russian>
+<Original>Yes comrade lieutenant! Can I go now?</Original>
+</Key>
+<Key ID="STRM_09_intro_r4">
+<Russian>Ты еще здесь?! Бегом!!!</Russian>
+<Original>You're still here?! Get to it!!!</Original>
+</Key>
+<Key ID="STRM_09_intro1"> 
+<Russian>Эй, младшой. Астахов! Подъем!</Russian>
+<Original>Hey, Astakhov! Get up!</Original>
+</Key>
+<Key ID="STRM_09_intro2">
+<Russian>Сколько времени?.. Какого черта?!</Russian>
+<Original>What time is it?.. What the fuck?!</Original>
+</Key>
+<Key ID="STRM_09_intro3">
+<Russian>У меня 'залет'. Лейтенант велел вам встать в охранение взамен моих карасей. Пароль 'стрела', отзыв 'ворона'.</Russian>
+<Original>I am screwed. Lieutenant asked you to set some sentries to replace my guys. password 'arrow', reply 'crow'.</Original>
+</Key>
+<Key ID="STRM_09_intro4">
+<Russian>Что случилось то?</Russian>
+<Original>What happened?</Original>
+</Key>
+<Key ID="STRM_09_intro5">
+<Russian>Да ну блин... У меня же сплошь молодые, только что с Кольгуева. В службу еще не врубились и спят на постах.</Russian>
+<Original>Well... My guys are mostly young, straight from Kolgujev. Sleeping on their posts.</Original>
+</Key>
+<Key ID="STRM_09_intro6">
+<Russian>Как спят?</Russian>
+<Original>Sleeping? How?</Original>
+</Key>
+<Key ID="STRM_09_intro7">
+<Russian>Стоя! Как лошади, мать их. Полночи ходил пинал по очереди. А под утро летеха застукал. Теперь рвет и мечет. Я бы на твоем месте поспешил, а то еще и тебе перепадет.</Russian>
+<Original>Like freaking horses, standing upright. Tried to keep them awake all night long. But lieutenant caught them by surprise eventually.. I would move faster if I were you, he is still pretty angry.</Original>
+</Key>
+<Key ID="STRM_09_intro8">
+<Russian>Встаю. Отделение подъем! Через три минуты все снаружи!</Russian>
+<Original>Ok, I'll get up. Squad, wake up! Everyone outside in three minutes!</Original>
+</Key>
+<Key ID="STRM_09_intro9">
+<Russian>Лейтенантик по моему перебарщивает. Вы сутки на ногах да в боях. Мог бы и не дергать из-за такого пустяка. Подумаешь - один задремал...</Russian>
+<Original>I think he is asking to much of you. You haven't slept for several days. And you've been fighting all week. Who cares if just one of my guys fell asleep.</Original>
+</Key>
+<Key ID="STRM_09_intro10">
+<Russian>Да нет уж. Нам спокойнее не спать в охранении, чем быть прибитыми во сне из-за каких-то остолопов.</Russian>
+<Original>No way. I'd rather stand guard myself, then get killed because some idiot fell asleep.</Original>
+</Key>
+<Key ID="STRM_09_intro11">
+<Russian>Вылазим живее. Нас чуть не проспали. А теперь могут еще и поиметь.</Russian>
+<Original>Get up fast. Or we can get into some serious shit.</Original>
+</Key>
+
+
+<Key ID="STRM_09_stoy1">
+<Russian>Стой! Пароль?</Russian>
+<Original>Stop there! Password?</Original>
+</Key>
+<Key ID="STRM_09_stoy11">
+<Russian>"Стрела"! Отзыв?</Russian>
+<Original>Arrow'! Reply?</Original>
+</Key>
+<Key ID="STRM_09_stoy12">
+<Russian>Птица... Эта... Как ее... Ворона!</Russian>
+<Original>Bird... Hmm.... What's the name... Crow!</Original>
+</Key>
+<Key ID="STRM_09_stoy13">
+<Russian>Шлепай в расположение, "ворона" твою за ногу... Смена."</Russian>
+<Original>Go to the camp, ""crow"" my ass... We're the next watch.</Original>
+</Key>
+<Key ID="STRM_09_stoy2">
+<Russian>Стой! Пароль?</Russian>
+<Original>Stop there! Password?</Original>
+</Key>
+<Key ID="STRM_09_stoy21">
+<Russian>"Стрела". Смена постов. Свободен.</Russian>
+<Original>'Arrow'. Sentries change. You're free.</Original>
+</Key>
+<Key ID="STRM_09_stoy3">
+<Russian>Подъем! Родину проспишь боец!</Russian>
+<Original>Wake up, soldier!</Original>
+</Key>
+<Key ID="STRM_09_stoy31">
+<Russian>Виноват, товарищ младший сержант.</Russian>
+<Original>I am sorry comrade sergeant.</Original>
+</Key>
+<Key ID="STRM_09_stoy32">
+<Russian>Отставить! Ты уже труп, только еще не знаешь об этом. Спящий часовой на этом острове - это мертвый часовой!</Russian>
+<Original>Stop that! You're already dead, you just don't know that yet. Sleeping sentry on this island is a dead sentry!</Original>
+</Key>
+<Key ID="STRM_09_stoy33">
+<Russian>Бегом в расположение и доложишь своему сержанту о том, что спал на посту! Приду проверю!</Russian>
+<Original>Back to the base and report to your sergeant that you slept on your watch! I will check on that!</Original>
+</Key>
+<Key ID="STRM_09_stoy34">
+<Russian>Есть доложить!</Russian>
+<Original>Yes sir!</Original>
+</Key>
+<Key ID="STRM_09_stoy4">
+<Russian>Пароль?</Russian>
+<Original>Password?</Original>
+</Key>
+
+
+<Key ID="STRM_09_doklad1">
+<Russian>Посты номер один, два, три и четыре сменил.</Russian>
+<Original>Sentries one, two, three and four have been changed.</Original>
+</Key>
+<Key ID="STRM_09_doklad2">
+<Russian>Добро! Надеюсь, хоть твои спать не будут. Каждые 5 минут опрашивай их по рации.</Russian>
+<Original>Good! Hope your guys won't sleep on their watch. Use your radio to check on them every 5 minutes.</Original>
+</Key>
+<Key ID="STRM_09_anek101">
+<Russian>Идет особист по части, видит: Прапорщик что-то в тележке за территорию вывозит.</Russian>
+<Original>Officer is walking around the camp and sees that: 2nd sergeant is carrying something in a trolley.</Original>
+</Key>
+<Key ID="STRM_09_anek102">
+<Russian>Ну, думает, опять что-нибудь спер, гадина. Догоняет прапора и орет, стоять, мол.</Russian>
+<Original>Must've stolen something again, officer though. Catches up with the sergeant and stops him.</Original>
+</Key>
+<Key ID="STRM_09_anek103">
+<Russian>Прапор останавливается, отпускает ручки тележки, а в ней по самые края жидкий навоз.</Russian>
+<Original>Sergeant stops, lowers the handles of the trolley and officer sees that it is filled with liquid shit.</Original>
+</Key>
+<Key ID="STRM_09_anek104">
+<Russian>Ну, особист сразу быка за рога - мол, чего опять своровал, паразит этакий?</Russian>
+<Original>Officer asks straight away, what did you steal again, bastard?</Original>
+</Key>
+<Key ID="STRM_09_anek105">
+<Russian>Прапор набычился и в отказку: ничего не своровал.</Russian>
+<Original>Sergeant replies that he didn't steal anything.</Original>
+</Key>
+<Key ID="STRM_09_anek106">
+<Russian>Особист хватает палочку и начинает елозить ей в навозе, надеется что-нибудь нащупать.</Russian>
+<Original>Officer grabs a stick and tries to search the trolley with it.</Original>
+</Key>
+<Key ID="STRM_09_anek107">
+<Russian>Опять к прапору: говори, что спер в этот раз? Найду сам - шкуру спущу.</Russian>
+<Original>Asks sergeant again: What did you steal? Cause if I find it you're dead!</Original>
+</Key>
+<Key ID="STRM_09_anek108">
+<Russian>Прапор ни в какую: ничего я не пер.</Russian>
+<Original>Sergeant replies: I didn't steal anything.</Original>
+</Key>
+<Key ID="STRM_09_anek109">
+<Russian>Особист закатывает рукава и ручонками в навоз. И давай там шарить.</Russian>
+<Original>Officer rolls up his sleeves and starts searching with his bare hands.</Original>
+</Key>
+<Key ID="STRM_09_anek110">
+<Russian>Пошарил-пошарил... Навоз в тележке и только. Извозился весь зазря.</Russian>
+<Original>Searching-searching... Just shit in the trolley, nothing else.</Original>
+</Key>
+<Key ID="STRM_09_anek111">
+<Russian>Ну, иди мол, прапор, твоя взяла. А сам побежал руки отмывать.</Russian>
+<Original>Ok you can go, sergeant. And went to wash his hands straight away.</Original>
+</Key>
+<Key ID="STRM_09_anek112">
+<Russian>Прапор идет дальше, катит тележку и бурчит себе под нос: Чего спер - чего спер... Тележку вот спер... Новая тележка...</Russian>
+<Original>Sergeant starts walking again pushing the trolley right in front of him and mumbling. What did you steal... What did you steal... A freaking trolley, you idiot!!!</Original>
+</Key>
+
+
+
+<Key ID="STRM_09_dokl_n1">
+<Russian>Астахов! Бери Урал и быстро меняй этих лопухов. Без 15ти я жду доклада!</Russian>
+<Original>Astakhov! Take Ural and change those sentries. I expect you report</Original>
+</Key>
+<Key ID="STRM_09_dokl_n2">
+<Russian>Астахов. В чем дело? Почему до сих пор не сменил посты?</Russian>
+<Original>Astakhov. What happened? Why sentries are not changed yet?</Original>
+</Key>
+<Key ID="STRM_09_dokl_n3">
+<Russian>Астахов! Да вы что сговорились? Да я вас всех в дисбат закатаю!</Russian>
+<Original>Astakhov! What the heck are you doing? I will send you all to disciplinary batallion!</Original>
+</Key>
+
+
+<Key ID="STRM_09_trev1">
+<Russian>Говорит разводящий Астахов. Тревога!</Russian>
+<Original>Astakhov reporting. Alert!</Original>
+</Key>
+<Key ID="STRM_09_trev2">
+<Russian>Что стряслось там у тебя?</Russian>
+<Original>What happened over there?</Original>
+</Key>
+<Key ID="STRM_09_trev3">
+<Russian>Обнаружен противник в нашем квадрате!</Russian>
+<Original>We spotted an enemy in our sector!</Original>
+</Key>
+<Key ID="STRM_09_trev4">
+<Russian>Понял. БОЕВАЯ ТРЕВОГА! 1е и 2е отделения к бою! Броня по машинам!</Russian>
+<Original>Understood. ALERT! 1st and 2nd squads get ready! Armour get ready!</Original>
+</Key>
+<Key ID="STRM_09_trev3loj">
+<Russian>Да пока ничего конкретного, товарищ лейтенант.</Russian>
+<Original>Nothing specific yet, lieutenant.</Original>
+</Key>
+<Key ID="STRM_09_trev4loj">
+<Russian>Ты что? Шутить вздумал или не проснулся еще? Прекращай дурить!</Russian>
+<Original>What's wrong with you? That's not funny! Stop messing around!</Original>
+</Key>
+<Key ID="STRM_09_othod1">
+<Russian>Астахов! Проберись в штаб на второй этаж, уничтожь рацию и забери документы на столе. И потом уходи вместе с людьми в Монтигнак. Это приказ - нам тут не светит.</Russian>
+<Original>Astakhov! Get to the second floor of the main buliding, destroy the radio and pick up the papers from the table. And then take your people to Montignac. We won't survive here for long.</Original>
+</Key>
+<Key ID="STRM_09_othod2">
+<Russian>Вас понял!</Russian>
+<Original>Yes sir!</Original>
+</Key>
+
+<Key ID="STR_09_marker1">
+<Russian>Пост 1</Russian>
+<Original>Post 1</Original>
+</Key>
+<Key ID="STR_09_marker2">
+<Russian>Пост 2</Russian>
+<Original>Post 2</Original>
+</Key>
+<Key ID="STR_09_marker3">
+<Russian>Пост 3</Russian>
+<Original>Post 3</Original>
+</Key>
+<Key ID="STR_09_marker4">
+<Russian>Пост 4</Russian>
+<Original>Post 4</Original>
+</Key>
+<Key ID="STR_09_marker5">
+<Russian>Штаб</Russian>
+<Original>HQ</Original>
+</Key>
+
+</Container>
+</Package>
+</Project>

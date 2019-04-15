@@ -1,0 +1,276 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_10_Outro">
+<Russian>ВТОРЖЕНИЕ</Russian>
+<Original>INVASION</Original>
+</Key>
+
+<Key ID="STR_10_Outro_int1">
+<Russian>АЭРОДРОМ ЭВЕРОНА. 8 МАЯ, 5.55</Russian>
+<Original>EVERON AIRPORT. 8TH OF MAY, 0555.</Original>
+</Key>
+<Key ID="STR_10_Outro_int2">
+<Russian>8 МАЯ, 18.00</Russian>
+<Original>8TH MAY, 18:00</Original>
+</Key>
+<Key ID="STR_10_Outro_int3">
+<Russian>ВРЕМЕННЫЙ КОМАНДНЫЙ ПУНКТ КОНТИНГЕНТА.</Russian>
+<Original>TEMPORARY PEACEKEEPERS HEADQUATERS.</Original>
+</Key>
+
+<Key ID="STRM_10_int1">
+<Russian>Цель низколетящая, групповая.</Russian>
+<Original>Low flying group target.</Original>
+</Key>
+<Key ID="STRM_10_int2">
+<Russian>Цель опознана: группа А10, принадлежность: НАТО</Russian>
+<Original>Target confirmed: А10 squad, side: NATO</Original>
+</Key>
+<Key ID="STRM_10_int3">
+<Russian>Воздух!!!!! Все в укрытие!</Russian>
+<Original>Everyone take cover!</Original>
+</Key>
+<Key ID="STRM_10_int4">
+<Russian>Вертушки надо поднять!</Russian>
+<Original>We should get the choppers of the ground!</Original>
+</Key>
+<Key ID="STRM_10_int5">
+<Russian>Тараканов стой! Куда!? В укрытие!!</Russian>
+<Original>Tarakanov stop! Where are you going!? Take cover!!</Original>
+</Key>
+<Key ID="STRM_10_int6">
+<Russian>Таракан, уводи вертушку с полосы, остальные назад! Уже не успеете!</Russian>
+<Original>Tarakan (Cockroach), get the chopper up in the air, everyone else get back! It's too late!</Original>
+</Key>
+<Key ID="STRM_10_int7r">
+<Russian>Таракан, ты горишь! Уматывай отсюда!</Russian>
+<Original>Tarakan, you're helicopter is on fire! Get away from here!</Original>
+</Key>
+<Key ID="STRM_10_intro1">
+<Russian>Ну что товарищи? Все в сборе? Приступим.</Russian>
+<Original>Alright guys? Everyone is here? Let's start.</Original>
+</Key>
+<Key ID="STRM_10_intro2">
+<Russian>Сегодня в 5.50 американские войска высадили десант в районе Мортона и атаковали расположенное там подразделение</Russian>
+<Original>Today at 0550 American forces landed near Morton and attacked one of our squads there.</Original>
+</Key>
+<Key ID="STRM_10_intro3">
+<Russian>В 5.55 массированной бомбардировке подвергся аэродром, в результате чего мы потеряли три четверти наших вертолетов</Russian>
+<Original>At 0555 airport was hit heavily by bombers, as the result of that we lost three quarters of our helicopters.</Original>
+</Key>
+<Key ID="STRM_10_intro4">
+<Russian>Их же всего 4е было...</Russian>
+<Original>But we only had four...</Original>
+</Key>
+<Key ID="STRM_10_intro5">
+<Russian>Так точно. Остался один. Слегка обгорел, но боеспособен.</Russian>
+<Original>Exactly. Only one left now. It is a little bit burned, but still operational.</Original>
+</Key>
+<Key ID="STRM_10_intro6">
+<Russian>В 6.00 я доложил о нападении в Москву, но Кремль до сих пор не решил, как реагировать на эту провокацию.</Russian>
+<Original>At 0600 I reported that attack to Moscow, but Kremlin has not decided yet how to react.</Original>
+</Key>
+<Key ID="STRM_10_intro7">
+<Russian>В 6.10 второй десант предпринял попытку высадиться в районе Ламентина, но благодаря своевременным действиям был уничтожен.</Russian>
+<Original>At 0610 another American company tried to land near Lamentin, but was destroyed thanks to troops over there.</Original>
+</Key>
+<Key ID="STRM_10_intro8">
+<Russian>1й взвод первой роты, ослабленный вчерашним переворотом, понес серьезные потери и отступил в Монтигнак.</Russian>
+<Original>1st platoon of the 1st company which was weakened already, suffered heavy losses and retreated to Montignac.</Original>
+</Key>
+<Key ID="STRM_10_intro9">
+<Russian>Противник, отбросив наши силы из Мортона начал развивать наступление по трем направлениям:</Russian>
+<Original>Enemy that managed to neutralize our forces in Morton is preparing an attack in three directions:</Original>
+</Key>
+<Key ID="STRM_10_intro10">
+<Russian>Провинс, Левье и Ля Моль</Russian>
+<Original>Provins, Levie and Le Moule</Original>
+</Key>
+<Key ID="STRM_10_intro11">
+<Russian>4й взвод второй роты в 12.00 подвергся танковой атаке и был вынужден отойти на юг.</Russian>
+<Original>4th platoon of the 2nd company was attacked by tanks at 1200 and had to retreat to the south.</Original>
+</Key>
+<Key ID="STRM_10_intro12">
+<Russian>2й взвод 4й роты отбивал атаки до 14.00, но под угрозой удара сразу с двух направлений получил приказ  отойти в Монтигнак.</Russian>
+<Original>2nd platoon of the 4th company deflected enemy attacks until 1400, but was ordered to retreat to Montignac  when we learned that they enemy might attack from two directions at once.</Original>
+</Key>
+<Key ID="STRM_10_intro13">
+<Russian>Ля Моль был оставлен нами в 17.00, так как 1й танковый взвод понес серьезные потери во время ликвидации второго десанта.</Russian>
+<Original>Le Moule was abandoned at 1700, because 1st tank platoon suffered heavy losses trying to stop second landing force.</Original>
+</Key>
+<Key ID="STRM_10_intro14">
+<Russian>На данный момент противник прекратил наступление, но ситуация сложилась для нас очень неблагоприятно.</Russian>
+<Original>At this moment enemy forces stopped their advance , but situation is quite bad for us.</Original>
+</Key>
+<Key ID="STRM_10_intro15">
+<Russian>На северном направлении в сложном положении оказались части, расположенные в районе Ламентина.</Russian>
+<Original>In the northern sector our forces in Lamentin, are in trouble.</Original>
+</Key>
+<Key ID="STRM_10_intro16">
+<Russian>С учетом американского превосходства в воздухе... Кстати, насчет превосходства.</Russian>
+<Original>Counting American superiority in the air,... By the way, about that superiority.</Original>
+</Key>
+<Key ID="STRM_10_intro17">
+<Russian>Валера! Возьми "стрелу" и сбей эту дрянь, в конце концов! Жужжит над головой и мешает сосредоточиться.</Russian>
+<Original>Valera! Take 'strela' and shoot down that flying piece of shit! It's driving me nuts.</Original>
+</Key>
+<Key ID="STRM_10_intro18">
+<Russian>Совсем оборзели уже! Разлетались тут... Так о чем это я?</Russian>
+<Original>That's just too much! Flying all over the place.. What was I talking about?</Original>
+</Key>
+<Key ID="STRM_10_intro19">
+<Russian>Ах да. Северное направление. Ламентин нам придется оставить сегодня ночью, так как он может оказаться в окружении.</Russian>
+<Original>Oh yes. Northern sector. We will have to abandon Lamentin tonight, because it might be surrounded.</Original>
+</Key>
+<Key ID="STRM_10_intro20">
+<Russian>Намного хуже обстоят дела на юге.</Russian>
+<Original>Situation on the south is much worse, though.</Original>
+</Key>
+<Key ID="STRM_10_intro21">
+<Russian>2я рота оказалась в каменном мешке.</Russian>
+<Original>2nd company is in the stone trap.</Original>
+</Key>
+<Key ID="STRM_10_intro22">
+<Russian>Пробиться в лоб через Левье они уже не в состоянии. Американцы спешно возвели укрепления на выходе из долины.</Russian>
+<Original>They cannot fight their way through Levie. Americans fortified that exit from the valley.</Original>
+</Key>
+<Key ID="STRM_10_intro23">
+<Russian>Пехота сможет уйти через горы, но техника там, скорее всего, уже не пройдет.</Russian>
+<Original>Infantry can escape through the mountains, but vehicles won't be able to do the same.</Original>
+</Key>
+<Key ID="STRM_10_intro24">
+<Russian>Колесников вовремя разгадал замысел американцев и перетащил свои танки через хребет в район Регины</Russian>
+<Original>Kolesnikov figured out American plan beforehand  and managed to carry his tanks to Regina</Original>
+</Key>
+<Key ID="STRM_10_intro25">
+<Russian>Завтра, внезапным для противника ударом с запада на Левье, он может разблокировать этот мешок</Russian>
+<Original>Tomorrow he can unexpectedly strike at Levie from the west, and let our forces get out from that stone trap</Original>
+</Key>
+<Key ID="STRM_10_intro26">
+<Russian>Если нет, то отрезанная от обеспечения 2я рота - обречена. Их просто уничтожат с воздуха.</Russian>
+<Original>If not, then 2nd company is doomed. They will be annihilated from the air.</Original>
+</Key>
+<Key ID="STRM_10_intro27">
+<Russian>Для успеха этой операции необходим паритет в воздухе. Колесников не сможет противостоять вертолетам.</Russian>
+<Original>If this operation to succeed we need to improve our presence in the air. Kolesnikov can't do anything against helicopters.</Original>
+</Key>
+<Key ID="STRM_10_intro28">
+<Russian>Нам удалось вычислить площадку американских вертолетов. Судя по времени подлета, это - островок на западе</Russian>
+<Original>We found out where enemy helicopter base is. Judging by the time it takes them to get here - it's a small island to the west.</Original>
+</Key>
+<Key ID="STRM_10_intro29">
+<Russian>В 100 километрах к западу крутится американский АВАКС. Он не даст незаметно подойти к острову штурмовикам с материка.</Russian>
+<Original>American AWACS is patrolling the airspace 100 klicks to the west. It won't allow our attack planes to get to the island undetected.</Original>
+</Key>
+<Key ID="STRM_10_intro30">
+<Russian>Этот вопрос придется решать вам товарищ лейтенант, сегодня ночью, вашим потрепанным вертолетом.</Russian>
+<Original>You will have to sort this out tonight, lieutenant, with the help of our only operational helicopter.</Original>
+</Key>
+<Key ID="STRM_10_intro31">
+<Russian>Топлива для него почти нет, боекомплект еле собрали, но другого выхода, как видите - нет.</Russian>
+<Original>It is almost out of fuel, we barely manged to scrap some ammo, but we have no other choice as you can see.</Original>
+</Key>
+<Key ID="STRM_10_intro32">
+<Russian>Так точно, товарищ генерал. Сделаем.</Russian>
+<Original>Yes, comrade general. Will do.</Original>
+</Key>
+<Key ID="STRM_10_intro33">
+<Russian>Не вижу русских тут</Russian>
+<Original>Papa bear! We don't see russians here...</Original>
+</Key>
+<Key ID="STRM_10_intro34">
+<Russian>О черт!</Russian>
+<Original>Ohhh Shit!</Original>
+</Key>
+
+<Key ID="STRM_10_marker1">
+<Russian>2й взвод 1й роты</Russian>
+<Original>2nd Platoon of the 1st Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker2">
+<Russian>3й взвод 2й роты</Russian>
+<Original>3rd Platoon of the 2nd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker3">
+<Russian>2й взвод 2й роты</Russian>
+<Original>2nd Platoon of the 2nd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker4">
+<Russian>1й взвод 1й роты</Russian>
+<Original>1st Platoon of the 1st Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker5">
+<Russian>1й 2й взвод 3й роты.</Russian>
+<Original>1st and 2nd Platoons of the 3rd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker6">
+<Russian>3й, 4й взвод 3й роты.</Russian>
+<Original>3rd, 4th Platoons of the 3rd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker7">
+<Russian>4й взвод 2й роты</Russian>
+<Original>4th Platoon of the 2nd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker8">
+<Russian>4й взвод 4й роты.</Russian>
+<Original>4th Platoon of the 4th Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker9">
+<Russian>3й взвод 4й роты.</Russian>
+<Original>3rd Platoon of the 4th Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker10">
+<Russian>2й взвод 4й роты.</Russian>
+<Original>2nd Platoon of the 4th Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker11">
+<Russian>1й взвод 4й роты.</Russian>
+<Original>1st Platoon of the 4th Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker12">
+<Russian>Взвод спецназа.</Russian>
+<Original>Special Forces Platoon</Original>
+</Key>
+
+<Key ID="STRM_10_marker13">
+<Russian>1й взвод 2й роты.</Russian>
+<Original>1st Platoon of the 2nd Company</Original>
+</Key>
+
+<Key ID="STRM_10_marker14">
+<Russian>1й танковый взвод.</Russian>
+<Original>1st Tank Platoon</Original>
+</Key>
+
+<Key ID="STRM_10_marker15">
+<Russian>Воздушно-десантные войска</Russian>
+<Original>Airborne Troops</Original>
+</Key>
+
+<Key ID="STRM_10_marker16">
+<Russian>Танки</Russian>
+<Original>Tanks</Original>
+</Key>
+
+<Key ID="STRM_10_marker17">
+<Russian>Аэродром</Russian>
+<Original>Airfield</Original>
+</Key>
+
+
+</Container>
+</Package>
+</Project>

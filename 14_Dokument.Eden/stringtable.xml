@@ -1,0 +1,286 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Breefing">
+
+<Key ID="STR_14_Document">
+<Russian>ПЕРЕХВАТ</Russian>
+<Original>RUNNING</Original>
+</Key>
+
+<Key ID="STR_14_brif1">
+<Russian>Досье</Russian>
+<Original>Dossier</Original>
+</Key>
+<Key ID="STR_14_brif1_1">
+<Russian>
+Стивен Малколм&lt;br/&gt;
+Дата рождения: 03 января 1943 года&lt;br/&gt;
+Место рождения: США, Кэри, Северная Каролина&lt;br/&gt;
+В 1961 году поступил на службу в морскую пехоту США.&lt;br/&gt;
+С 1969 по 1973 году служба во Вьетнаме.&lt;br/&gt;
+В 1979 году поступил на службу в военную разведку.&lt;br/&gt;
+С 1981 по 1983 года данные отсутствуют.&lt;br/&gt;
+В 1984 повышен в должности до полковника.&lt;br/&gt;
+&lt;br/&gt;
+&lt;img image='foto.jpg' width='300' height='300' /&gt;
+
+
+</Russian>
+<Original>
+Stephen Malcolm&lt;br/&gt;
+Date of birth: January 3rd 1943&lt;br/&gt;
+Place of birth: USA, Carrie, North Carolina&lt;br/&gt;
+Joined US Marines in 1961.&lt;br/&gt;
+Served in Vietnam from 1969 to 1973.&lt;br/&gt;
+Joined Army Intelligence in 1979.&lt;br/&gt;
+No data from 1981 to 1983.&lt;br/&gt;
+Was promoted to Colonel in 1984.&lt;br/&gt;
+&lt;br/&gt;
+&lt;img image='foto.jpg' width='300' height='300' /&gt;
+</Original>
+</Key>
+<Key ID="STR_14_brif2">
+<Russian>Маршрут</Russian>
+<Original>Route</Original>
+</Key>
+<Key ID="STR_14_brif2_1">
+<Russian>
+В соответствие с разведданными "пассажир" отправится из Ламентина примерно в 06:30.&lt;br/&gt;
+В Ле Муле у него намечена небольшая остановка, потом "пассажир" проследует к конечной точке своего маршрута - Мортону, где его ожидает вертолет. О прибытии "пассажира" в Ле-Муль вас проинформирует осведомитель.&lt;br/&gt;
+В городах большое количество сил противника поэтому единственный шанс перехватить его где-то в пути. Территория полностью контролируется войсками США. В контакт с противником вступать крайне нежелательно, от успеха этой операции зависит многое.
+</Russian>
+<Original>
+According to our intelligence "passenger" is going to leave Lamentin around 06:30. He is planning a short stop in Le Moule, after that "passenger" will proceed to his final destination - Morton, where helicopter is waiting for him. You will be informed when &quot;passenger'  gets to Le Moule by our man.&lt;br/&gt;
+&lt;br/&gt;
+There are too many enemy troops in towns, you will have to intercept your target somewhere in-between. The territory is completely controlled by American forces. You must not get into contact with enemy forces, too much lies on this operation's success.
+</Original>
+</Key>
+
+<Key ID="STR_14_task1">
+<Russian>Ликвидировать полковника секретной службы США</Russian>
+<Original>Eliminate US Army Intelligence Colonel</Original>
+</Key>
+<Key ID="STR_14_task2">
+<Russian>Выкрасть секретные документы</Russian>
+<Original>Acquire top secret documents</Original>
+</Key>
+<Key ID="STR_14_task3">
+<Russian>Следовать к точке эвакуации</Russian>
+<Original>Get to extraction point</Original>
+</Key>
+
+<Key ID="STR_14_Passagir">
+<Russian>Стивен Малколм</Russian>
+<Original>Stiven Malkolm</Original>
+</Key>
+<Key ID="STR_14_yastreb">
+<Russian>ЯСТРЕБ</Russian>
+<Original>Hawk</Original>
+</Key>
+<Key ID="STR_14_gnezdo">
+<Russian>ГНЕЗДО</Russian>
+<Original>Nest</Original>
+</Key>
+<Key ID="STR_14_nabl">
+<Russian>НАБЛЮДАТЕЛЬ</Russian>
+<Original>Watcher</Original>
+</Key>
+
+<Key ID="STR_14_marker1">
+<Russian>Место высадки</Russian>
+<Original>Landing place</Original>
+</Key>
+<Key ID="STR_14_marker2">
+<Russian>Точка отправления "пассажира"</Russian>
+<Original>Point of departure "passenger"</Original>
+</Key>
+<Key ID="STR_14_marker3">
+<Russian>Место временной стоянки "пассажира"</Russian>
+<Original>Place of temporary parking "passenger"</Original>
+</Key>
+<Key ID="STR_14_marker4">
+<Russian>Вероятное место прибытия "пассажира"</Russian>
+<Original>Probable place of arrival "passenger"</Original>
+</Key>
+<Key ID="STR_14_marker5">
+<Russian>Точка подбора</Russian>
+<Original>Pick point</Original>
+</Key>
+
+<Key ID="STR_14_Load1">
+<Russian>ЭВЕРОН. СТАВКА КОММАНДОВАНИЯ МИРОТВОРЧЕСКИМ КОНТИНГЕНТОМ.</Russian>
+<Original>EVERON. PEACEKEEPERS HEADQUARTERS.</Original>
+</Key>
+<Key ID="STR_14_Load2">
+<Russian>СПУСТЯ НЕКОТОРОЕ ВРЕМЯ. ГДЕ-ТО У ЮЖНОЙ ЧАСТИ ОСТРОВА.</Russian>
+<Original>SOME TIME LATER. SOUTH PART OF EVERON.</Original>
+</Key>
+
+<Key ID="STRM_14_intro0_1">
+<Russian>Товарищ генерал!Капитан Селиванов по вашему приказанию прибыл!</Russian>
+<Original>Comrade general! Captain Selivanov is here as ordered!</Original>
+</Key>
+<Key ID="STRM_14_intro0_2">
+<Russian>Садись Андрюша, как ты уже понял для тебя есть дело.</Russian>
+<Original>Sit down Andrew, I have a job for you.</Original>
+</Key>
+<Key ID="STRM_14_intro0_3">
+<Russian>Вчера, в Монтиньяке, нашим патрулем был задержан американский офицер,который по ошибке заехал на нашу территорию,сам того не подозревая.</Russian>
+<Original>We arrested an enemy officer yesterday in Montignac, which managed to get to our territory by mistake, not knowing that.</Original>
+</Key>
+<Key ID="STRM_14_intro0_4">
+<Russian>Он был очень удивлен,увидев наших парней, спешащих к нему на помощь.</Russian>
+<Original>He was extremely surprised, when he saw our boys running to ""assist"" him.</Original>
+</Key>
+<Key ID="STRM_14_intro0_5">
+<Russian>Этот офицер оказался адьютантом полковника Стивена Малколма.</Russian>
+<Original>That officer was the personal assistant of colonel Steven Malcolm.</Original>
+</Key>
+<Key ID="STRM_14_intro0_6">
+<Russian>Это второе после Дулитла лицо в генштабе американцев.</Russian>
+<Original>He is second in command after Doolittle in the NATO invading force.</Original>
+</Key>
+<Key ID="STRM_14_intro0_7">
+<Russian>Отвечает за весь этот регион.</Russian>
+<Original>Responsible for this whole region.</Original>
+</Key>
+<Key ID="STRM_14_intro0_8">
+<Russian>Вот это удача!</Russian>
+<Original>We're pretty lucky!</Original>
+</Key>
+<Key ID="STRM_14_intro0_9">
+<Russian>Да. Так вот, как только мы это выяснили,наши парни из контрразведки сразу взяли в оборот этого адьютанта...</Russian>
+<Original>Yes. We learned from that officer….</Original>
+</Key>
+<Key ID="STRM_14_intro0_10">
+<Russian>Ты ведь знаешь, они умеют спрашивать. И уже через час у нас было чистосердечное признание.</Russian>
+<Original>You know that the guys over in counterintelligence know how to ask questions. He told us everything he knew.</Original>
+</Key>
+<Key ID="STRM_14_intro0_11">
+<Russian>Завтра, Стивен Малколм повезет на одобрение в генштабплан наступления американских войск.</Russian>
+<Original>Tomorrow, Steven Malcolm is going to take American  offensive plans to their heaquarters..</Original>
+</Key>
+<Key ID="STRM_14_intro0_12">
+<Russian>Андрей, Нам нужны эти документы. Нужно постараться их изъять.</Russian>
+<Original>Andrew, we need those plans. We have to get out hands on them.</Original>
+</Key>
+<Key ID="STRM_14_intro0_13">
+<Russian>Эту дело я могу доверить только тебе. Ты единственный кто способен выполнить такое задание.</Russian>
+<Original>I can only trust you with this. You're the only one capable of doing that job.</Original>
+</Key>
+<Key ID="STRM_14_intro0_14">
+<Russian>Спасибо Алексей Васильевич, я вас не подведу.</Russian>
+<Original>Thanks Alexey Vasilievich, I will not dissapoint you.</Original>
+</Key>
+<Key ID="STRM_14_intro0_15">
+<Russian>Я знаю Андрюша. Подробности операции у начальника контрразведки Ковтуна.</Russian>
+<Original>I know that. You will get the rest of the mission info from Kovtun.</Original>
+</Key>
+<Key ID="STRM_14_intro0_16">
+<Russian>Разрешите идти?</Russian>
+<Original>Can I go now?</Original>
+</Key>
+<Key ID="STRM_14_intro0_17">
+<Russian>Да, удачи.</Russian>
+<Original>Yes, good luck.</Original>
+</Key>
+
+<Key ID="STRM_14_game1_0">
+<Russian>Итак мужики. Все подробности операции вам известны. Работа предстоит не простая.</Russian>
+<Original>Ok guys. You know all the details of this operation. It is not going to be an easy job.</Original>
+</Key>
+<Key ID="STRM_14_game1_1">
+<Russian>Самое главное не поднять шухер раньше времени.</Russian>
+<Original>The most important thing is not to make too much noise.</Original>
+</Key>
+<Key ID="STRM_14_game1_2">
+<Russian>Брать будем на дороге. "Пассажир" нас не волнует, нужны только документы</Russian>
+<Original>We are going to intercept him on the road. ""Passenger"" is not important, we need those papers.</Original>
+</Key>
+<Key ID="STRM_14_game1_3">
+<Russian>Поэтому останавливать машину придется нежно и ласково, без артиллерии.</Russian>
+<Original>So we have to stop the car  very smoothly, without any heavy weapons.</Original>
+</Key>
+<Key ID="STRM_14_game1_4">
+<Russian>Всем все ясно?</Russian>
+<Original>Is that clear?</Original>
+</Key>
+<Key ID="STRM_14_game1_5">
+<Russian>Так точно!</Russian>
+<Original>Yes sir!</Original>
+</Key>
+
+<Key ID="STRM_14_radio1_0">
+<Russian>Ястреб. Это наблюдатель. Пассажир прибыл в Ле муль.</Russian>
+<Original>Hawk. This is Watcher. Passenger arrived to Le Moule.</Original>
+</Key>
+<Key ID="STRM_14_radio1_1">
+<Russian>Ястреб. Это наблюдатель. Колонна покинула Ле Муль. Направляется на восток. Пассажир во второй машине. Повторяю - пассажир во второй машине.</Russian>
+<Original>Hawk. This is Watcher. Convoy has left Le Moule. Going east. Passenger is in the second vehicle. I repeat - passenger is in the second vehicle.</Original>
+</Key>
+<Key ID="STRM_14_radio1_2">
+<Russian>Гнездо гнездо. Это ястреб. Задание выполнено. Жду дальнейших приказаний.</Russian>
+<Original>Nest nest. This is Hawk. Mission accomplished. Waiting for the further instructions.</Original>
+</Key>
+<Key ID="STRM_14_radio1_3">
+<Russian>Ястреб, ястреб. Это гнездо. Двигайтесь к месту эвакуации: квадрат DI55.</Russian>
+<Original>Hawk, hawk. This is Nest. Go to the extraction point: sector DI55.</Original>
+</Key>
+
+<Key ID="STRM_14_hint_1">
+<Russian>ДОКУМЕНТЫ НАЙДЕНЫ.</Russian>
+<Original>YOU FOUND THE DOCUMENTS.</Original>
+</Key>
+<Key ID="STRM_14_hint_2">
+<Russian>ДОКУМЕНТЫ УНИЧТОЖЕНЫ. МИССИЯ ПРОВАЛЕНА.</Russian>
+<Original>DOCUMENTS WERE DESTROYED. MISSION FAILED.</Original>
+</Key>
+<Key ID="STRM_14_hint_4">
+<Russian>ПАССАЖИР УШЕЛ. МИССИЯ ПРОВАЛЕНА.</Russian>
+<Original>PASSENGER ESCAPED. MISSION FAILED.</Original>
+</Key>
+
+<Key ID="STRM_14_action1">
+<Russian>Вытащить полковника из машины</Russian>
+<Original>Pull the colonel out of the vehicle</Original>
+</Key>
+<Key ID="STRM_14_action2">
+<Russian>Обыскать полковника</Russian>
+<Original>Search the colonel</Original>
+</Key>
+
+
+<Key ID="STR_07_titru1">
+<Russian>Над ремейком второй части работали:</Russian>
+<Original>Developers:</Original>
+</Key>
+
+<Key ID="STR_07_titru3">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt; &lt;br/&gt;создание декораций.</Russian>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]Soviet&lt;/t&gt; &lt;br/&gt;creation of scenery</Original>
+</Key>
+
+<Key ID="STR_07_titru4">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt; &lt;br/&gt;создание декораций&lt;br/&gt;работа над миссиями</Russian>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Vergessenen&lt;/t&gt; &lt;br/&gt;creation of scenery&lt;br/&gt;missionsmaker</Original>
+</Key>
+
+<Key ID="STR_07_titru8">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt; &lt;br/&gt;куратор проекта&lt;br/&gt;основной разработчик.</Russian>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;[IMB]PIONEER&lt;/t&gt; &lt;br/&gt;curator of the project&lt;br/&gt;main developer</Original>
+</Key>
+
+<Key ID="STR_07_titru9">
+<Russian>&lt;t font='PuristaBold' size='1.6'&gt;Тестирование:&lt;/t&gt; &lt;br/&gt;Vergessenen&lt;br/&gt;[IMB]rezakpower&lt;br/&gt;[IMB]BouH&lt;br/&gt;[YKT]Morfey</Russian>
+<Original>&lt;t font='PuristaBold' size='1.6'&gt;Testing:&lt;/t&gt; &lt;br/&gt;Vergessenen&lt;br/&gt;[IMB]rezakpower&lt;br/&gt;[IMB]BouH&lt;br/&gt;[YKT]Morfey</Original>
+</Key>
+
+<Key ID="STR_07_titru11">
+<Russian>&lt;t size='2'&gt;Продолжение следует...&lt;/t&gt;</Russian>
+<Original>&lt;t size='2'&gt;To be continued...&lt;/t&gt;</Original>
+</Key>
+
+
+</Container>
+</Package>
+</Project>
